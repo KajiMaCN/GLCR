@@ -1,0 +1,182 @@
+drugId,phenotypeId,drugName,phenotypeName,ncrnaCount,pmidCount,effects,levels,fda
+DrugBank:DB00188,PHENO:Breast Cancer,Bortezomib,Breast Cancer,1,1,sensitive,High,approved
+DrugBank:DB00188,PHENO:Multiple Myeloma,Bortezomib,Multiple Myeloma,33,2,resistant|sensitive,High,approved
+DrugBank:DB00305,PHENO:Colorectal Cancer,Mitomycin C,Colorectal Cancer,1,1,sensitive,High,approved
+DrugBank:DB00305,PHENO:Hepatocellular Carcinoma,Mitomycin C,Hepatocellular Carcinoma,27,2,resistant|sensitive,High,approved
+DrugBank:DB00317,PHENO:Lung Adenocarcinoma,Gefitinib,Lung Adenocarcinoma,43,2,resistant|sensitive,High,approved
+DrugBank:DB00317,PHENO:Non-Small Cell Lung Cancer,Gefitinib,Non-Small Cell Lung Cancer,318,11,resistant|sensitive,High,approved
+DrugBank:DB00361,PHENO:Breast Cancer,Vinorelbine,Breast Cancer,12,1,resistant,High,approved
+DrugBank:DB00361,PHENO:Colorectal Cancer,Vinorelbine,Colorectal Cancer,55,1,resistant|sensitive,High,approved
+DrugBank:DB00361,PHENO:Non-Small Cell Lung Cancer,Vinorelbine,Non-Small Cell Lung Cancer,31,2,resistant|sensitive,High,approved
+DrugBank:DB00398,PHENO:Hepatocellular Carcinoma,Sorafenib,Hepatocellular Carcinoma,224,11,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:Bladder Cancer,Gemcitabine,Bladder Cancer,41,1,resistant,High,approved
+DrugBank:DB00441,PHENO:Cholangiocarcinoma,Gemcitabine,Cholangiocarcinoma,1214,3,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:Malignant Lymphoma,Gemcitabine,Malignant Lymphoma,1,1,resistant,High,approved
+DrugBank:DB00441,PHENO:Non-Small Cell Lung Cancer,Gemcitabine,Non-Small Cell Lung Cancer,10,1,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:Ovarian Cancer,Gemcitabine,Ovarian Cancer,4,1,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:Pancreatic Cancer,Gemcitabine,Pancreatic Cancer,1257,10,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:Pancreatic Ductal Adenocarcinoma,Gemcitabine,Pancreatic Ductal Adenocarcinoma,17,1,resistant|sensitive,High,approved
+DrugBank:DB00441,PHENO:pancreatic cancer,Gemcitabine,pancreatic cancer,19,1,resistant|sensitive,High,approved
+DrugBank:DB00445,PHENO:Breast Cancer,Epirubicin,Breast Cancer,21,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Bladder Cancer,Cisplatin,Bladder Cancer,20,2,sensitive,High,approved
+DrugBank:DB00515,PHENO:Brca2-Mutated Ovarian Cancer,Cisplatin,Brca2-Mutated Ovarian Cancer,1,1,resistant,High,approved
+DrugBank:DB00515,PHENO:Breast Cancer,Cisplatin,Breast Cancer,36,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Cervical Cancer,Cisplatin,Cervical Cancer,100,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Colorectal Cancer,Cisplatin,Colorectal Cancer,22,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Ehrlich Ascites Tumor,Cisplatin,Ehrlich Ascites Tumor,13,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Epithelial Ovarian Cancer,Cisplatin,Epithelial Ovarian Cancer,55,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Esophageal Adenocarcinoma,Cisplatin,Esophageal Adenocarcinoma,17,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Esophageal Cancer,Cisplatin,Esophageal Cancer,39,3,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Esophageal Squamous Cell Carcinoma,Cisplatin,Esophageal Squamous Cell Carcinoma,34,3,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Gallbladder Cancer,Cisplatin,Gallbladder Cancer,55,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Gastric Cancer,Cisplatin,Gastric Cancer,271,9,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Germ Cell Tumor,Cisplatin,Germ Cell Tumor,68,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Hepatocellular Carcinoma,Cisplatin,Hepatocellular Carcinoma,29,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Hypopharyngeal Cancer,Cisplatin,Hypopharyngeal Cancer,4520,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Hypopharyngeal Squamous Cell Carcinoma,Cisplatin,Hypopharyngeal Squamous Cell Carcinoma,308,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Laryngeal Cancer,Cisplatin,Laryngeal Cancer,7,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Lung Adenocarcinoma,Cisplatin,Lung Adenocarcinoma,128,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Lung Squamous Cell Carcinoma,Cisplatin,Lung Squamous Cell Carcinoma,1,1,resistant,High,approved
+DrugBank:DB00515,PHENO:Non-Small Cell Lung Cancer,Cisplatin,Non-Small Cell Lung Cancer,221,8,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Osteosarcoma,Cisplatin,Osteosarcoma,47,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Ovarian Cancer,Cisplatin,Ovarian Cancer,411,25,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Pancreatic Cancer,Cisplatin,Pancreatic Cancer,56,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Renal Cell Cancer,Cisplatin,Renal Cell Cancer,6,1,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Small Cell Lung Cancer,Cisplatin,Small Cell Lung Cancer,242,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:Tongue Squamous Cell Carcinoma,Cisplatin,Tongue Squamous Cell Carcinoma,40,2,resistant|sensitive,High,approved
+DrugBank:DB00515,PHENO:lung squamous cell carcinoma,Cisplatin,lung squamous cell carcinoma,32,1,resistant|sensitive,High,approved
+DrugBank:DB00526,PHENO:Colon Cancer,Oxaliplatin,Colon Cancer,1,1,sensitive,High,approved
+DrugBank:DB00526,PHENO:Colorectal Cancer,Oxaliplatin,Colorectal Cancer,365,14,resistant|sensitive,High,approved
+DrugBank:DB00526,PHENO:Esophageal Squamous Cell Carcinoma,Oxaliplatin,Esophageal Squamous Cell Carcinoma,12,1,resistant|sensitive,High,approved
+DrugBank:DB00526,PHENO:Gastric Cancer,Oxaliplatin,Gastric Cancer,427,1,resistant|sensitive,High,approved
+DrugBank:DB00526,PHENO:Hepatocellular Carcinoma,Oxaliplatin,Hepatocellular Carcinoma,121,2,resistant|sensitive,High,approved
+DrugBank:DB00530,PHENO:Epithelial Cancer,Erlotinib,Epithelial Cancer,13,1,resistant|sensitive,High,approved
+DrugBank:DB00530,PHENO:Head And Neck Squamous Cell Carcinoma,Erlotinib,Head And Neck Squamous Cell Carcinoma,20,1,resistant|sensitive,High,approved
+DrugBank:DB00530,PHENO:Non-Small Cell Lung Cancer,Erlotinib,Non-Small Cell Lung Cancer,59,4,resistant|sensitive,High,approved
+DrugBank:DB00531,PHENO:Breast Cancer,Cyclophosphamide,Breast Cancer,33,1,resistant|sensitive,High,approved
+DrugBank:DB00531,PHENO:Diffuse Large B-Cell Lymphoma,Cyclophosphamide,Diffuse Large B-Cell Lymphoma,17,1,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Colon Cancer,Vincristine,Colon Cancer,20,1,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Colorectal Cancer,Vincristine,Colorectal Cancer,70,2,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Diffuse Large B-Cell Lymphoma,Vincristine,Diffuse Large B-Cell Lymphoma,23,2,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Gastric Cancer,Vincristine,Gastric Cancer,32,2,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Hepatocellular Carcinoma,Vincristine,Hepatocellular Carcinoma,25,1,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Laryngeal Cancer,Vincristine,Laryngeal Cancer,7,1,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:Lymphoblastic Leukemia,Vincristine,Lymphoblastic Leukemia,16,1,resistant|sensitive,High,approved
+DrugBank:DB00541,PHENO:colon cancer,Vincristine,colon cancer,42,1,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Breast Cancer,Fluorouracil,Breast Cancer,33,1,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Colon Cancer,Fluorouracil,Colon Cancer,26,1,resistant,High,approved
+DrugBank:DB00544,PHENO:Colorectal Cancer,Fluorouracil,Colorectal Cancer,165,6,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Esophageal Adenocarcinoma,Fluorouracil,Esophageal Adenocarcinoma,17,1,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Esophageal Cancer,Fluorouracil,Esophageal Cancer,3,1,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Esophageal Squamous Cell Carcinoma,Fluorouracil,Esophageal Squamous Cell Carcinoma,29,3,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Gastric Cancer,Fluorouracil,Gastric Cancer,542,5,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Hepatocellular Carcinoma,Fluorouracil,Hepatocellular Carcinoma,1,1,sensitive,High,approved
+DrugBank:DB00544,PHENO:Laryngeal Cancer,Fluorouracil,Laryngeal Cancer,7,1,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Pancreatic Cancer,Fluorouracil,Pancreatic Cancer,278,2,resistant|sensitive,High,approved
+DrugBank:DB00544,PHENO:Rectal Cancer,Fluorouracil,Rectal Cancer,4,1,resistant|sensitive,High,approved
+DrugBank:DB00563,PHENO:Breast Cancer,Methotrexate,Breast Cancer,33,1,resistant|sensitive,High,approved
+DrugBank:DB00563,PHENO:Colon Cancer,Methotrexate,Colon Cancer,10,1,resistant|sensitive,High,approved
+DrugBank:DB00563,PHENO:Colorectal Adenocarcinoma,Methotrexate,Colorectal Adenocarcinoma,42,1,resistant|sensitive,High,approved
+DrugBank:DB00563,PHENO:Colorectal Cancer,Methotrexate,Colorectal Cancer,24,2,resistant|sensitive,High,approved
+DrugBank:DB00563,PHENO:Osteosarcoma,Methotrexate,Osteosarcoma,47,2,resistant|sensitive,High,approved
+DrugBank:DB00619,PHENO:Chronic Myelogenous Leukemia,Imatinib,Chronic Myelogenous Leukemia,233,5,resistant|sensitive,High,approved
+DrugBank:DB00619,PHENO:Chronic Myeloid Leukemia,Imatinib,Chronic Myeloid Leukemia,4,1,sensitive,High,approved
+DrugBank:DB00619,PHENO:Gastrointestinal Stromal Tumor,Imatinib,Gastrointestinal Stromal Tumor,152,3,resistant|sensitive,High,approved
+DrugBank:DB00619,PHENO:Myelogenous Leukemia,Imatinib,Myelogenous Leukemia,28,1,resistant|sensitive,High,approved
+DrugBank:DB00619,PHENO:Primary Gastrointestinal Stromal Tumor,Imatinib,Primary Gastrointestinal Stromal Tumor,10,1,resistant|sensitive,High,approved
+DrugBank:DB00642,PHENO:Gastric Cancer,Pemetrexed,Gastric Cancer,43,1,resistant|sensitive,High,approved
+DrugBank:DB00661,PHENO:Breast Cancer,Verapamil,Breast Cancer,179,1,resistant|sensitive,High,approved
+DrugBank:DB00675,PHENO:Breast Cancer,Tamoxifen,Breast Cancer,322,13,resistant|sensitive,High,approved
+DrugBank:DB00694,PHENO:Acute Myeloid Leukemia,Daunorubicin,Acute Myeloid Leukemia,1,1,sensitive,High,approved
+DrugBank:DB00694,PHENO:Acute Promyelocytic Leukemia,Daunorubicin,Acute Promyelocytic Leukemia,29,1,resistant|sensitive,High,approved
+DrugBank:DB00694,PHENO:Breast Cancer,Anthracycline,Breast Cancer,34,2,resistant|sensitive,High,approved
+DrugBank:DB00694,PHENO:Lymphoblastic Leukemia,Daunorubicin,Lymphoblastic Leukemia,16,1,resistant|sensitive,High,approved
+DrugBank:DB00715,PHENO:Normal,Paroxetine,Normal,37,1,resistant|sensitive,High,approved
+DrugBank:DB00773,PHENO:Breast Cancer,Etoposide,Breast Cancer,41,2,resistant|sensitive,High,approved
+DrugBank:DB00773,PHENO:Colorectal Cancer,Etoposide,Colorectal Cancer,55,1,resistant|sensitive,High,approved
+DrugBank:DB00773,PHENO:Osteosarcoma,Etoposide,Osteosarcoma,1,1,resistant,High,approved
+DrugBank:DB00773,PHENO:Small Cell Lung Cancer,Etoposide,Small Cell Lung Cancer,8,1,resistant|sensitive,High,approved
+DrugBank:DB00811,PHENO:Chronic Hepatitis C,Ribavirin,Chronic Hepatitis C,8,1,resistant|sensitive,High,approved
+DrugBank:DB00853,PHENO:Glioblastoma,Temozolomide,Glioblastoma,464,6,resistant|sensitive,High,approved
+DrugBank:DB00853,PHENO:Glioma,Temozolomide,Glioma,80,2,resistant|sensitive,High,approved
+DrugBank:DB00860,PHENO:Lymphoblastic Leukemia,Prednisolone,Lymphoblastic Leukemia,16,1,resistant|sensitive,High,approved
+DrugBank:DB00877,PHENO:Breast Cancer,Sirolimus,Breast Cancer,1,1,resistant,High,approved
+DrugBank:DB00928,PHENO:Acute Myeloid Leukemia,Azacitidine,Acute Myeloid Leukemia,36,2,resistant|sensitive,High,approved
+DrugBank:DB00947,PHENO:Breast Cancer,Fulvestrant,Breast Cancer,198,2,resistant|sensitive,High,approved
+DrugBank:DB00958,PHENO:Hepatocellular Carcinoma,Carboplatin,Hepatocellular Carcinoma,27,2,resistant|sensitive,High,approved
+DrugBank:DB00958,PHENO:Osteosarcoma,Carboplatin,Osteosarcoma,1,1,resistant,High,approved
+DrugBank:DB00958,PHENO:Ovarian Cancer,Carboplatin,Ovarian Cancer,12,1,resistant|sensitive,High,approved
+DrugBank:DB00987,PHENO:Acute Myeloid Leukemia,Cytarabine,Acute Myeloid Leukemia,1,1,sensitive,High,approved
+DrugBank:DB00987,PHENO:Malignant Lymphoma,Cytarabine,Malignant Lymphoma,1,1,resistant,High,approved
+DrugBank:DB00990,PHENO:Breast Cancer,Exemestane,Breast Cancer,1,1,resistant,High,approved
+DrugBank:DB00997,PHENO:Acute Myeloid Leukemia,Doxorubicin,Acute Myeloid Leukemia,28,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Anaplastic Thyroid Cancer,Doxorubicin,Anaplastic Thyroid Cancer,30,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Breast Cancer,Doxorubicin,Breast Cancer,392,12,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Chronic Myelogenous Leukemia,Doxorubicin,Chronic Myelogenous Leukemia,74,2,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Colorectal Cancer,Doxorubicin,Colorectal Cancer,56,2,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Diffuse Large B-Cell Lymphoma,Doxorubicin,Diffuse Large B-Cell Lymphoma,13,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Ehrlich Ascites Tumor,Doxorubicin,Ehrlich Ascites Tumor,13,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Esophageal Cancer,Doxorubicin,Esophageal Cancer,3,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Gastric Cancer,Doxorubicin,Gastric Cancer,56,4,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Hepatocellular Carcinoma,Doxorubicin,Hepatocellular Carcinoma,173,5,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Leukemia,Doxorubicin,Leukemia,26,2,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Osteosarcoma,Doxorubicin,Osteosarcoma,52,3,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Ovarian Cancer,Doxorubicin,Ovarian Cancer,13,2,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:Small Cell Lung Cancer,Doxorubicin,Small Cell Lung Cancer,23,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:The Ewing Sarcoma/Primitive Neuroectodermal Tumor,Doxorubicin,The Ewing Sarcoma/Primitive Neuroectodermal Tumor,2,1,resistant,High,approved
+DrugBank:DB00997,PHENO:Triple-Negative Breast Cancer,Doxorubicin,Triple-Negative Breast Cancer,50,1,resistant|sensitive,High,approved
+DrugBank:DB00997,PHENO:osteosarcoma,Doxorubicin,osteosarcoma,19,1,resistant|sensitive,High,approved
+DrugBank:DB01006,PHENO:Breast Cancer,Letrozole,Breast Cancer,2,2,resistant|sensitive,High,approved
+DrugBank:DB01030,PHENO:Ovarian Cancer,Topotecan,Ovarian Cancer,11,2,resistant|sensitive,High,approved
+DrugBank:DB01101,PHENO:Colorectal Cancer,Capecitabine,Colorectal Cancer,3,1,sensitive,High,approved
+DrugBank:DB01101,PHENO:Rectal Adenocarcinoma,Capecitabine,Rectal Adenocarcinoma,3,1,resistant,High,approved
+DrugBank:DB01101,PHENO:Rectal Cancer,Capecitabine,Rectal Cancer,4,1,resistant|sensitive,High,approved
+DrugBank:DB01200,PHENO:Prolactinoma,Bromocriptine,Prolactinoma,20,1,resistant|sensitive,High,approved
+DrugBank:DB01202,PHENO:Epilepsy,Levetiracetam,Epilepsy,1,1,resistant,High,approved
+DrugBank:DB01204,PHENO:Breast Cancer,Mitoxantrone,Breast Cancer,46,2,resistant|sensitive,High,approved
+DrugBank:DB01217,PHENO:Breast Cancer,Anastrozole,Breast Cancer,1,1,resistant,High,approved
+DrugBank:DB01229,PHENO:Breast Cancer,Paclitaxel,Breast Cancer,112,9,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Colorectal Cancer,Paclitaxel,Colorectal Cancer,55,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Endometrial Cancer,Paclitaxel,Endometrial Cancer,20,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Endometrial Serous Carcinoma,Paclitaxel,Endometrial Serous Carcinoma,62,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Epithelial Ovarian Cancer,Paclitaxel,Epithelial Ovarian Cancer,33,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Gastric Cancer,Taxol,Gastric Cancer,14,2,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Hepatocellular Carcinoma,Taxol,Hepatocellular Carcinoma,4,2,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Laryngeal Cancer,Paclitaxel,Laryngeal Cancer,48,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Lung Adenocarcinoma,Paclitaxel,Lung Adenocarcinoma,38,3,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Melanoma,Taxol,Melanoma,3,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Nasopharyngeal Cancer,Paclitaxel,Nasopharyngeal Cancer,21,3,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Non-Small Cell Lung Cancer,Paclitaxel,Non-Small Cell Lung Cancer,319,5,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Ovarian Cancer,Paclitaxel,Ovarian Cancer,177,13,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Pan-Cancer,Paclitaxel,Pan-Cancer,35,1,resistant|sensitive,High,approved
+DrugBank:DB01229,PHENO:Prostate Cancer,Paclitaxel,Prostate Cancer,30,2,resistant|sensitive,High,approved
+DrugBank:DB01234,PHENO:Myeloma,Dexamethasone,Myeloma,21,1,resistant|sensitive,High,approved
+DrugBank:DB01248,PHENO:Breast Cancer,Docetaxel,Breast Cancer,859,8,resistant|sensitive,High,approved
+DrugBank:DB01248,PHENO:Gastric Cancer,Docetaxel,Gastric Cancer,5,1,resistant|sensitive,High,approved
+DrugBank:DB01248,PHENO:Head And Neck Squamous Cell Carcinoma,Docetaxel,Head And Neck Squamous Cell Carcinoma,7,1,resistant|sensitive,High,approved
+DrugBank:DB01248,PHENO:Non-Small Cell Lung Cancer,Docetaxel,Non-Small Cell Lung Cancer,6,1,resistant|sensitive,High,approved
+DrugBank:DB01248,PHENO:Ovarian Cancer,Docetaxel,Ovarian Cancer,6,1,resistant,High,approved
+DrugBank:DB01248,PHENO:Prostate Cancer,Docetaxel,Prostate Cancer,51,3,resistant|sensitive,High,approved
+DrugBank:DB01259,PHENO:Pan-Cancer,Lapatinib,Pan-Cancer,44,1,resistant|sensitive,High,approved
+DrugBank:DB01268,PHENO:Breast Cancer,Sunitinib,Breast Cancer,1,1,sensitive,High,approved
+DrugBank:DB01268,PHENO:Metastatic Renal Cell Carcinoma,Sunitinib,Metastatic Renal Cell Carcinoma,4,1,resistant,High,approved
+DrugBank:DB01268,PHENO:Renal Cell Cancer,Sunitinib,Renal Cell Cancer,84,3,resistant|sensitive,High,approved
+DrugBank:DB01698,PHENO:Hepatocellular Carcinoma,Rutin,Hepatocellular Carcinoma,1,1,resistant,High,approved
+DrugBank:DB02546,PHENO:Hepatocellular Carcinoma,Vorinostat,Hepatocellular Carcinoma,5,1,sensitive,High,approved
+DrugBank:DB06603,PHENO:Breast Cancer,Panobinostat,Breast Cancer,1,1,sensitive,High,approved
+DrugBank:DB06603,PHENO:Non-Small Cell Lung Cancer,Panobinostat,Non-Small Cell Lung Cancer,16,1,resistant|sensitive,High,approved
+DrugBank:DB06772,PHENO:Prostate Cancer,Cabazitaxel,Prostate Cancer,1,1,sensitive,High,approved
+DrugBank:DB08865,PHENO:Non-Small Cell Lung Cancer,Crizotinib,Non-Small Cell Lung Cancer,37,2,resistant|sensitive,High,approved
+DrugBank:DB08881,PHENO:Melanoma,Vemurafenib,Melanoma,420,7,resistant|sensitive,High,approved
+DrugBank:DB08899,PHENO:Prostate Cancer,Enzalutamide,Prostate Cancer,16,1,resistant|sensitive,High,approved
+DrugBank:DB08901,PHENO:Chronic Myelogenous Leukemia,Ponatinib,Chronic Myelogenous Leukemia,34,1,resistant|sensitive,High,approved
+DrugBank:DB08911,PHENO:Melanoma,Trametinib,Melanoma,197,2,resistant|sensitive,High,approved
+DrugBank:DB08912,PHENO:Melanoma,Dabrafenib,Melanoma,308,4,resistant|sensitive,High,approved
+DrugBank:DB09063,PHENO:Non-Small Cell Lung Cancer,Ceritinib,Non-Small Cell Lung Cancer,458,1,resistant|sensitive,High,approved
+DrugBank:DB09073,PHENO:Breast Cancer,Palbociclib,Breast Cancer,41,2,resistant|sensitive,High,approved
+DrugBank:DB09074,PHENO:Brca2-Mutated Ovarian Cancer,Olaparib,Brca2-Mutated Ovarian Cancer,1,1,resistant,High,approved
+DrugBank:DB09078,PHENO:Hepatocellular Carcinoma,Lenvatinib,Hepatocellular Carcinoma,22,1,resistant,High,approved
+DrugBank:DB09079,PHENO:Non-Small Cell Lung Cancer,Nintedanib,Non-Small Cell Lung Cancer,4,1,resistant|sensitive,High,approved
+DrugBank:DB09330,PHENO:Lung Adenocarcinoma,Osimertinib,Lung Adenocarcinoma,9,2,resistant|sensitive,High,approved
+DrugBank:DB11672,PHENO:Breast Cancer,Curcumin,Breast Cancer,67,1,sensitive,High,approved
+DrugBank:DB12130,PHENO:Non-Small Cell Lung Cancer,Lorlatinib,Non-Small Cell Lung Cancer,8,1,resistant,High,approved

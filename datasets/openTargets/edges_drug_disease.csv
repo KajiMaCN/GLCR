@@ -1,0 +1,3333 @@
+drugId,diseaseId,max_phase,labels,statuses
+CHEMBL1000,EFO_0005751,4.0,eye allergy,
+CHEMBL1000,MONDO_0005271,4.0,allergic disease,Completed
+CHEMBL100116,HP_0012531,4.0,Pain,Completed
+CHEMBL1009,MONDO_0005180,4.0,Parkinson disease,"Active, not recruiting | Enrolling by invitation | Terminated | Withdrawn | Completed | Recruiting"
+CHEMBL1014,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1014,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1014,EFO_0000537,4.0,hypertension,Unknown status | Completed
+CHEMBL1014,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1014,EFO_0000712,4.0,stroke,
+CHEMBL1014,EFO_0003144,4.0,heart failure,Completed
+CHEMBL1014,EFO_0003913,4.0,angina pectoris,Unknown status
+CHEMBL1017,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1017,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1017,EFO_0000537,4.0,hypertension,Completed | Terminated | Unknown status
+CHEMBL1017,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1017,EFO_0000712,4.0,stroke,Completed
+CHEMBL1025,MONDO_0005041,4.0,glaucoma,
+CHEMBL1029,MONDO_0018150,4.0,Gaucher disease,
+CHEMBL103,MONDO_0001836,4.0,amenorrhea,Completed
+CHEMBL103,MP_0001914,4.0,hemorrhage,Completed
+CHEMBL1042,EFO_0003882,4.0,osteoporosis,Recruiting | Completed | Unknown status
+CHEMBL1042,EFO_0004272,4.0,anemia (phenotype),
+CHEMBL1046,MP_0001914,4.0,hemorrhage,Completed | Unknown status
+CHEMBL1051,EFO_0004190,4.0,open-angle glaucoma,Completed | Recruiting | Unknown status | Withdrawn
+CHEMBL1051,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL1051,MONDO_0005041,4.0,glaucoma,Unknown status | Completed | Recruiting | Terminated
+CHEMBL1054,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1055,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1055,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1055,EFO_0000537,4.0,hypertension,Withdrawn | Completed | Unknown status
+CHEMBL1055,EFO_0000668,4.0,preeclampsia,
+CHEMBL1055,EFO_0003144,4.0,heart failure,Recruiting
+CHEMBL1055,EFO_0003884,4.0,chronic kidney disease,Suspended | Unknown status
+CHEMBL1055,EFO_0003913,4.0,angina pectoris,
+CHEMBL1055,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1055,MONDO_0002462,4.0,glomerulonephritis,
+CHEMBL1064,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1064,EFO_0000612,4.0,myocardial infarction,Completed
+CHEMBL1064,EFO_0000712,4.0,stroke,Completed
+CHEMBL1064,EFO_0001645,4.0,coronary artery disease,Completed | Unknown status
+CHEMBL1064,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL1064,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL1064,HP_0003124,4.0,Hypercholesterolemia,Completed
+CHEMBL1064,MONDO_0021187,4.0,hyperlipidemia,Completed
+CHEMBL1069,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1069,EFO_0000373,4.0,congestive heart failure,Recruiting | Terminated
+CHEMBL1069,EFO_0000400,4.0,diabetes mellitus,Completed | Unknown status
+CHEMBL1069,EFO_0000537,4.0,hypertension,"Terminated | Active, not recruiting | Completed"
+CHEMBL1069,EFO_0000612,4.0,myocardial infarction,Completed | Not yet recruiting
+CHEMBL1069,EFO_0000712,4.0,stroke,Withdrawn
+CHEMBL1069,EFO_0003144,4.0,heart failure,"Withdrawn | Active, not recruiting | Completed | Recruiting | Terminated"
+CHEMBL1070,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL1070,EFO_0005755,4.0,rheumatic disease,
+CHEMBL1070,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL1072,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1072,EFO_0000373,4.0,congestive heart failure,Recruiting
+CHEMBL1072,EFO_0003086,4.0,kidney disease,
+CHEMBL1072,EFO_0003144,4.0,heart failure,Completed | Recruiting
+CHEMBL1072,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1079742,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL1082407,EFO_0000196,4.0,metastatic prostate cancer,Unknown status
+CHEMBL1082407,EFO_0000616,4.0,neoplasm,
+CHEMBL1082407,EFO_0000673,4.0,prostate adenocarcinoma,Completed
+CHEMBL1082407,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL1082407,MONDO_0008315,4.0,prostate cancer,"Terminated | Unknown status | Active, not recruiting | Completed"
+CHEMBL1082607,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Recruiting
+CHEMBL1082607,EFO_0000464,4.0,emphysema,
+CHEMBL1082607,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1082607,MONDO_0004979,4.0,asthma,Completed | Terminated | Recruiting
+CHEMBL1083385,EFO_0000556,4.0,ischemia,
+CHEMBL1083385,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1083385,EFO_0000712,4.0,stroke,
+CHEMBL1083385,EFO_0004265,4.0,peripheral arterial disease,
+CHEMBL1083385,EFO_0005672,4.0,acute coronary syndrome,Completed | Terminated
+CHEMBL1083993,EFO_0004287,4.0,ventricular fibrillation,
+CHEMBL1083993,EFO_0005306,4.0,ventricular tachycardia,
+CHEMBL1083993,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL1084172,EFO_0000341,4.0,chronic obstructive pulmonary disease,Withdrawn
+CHEMBL1084172,EFO_0000464,4.0,emphysema,
+CHEMBL1084172,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1084172,MONDO_0004979,4.0,asthma,
+CHEMBL1085,EFO_0005407,4.0,psychosis,
+CHEMBL1086,EFO_0003958,4.0,sunburn,
+CHEMBL1086,EFO_0009552,4.0,hemorrhoid,
+CHEMBL1086,HP_0000989,4.0,Pruritus,
+CHEMBL10878,MONDO_0002009,4.0,major depressive disorder,Completed | Unknown status
+CHEMBL1088,EFO_0005407,4.0,psychosis,
+CHEMBL1089318,MONDO_0005180,4.0,Parkinson disease,"Completed | Active, not recruiting | Recruiting"
+CHEMBL109,EFO_0000474,4.0,epilepsy,"Completed | Recruiting | Active, not recruiting | Unknown status"
+CHEMBL109,EFO_0009963,4.0,bipolar I disorder,Completed
+CHEMBL109,EFO_1000877,4.0,complex partial epilepsy,
+CHEMBL109,HP_0001250,4.0,Seizure,
+CHEMBL109,HP_0002121,4.0,Generalized non-motor (absence) seizure,
+CHEMBL109,MONDO_0004985,4.0,bipolar disorder,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL1091,EFO_0000701,4.0,skin disease,
+CHEMBL1091,HP_0000989,4.0,Pruritus,
+CHEMBL1091,MP_0001845,4.0,inflammation,
+CHEMBL1094636,EFO_0000616,4.0,neoplasm,
+CHEMBL1094966,HP_0006536,4.0,Airway obstruction,
+CHEMBL1095097,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1095097,EFO_0000373,4.0,congestive heart failure,Completed
+CHEMBL1095097,EFO_0000537,4.0,hypertension,Completed | Recruiting | Withdrawn
+CHEMBL1095097,EFO_0000612,4.0,myocardial infarction,Completed
+CHEMBL1095097,EFO_0003144,4.0,heart failure,
+CHEMBL1095607,HP_0006536,4.0,Airway obstruction,
+CHEMBL1095777,HP_0006536,4.0,Airway obstruction,
+CHEMBL1096146,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL1096146,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL1096885,EFO_0000313,4.0,carcinoma,
+CHEMBL1096885,EFO_0000616,4.0,neoplasm,
+CHEMBL1097279,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1097279,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1098,HP_0012531,4.0,Pain,"Active, not recruiting | Completed | Enrolling by invitation | Not yet recruiting | Terminated | Withdrawn | Recruiting | Suspended | Unknown status"
+CHEMBL11,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL11,MONDO_0002050,4.0,depressive disorder,Terminated | Completed
+CHEMBL1101,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1106,EFO_0005751,4.0,eye allergy,
+CHEMBL1106,MONDO_0005271,4.0,allergic disease,
+CHEMBL1108,EFO_0004888,4.0,post operative nausea and vomiting,Completed
+CHEMBL1108,EFO_0005407,4.0,psychosis,
+CHEMBL1108,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL111,EFO_0001073,4.0,obesity,Terminated
+CHEMBL1110,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1112,EFO_0003015,4.0,aggressive behavior,
+CHEMBL1112,EFO_0003758,4.0,autism,Unknown status | Completed
+CHEMBL1112,EFO_0004895,4.0,Tourette syndrome,Completed | Terminated
+CHEMBL1112,EFO_0005407,4.0,psychosis,Completed | Terminated | Unknown status
+CHEMBL1112,EFO_0005411,4.0,schizoaffective disorder,Completed | Terminated
+CHEMBL1112,EFO_0009963,4.0,bipolar I disorder,Unknown status
+CHEMBL1112,HP_0000713,4.0,Agitation,
+CHEMBL1112,MONDO_0002009,4.0,major depressive disorder,Completed | Terminated | Withdrawn
+CHEMBL1112,MONDO_0002050,4.0,depressive disorder,Unknown status | Completed | Terminated
+CHEMBL1112,MONDO_0004985,4.0,bipolar disorder,Completed | Terminated
+CHEMBL1112,MONDO_0005090,4.0,schizophrenia,"Active, not recruiting | Completed | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL1116,EFO_0003854,4.0,postmenopausal osteoporosis,
+CHEMBL1116,EFO_0003882,4.0,osteoporosis,
+CHEMBL1116,MONDO_0007254,4.0,breast cancer,
+CHEMBL1117,EFO_0000616,4.0,neoplasm,
+CHEMBL1118,MONDO_0002009,4.0,major depressive disorder,Unknown status | Completed
+CHEMBL1118,MONDO_0002050,4.0,depressive disorder,Completed | Unknown status
+CHEMBL112,EFO_0005856,4.0,arthritis,
+CHEMBL112,EFO_0007214,4.0,common cold,Completed
+CHEMBL112,EFO_0007328,4.0,influenza,Completed | Not yet recruiting
+CHEMBL112,EFO_0009846,4.0,muscle cramp,
+CHEMBL112,EFO_0010072,4.0,toothache,Completed
+CHEMBL112,HP_0001945,4.0,Fever,Completed | Terminated | Unknown status
+CHEMBL112,HP_0002315,4.0,Headache,Completed | Withdrawn
+CHEMBL112,HP_0003418,4.0,Back pain,Terminated
+CHEMBL112,HP_0012531,4.0,Pain,"Active, not recruiting | Completed | Enrolling by invitation | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL112,HP_0100607,4.0,Dysmenorrhea,Completed | Unknown status
+CHEMBL112,MONDO_0002258,4.0,pharyngitis,Completed
+CHEMBL112,MONDO_0005277,4.0,migraine disorder,"Active, not recruiting | Completed | Terminated"
+CHEMBL1123,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1133,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL1133,EFO_1000781,4.0,overactive bladder,Completed
+CHEMBL1138,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1138,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL1138,HP_0003124,4.0,Hypercholesterolemia,Completed | Unknown status
+CHEMBL1138,MONDO_0021187,4.0,hyperlipidemia,Completed
+CHEMBL1139,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1144,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1148,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1148,EFO_0000373,4.0,congestive heart failure,Completed | Recruiting
+CHEMBL1148,EFO_0000537,4.0,hypertension,Completed | Recruiting
+CHEMBL1148,EFO_0003144,4.0,heart failure,Completed | Unknown status | Terminated
+CHEMBL1152,EFO_0007141,4.0,allergic conjunctivitis,Completed
+CHEMBL1152,HP_0000559,4.0,Corneal scarring,
+CHEMBL1152,MONDO_0002280,4.0,anemia,
+CHEMBL1152,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL1152,MP_0001845,4.0,inflammation,Completed
+CHEMBL1159650,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL1159650,EFO_0000701,4.0,skin disease,
+CHEMBL1159650,EFO_1001494,4.0,psoriasis vulgaris,Completed
+CHEMBL1159717,HP_0006536,4.0,Airway obstruction,
+CHEMBL1161,EFO_0000701,4.0,skin disease,
+CHEMBL1161,EFO_0003956,4.0,seasonal allergic rhinitis,Completed | Unknown status
+CHEMBL1161,EFO_0005854,4.0,allergic rhinitis,"Active, not recruiting | Completed"
+CHEMBL1161,EFO_1000391,4.0,Nasal Cavity Polyp,Terminated
+CHEMBL1161,HP_0001742,4.0,Nasal congestion,
+CHEMBL1161,HP_0006536,4.0,Airway obstruction,
+CHEMBL1161,HP_0100582,4.0,Nasal polyposis,
+CHEMBL1161,MONDO_0004979,4.0,asthma,Completed | Terminated
+CHEMBL1164729,EFO_0004274,4.0,gout,Completed | Enrolling by invitation
+CHEMBL1164729,EFO_0009104,4.0,hyperuricemia,Completed | Recruiting
+CHEMBL1165,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1166,HP_0001873,4.0,Thrombocytopenia,Terminated | Completed | Withdrawn
+CHEMBL1166,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1166,MONDO_0000831,4.0,thrombotic disease,Completed
+CHEMBL1168,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1168,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1168,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1168,EFO_0000537,4.0,hypertension,Completed | Recruiting | Withdrawn
+CHEMBL1168,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1168,EFO_0000712,4.0,stroke,
+CHEMBL1168,EFO_0001645,4.0,coronary artery disease,Completed | Recruiting | Terminated
+CHEMBL1168,EFO_0003144,4.0,heart failure,
+CHEMBL1172,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1172,EFO_0005531,4.0,urticaria,Terminated | Completed
+CHEMBL1172,EFO_0005854,4.0,allergic rhinitis,Completed
+CHEMBL1172,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",Completed
+CHEMBL1172,MONDO_0005271,4.0,allergic disease,Completed
+CHEMBL117287,HP_0002019,4.0,Constipation,Completed
+CHEMBL117785,EFO_0004152,4.0,chorea,
+CHEMBL117785,MONDO_0007739,4.0,Huntington disease,Completed | Recruiting
+CHEMBL118,EFO_0000616,4.0,neoplasm,
+CHEMBL118,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL118,EFO_0000712,4.0,stroke,
+CHEMBL118,EFO_0002609,4.0,juvenile idiopathic arthritis,Completed
+CHEMBL118,EFO_0003898,4.0,ankylosing spondylitis,Terminated | Unknown status | Completed
+CHEMBL118,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL118,EFO_0005755,4.0,rheumatic disease,
+CHEMBL118,HP_0004398,4.0,Peptic ulcer,Completed
+CHEMBL118,HP_0012531,4.0,Pain,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL118,HP_0100607,4.0,Dysmenorrhea,
+CHEMBL118,MONDO_0003937,4.0,spondylitis,
+CHEMBL118,MONDO_0005178,4.0,osteoarthritis,Terminated | Completed | Unknown status
+CHEMBL118,MONDO_0005277,4.0,migraine disorder,
+CHEMBL118,MP_0001914,4.0,hemorrhage,
+CHEMBL118,Orphanet_733,4.0,Familial adenomatous polyposis,
+CHEMBL1184,HP_0000616,4.0,Miosis,
+CHEMBL1185,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1189432,EFO_0005751,4.0,eye allergy,
+CHEMBL1189432,HP_0001742,4.0,Nasal congestion,
+CHEMBL1189679,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,"Completed | Active, not recruiting"
+CHEMBL1189679,HP_0002018,4.0,Nausea,
+CHEMBL1193,HP_0000989,4.0,Pruritus,
+CHEMBL1193,MONDO_0005271,4.0,allergic disease,
+CHEMBL1194666,EFO_0001073,4.0,obesity,Terminated
+CHEMBL1200322,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1200322,EFO_1001892,4.0,generalized anxiety disorder,
+CHEMBL1200322,MONDO_0002009,4.0,major depressive disorder,Unknown status
+CHEMBL1200328,EFO_0002970,4.0,muscular disease,
+CHEMBL1200328,EFO_0005687,4.0,fibromyalgia,Completed
+CHEMBL1200328,EFO_0005762,4.0,neuropathic pain,
+CHEMBL1200328,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1200328,EFO_1000783,4.0,diabetic neuropathy,Completed
+CHEMBL1200328,HP_0010992,4.0,Stress urinary incontinence,Completed
+CHEMBL1200328,HP_0012532,4.0,Chronic pain,
+CHEMBL1200328,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL1200332,MONDO_0002050,4.0,depressive disorder,
+CHEMBL1200335,EFO_0000616,4.0,neoplasm,
+CHEMBL1200335,EFO_1001078,4.0,orchitis,
+CHEMBL1200335,HP_0000044,4.0,Hypogonadotropic hypogonadism,
+CHEMBL1200335,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1200343,EFO_0000537,4.0,hypertension,
+CHEMBL1200343,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1200343,EFO_0001645,4.0,coronary artery disease,
+CHEMBL1200374,EFO_0000305,4.0,breast carcinoma,Completed
+CHEMBL1200374,EFO_0000616,4.0,neoplasm,
+CHEMBL1200374,EFO_0003869,4.0,breast neoplasm,Completed | Terminated
+CHEMBL1200374,MONDO_0007254,4.0,breast cancer,Recruiting | Completed
+CHEMBL1200383,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1200384,EFO_0000544,4.0,infection,
+CHEMBL1200384,EFO_0000676,4.0,psoriasis,Completed | Recruiting
+CHEMBL1200384,EFO_0000701,4.0,skin disease,
+CHEMBL1200384,EFO_1001494,4.0,psoriasis vulgaris,Completed
+CHEMBL1200386,EFO_0000701,4.0,skin disease,
+CHEMBL1200395,HP_0012531,4.0,Pain,
+CHEMBL1200396,HP_0012531,4.0,Pain,"Active, not recruiting | Completed | Enrolling by invitation | Recruiting | Unknown status | Withdrawn | Not yet recruiting | Terminated"
+CHEMBL1200399,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1200399,EFO_1001892,4.0,generalized anxiety disorder,
+CHEMBL1200399,MONDO_0002050,4.0,depressive disorder,
+CHEMBL1200406,MONDO_0005271,4.0,allergic disease,
+CHEMBL1200418,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1200419,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1200430,EFO_1000096,4.0,Atrophy,
+CHEMBL1200430,GO_0042697,4.0,menopause,
+CHEMBL1200444,MONDO_0004979,4.0,asthma,
+CHEMBL1200467,EFO_0000701,4.0,skin disease,
+CHEMBL1200467,EFO_0005531,4.0,urticaria,
+CHEMBL1200467,HP_0000989,4.0,Pruritus,
+CHEMBL1200473,HP_0011499,4.0,Mydriasis,
+CHEMBL1200479,EFO_0000555,4.0,irritable bowel syndrome,
+CHEMBL1200485,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL1200485,EFO_0002892,4.0,thyroid carcinoma,
+CHEMBL1200491,EFO_0007141,4.0,allergic conjunctivitis,Completed | Withdrawn
+CHEMBL1200492,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL1200495,MONDO_0004979,4.0,asthma,
+CHEMBL1200500,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1200500,EFO_0005854,4.0,allergic rhinitis,Completed
+CHEMBL1200500,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1200500,HP_0001742,4.0,Nasal congestion,
+CHEMBL1200500,HP_0006536,4.0,Airway obstruction,
+CHEMBL1200500,MONDO_0004979,4.0,asthma,Enrolling by invitation | Completed | Unknown status
+CHEMBL1200501,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1200501,MONDO_0007254,4.0,breast cancer,Not yet recruiting
+CHEMBL1200509,MONDO_0008315,4.0,prostate cancer,
+CHEMBL1200515,EFO_0000537,4.0,hypertension,
+CHEMBL1200517,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1200521,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1200534,EFO_0000537,4.0,hypertension,
+CHEMBL1200538,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL1200538,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1200538,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL1200538,MONDO_0002280,4.0,anemia,
+CHEMBL1200538,MONDO_0002406,4.0,dermatitis,
+CHEMBL1200538,MONDO_0004979,4.0,asthma,
+CHEMBL1200545,EFO_0000701,4.0,skin disease,
+CHEMBL1200554,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL1200554,MONDO_0000088,4.0,precocious puberty,
+CHEMBL1200600,EFO_0003894,4.0,acne,
+CHEMBL1200600,EFO_0005752,4.0,eye inflammation,
+CHEMBL1200600,EFO_0009552,4.0,hemorrhoid,
+CHEMBL1200600,MP_0001845,4.0,inflammation,
+CHEMBL1200601,MONDO_0005277,4.0,migraine disorder,
+CHEMBL1200604,HP_0011499,4.0,Mydriasis,
+CHEMBL1200609,EFO_0001358,4.0,post-traumatic stress disorder,
+CHEMBL1200609,EFO_0004242,4.0,obsessive-compulsive disorder,
+CHEMBL1200609,EFO_0004262,4.0,panic disorder,
+CHEMBL1200609,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1200609,EFO_1001917,4.0,social anxiety disorder,
+CHEMBL1200609,GO_0042697,4.0,menopause,
+CHEMBL1200609,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL1200617,EFO_0005752,4.0,eye inflammation,
+CHEMBL1200618,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1200618,EFO_0005531,4.0,urticaria,Completed
+CHEMBL1200618,EFO_0005854,4.0,allergic rhinitis,Completed | Not yet recruiting
+CHEMBL1200618,MONDO_0005271,4.0,allergic disease,
+CHEMBL1200622,EFO_0003884,4.0,chronic kidney disease,Terminated | Completed
+CHEMBL1200622,EFO_0005754,4.0,parathyroid disease,
+CHEMBL1200622,EFO_1001173,4.0,secondary hyperparathyroidism,Completed | Terminated
+CHEMBL1200636,HP_0003394,4.0,Muscle spasm,
+CHEMBL1200638,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200644,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1200644,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL1200644,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL1200644,HP_0004936,4.0,Venous thrombosis,Completed
+CHEMBL1200659,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1200659,EFO_0000537,4.0,hypertension,Withdrawn | Completed | Unknown status
+CHEMBL1200659,EFO_0003144,4.0,heart failure,
+CHEMBL1200666,EFO_0000676,4.0,psoriasis,Completed | Recruiting | Terminated | Unknown status
+CHEMBL1200666,EFO_1001494,4.0,psoriasis vulgaris,"Active, not recruiting | Completed"
+CHEMBL1200671,EFO_0001065,4.0,endometriosis,
+CHEMBL1200681,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200681,EFO_0005854,4.0,allergic rhinitis,Completed
+CHEMBL1200681,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1200681,MONDO_0004979,4.0,asthma,Completed
+CHEMBL1200686,EFO_0000274,4.0,atopic eczema,Completed | Terminated
+CHEMBL1200692,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1200692,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1200692,EFO_0000537,4.0,hypertension,Completed | Unknown status
+CHEMBL1200692,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1200692,EFO_0000712,4.0,stroke,
+CHEMBL1200692,EFO_0003144,4.0,heart failure,
+CHEMBL1200699,EFO_0000544,4.0,infection,
+CHEMBL1200699,EFO_0000649,4.0,periodontitis,Terminated
+CHEMBL1200699,EFO_0000771,4.0,bacterial disease,Completed
+CHEMBL1200699,EFO_0003106,4.0,pneumonia,Unknown status
+CHEMBL1200699,EFO_0003894,4.0,acne,Completed
+CHEMBL1200699,EFO_1000760,4.0,rosacea,Completed | Recruiting
+CHEMBL1200699,EFO_1002047,4.0,spotted fever,
+CHEMBL1200710,EFO_0004242,4.0,obsessive-compulsive disorder,
+CHEMBL1200724,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200724,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL1200724,EFO_0007214,4.0,common cold,
+CHEMBL1200724,EFO_0007486,4.0,sinusitis,
+CHEMBL1200724,HP_0001742,4.0,Nasal congestion,
+CHEMBL1200724,HP_0012531,4.0,Pain,
+CHEMBL1200724,HP_0012735,4.0,Cough,
+CHEMBL1200724,MONDO_0005277,4.0,migraine disorder,
+CHEMBL1200748,EFO_0000546,4.0,injury,
+CHEMBL1200748,MONDO_0005180,4.0,Parkinson disease,Recruiting | Completed | Terminated | Withdrawn
+CHEMBL1200750,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200750,EFO_0005531,4.0,urticaria,
+CHEMBL1200750,EFO_0006928,4.0,motion sickness,
+CHEMBL1200750,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1200750,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1200750,HP_0012531,4.0,Pain,
+CHEMBL1200751,EFO_0000220,4.0,acute lymphoblastic leukemia,Completed | Enrolling by invitation | Unknown status
+CHEMBL1200751,EFO_0004289,4.0,lymphoid leukemia,Completed
+CHEMBL1200760,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL1200762,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL1200764,MONDO_0004979,4.0,asthma,Completed
+CHEMBL1200775,EFO_0000196,4.0,metastatic prostate cancer,Terminated
+CHEMBL1200775,EFO_0001663,4.0,prostate carcinoma,Completed
+CHEMBL1200775,EFO_0009029,4.0,Central precocious puberty,Completed | Recruiting
+CHEMBL1200775,MONDO_0000088,4.0,precocious puberty,Completed
+CHEMBL1200775,MONDO_0008315,4.0,prostate cancer,Terminated | Completed
+CHEMBL1200776,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL1200776,EFO_0008506,4.0,hyperparathyroidism,
+CHEMBL1200776,EFO_1000456,4.0,Parathyroid Gland Carcinoma,
+CHEMBL1200776,EFO_1001173,4.0,secondary hyperparathyroidism,
+CHEMBL1200781,MONDO_0002009,4.0,major depressive disorder,Unknown status
+CHEMBL1200795,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200795,EFO_0005531,4.0,urticaria,
+CHEMBL1200795,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL1200795,EFO_0007214,4.0,common cold,
+CHEMBL1200798,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL1200799,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL1200799,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL1200799,MONDO_0005041,4.0,glaucoma,Terminated | Completed
+CHEMBL1200803,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL1200803,EFO_1000781,4.0,overactive bladder,Terminated | Completed
+CHEMBL1200809,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1200809,EFO_0005854,4.0,allergic rhinitis,Completed | Withdrawn
+CHEMBL1200809,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1200809,EFO_0007533,4.0,vasomotor rhinitis,Completed
+CHEMBL1200809,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1200809,HP_0001742,4.0,Nasal congestion,
+CHEMBL1200810,EFO_0003884,4.0,chronic kidney disease,Completed
+CHEMBL1200810,EFO_0005754,4.0,parathyroid disease,
+CHEMBL1200810,EFO_1001173,4.0,secondary hyperparathyroidism,Completed | Terminated
+CHEMBL1200813,EFO_0000537,4.0,hypertension,
+CHEMBL1200813,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL1200814,EFO_0009373,4.0,edema,
+CHEMBL1200814,HP_0001250,4.0,Seizure,
+CHEMBL1200814,MONDO_0001744,4.0,angle-closure glaucoma,
+CHEMBL1200814,MONDO_0005041,4.0,glaucoma,
+CHEMBL1200822,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL1200825,EFO_0003890,4.0,drug dependence,
+CHEMBL1200825,EFO_0005611,4.0,opioid dependence,
+CHEMBL1200825,HP_0012531,4.0,Pain,Terminated
+CHEMBL1200826,EFO_0009963,4.0,bipolar I disorder,Completed | Unknown status | Withdrawn
+CHEMBL1200826,MONDO_0002009,4.0,major depressive disorder,Completed | Terminated
+CHEMBL1200826,MONDO_0002050,4.0,depressive disorder,Completed | Recruiting | Terminated | Unknown status
+CHEMBL1200826,MONDO_0004985,4.0,bipolar disorder,Recruiting | Terminated | Unknown status | Withdrawn | Completed
+CHEMBL1200843,MP_0001914,4.0,hemorrhage,Completed
+CHEMBL1200845,EFO_0000701,4.0,skin disease,
+CHEMBL1200848,EFO_0003917,4.0,premature birth,Completed
+CHEMBL1200862,EFO_0000239,4.0,adrenal gland pheochromocytoma,
+CHEMBL1200865,EFO_0005752,4.0,eye inflammation,
+CHEMBL1200865,EFO_0007141,4.0,allergic conjunctivitis,Completed
+CHEMBL1200865,EFO_1000811,4.0,anterior uveitis,
+CHEMBL1200865,EFO_1000906,4.0,dry eye syndrome,Completed | Withdrawn
+CHEMBL1200865,MP_0001845,4.0,inflammation,Completed
+CHEMBL1200870,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL1200870,EFO_1001069,4.0,ocular hypertension,
+CHEMBL1200870,MONDO_0005041,4.0,glaucoma,Completed | Terminated
+CHEMBL1200878,MONDO_0005178,4.0,osteoarthritis,Unknown status
+CHEMBL1200879,EFO_0000275,4.0,atrial fibrillation,Completed
+CHEMBL1200879,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1200879,EFO_0000712,4.0,stroke,
+CHEMBL1200879,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL1200879,HP_0001907,4.0,Thromboembolism,
+CHEMBL1200879,HP_0004936,4.0,Venous thrombosis,
+CHEMBL1200885,EFO_0000555,4.0,irritable bowel syndrome,
+CHEMBL1200890,EFO_0003890,4.0,drug dependence,
+CHEMBL1200890,HP_0012531,4.0,Pain,Enrolling by invitation | Completed | Not yet recruiting
+CHEMBL1200890,HP_0012532,4.0,Chronic pain,
+CHEMBL1200908,EFO_0000676,4.0,psoriasis,Terminated | Completed | Not yet recruiting | Recruiting
+CHEMBL1200908,EFO_0000701,4.0,skin disease,
+CHEMBL1200908,EFO_1001494,4.0,psoriasis vulgaris,
+CHEMBL1200912,EFO_0001073,4.0,obesity,
+CHEMBL1200927,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200927,EFO_0005531,4.0,urticaria,
+CHEMBL1200927,EFO_0005532,4.0,angioedema,
+CHEMBL1200927,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1200927,EFO_0007533,4.0,vasomotor rhinitis,
+CHEMBL1200927,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1200934,EFO_0003894,4.0,acne,Completed
+CHEMBL1200935,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL1200935,EFO_1000781,4.0,overactive bladder,
+CHEMBL1200940,EFO_0004888,4.0,post operative nausea and vomiting,Completed
+CHEMBL1200940,EFO_1000948,4.0,gastroparesis,
+CHEMBL1200940,HP_0002013,4.0,Vomiting,
+CHEMBL1200940,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1200940,HP_0002039,4.0,Anorexia,
+CHEMBL1200940,MONDO_0004992,4.0,cancer,
+CHEMBL1200950,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1200953,EFO_0000701,4.0,skin disease,
+CHEMBL1200959,MONDO_0005271,4.0,allergic disease,
+CHEMBL1200961,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200961,EFO_0007214,4.0,common cold,
+CHEMBL1200961,EFO_0007486,4.0,sinusitis,
+CHEMBL1200961,HP_0001742,4.0,Nasal congestion,
+CHEMBL1200961,HP_0012735,4.0,Cough,
+CHEMBL1200961,MONDO_0005271,4.0,allergic disease,
+CHEMBL1200963,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL1200963,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL1200963,MONDO_0003037,4.0,hypotrichosis,Completed
+CHEMBL1200963,MONDO_0005041,4.0,glaucoma,Completed
+CHEMBL1200974,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1200974,EFO_0005531,4.0,urticaria,
+CHEMBL1200974,EFO_0005532,4.0,angioedema,
+CHEMBL1200974,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1200974,EFO_0007533,4.0,vasomotor rhinitis,
+CHEMBL1200974,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1200976,EFO_0000222,4.0,acute myeloid leukemia,Unknown status
+CHEMBL1200977,EFO_0003144,4.0,heart failure,
+CHEMBL1200980,EFO_0003882,4.0,osteoporosis,
+CHEMBL1200980,EFO_0004266,4.0,primary ovarian insufficiency,
+CHEMBL1200980,EFO_1000096,4.0,Atrophy,
+CHEMBL1200980,GO_0042697,4.0,menopause,
+CHEMBL1200980,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1200986,MONDO_0005090,4.0,schizophrenia,Completed | Terminated
+CHEMBL1200987,EFO_0000537,4.0,hypertension,
+CHEMBL1200989,EFO_0000701,4.0,skin disease,
+CHEMBL1200989,EFO_0005752,4.0,eye inflammation,
+CHEMBL1201,EFO_0005407,4.0,psychosis,
+CHEMBL1201,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1201003,MONDO_0005277,4.0,migraine disorder,
+CHEMBL1201006,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1201011,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1201011,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1201011,EFO_0000712,4.0,stroke,
+CHEMBL1201011,EFO_0003144,4.0,heart failure,
+CHEMBL1201011,EFO_1002048,4.0,kidney failure,
+CHEMBL1201012,EFO_0000701,4.0,skin disease,
+CHEMBL1201013,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL1201014,EFO_0000341,4.0,chronic obstructive pulmonary disease,
+CHEMBL1201014,EFO_0000565,4.0,leukemia,
+CHEMBL1201014,EFO_0000768,4.0,idiopathic pulmonary fibrosis,
+CHEMBL1201014,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1201014,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL1201014,EFO_0007141,4.0,allergic conjunctivitis,Completed
+CHEMBL1201014,EFO_1001231,4.0,uveitis,
+CHEMBL1201014,HP_0000559,4.0,Corneal scarring,
+CHEMBL1201014,MONDO_0002280,4.0,anemia,
+CHEMBL1201014,MONDO_0004979,4.0,asthma,Completed
+CHEMBL1201014,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL1201014,MP_0001845,4.0,inflammation,
+CHEMBL1201023,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1201027,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Recruiting | Withdrawn
+CHEMBL1201027,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1201027,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201027,HP_0006536,4.0,Airway obstruction,
+CHEMBL1201032,MONDO_0005277,4.0,migraine disorder,Completed | Not yet recruiting
+CHEMBL1201044,HP_0011499,4.0,Mydriasis,
+CHEMBL1201057,EFO_0000465,4.0,endocarditis,
+CHEMBL1201057,EFO_0000544,4.0,infection,Completed
+CHEMBL1201057,EFO_0003103,4.0,urinary tract infection,
+CHEMBL1201057,EFO_0003106,4.0,pneumonia,Completed
+CHEMBL1201057,HP_0100806,4.0,Sepsis,
+CHEMBL1201061,MONDO_0004979,4.0,asthma,Completed
+CHEMBL1201063,EFO_0000275,4.0,atrial fibrillation,
+CHEMBL1201063,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL1201066,EFO_0004262,4.0,panic disorder,
+CHEMBL1201066,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1201066,EFO_1001917,4.0,social anxiety disorder,Completed
+CHEMBL1201066,MONDO_0002009,4.0,major depressive disorder,Completed | Recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL1201066,MONDO_0002050,4.0,depressive disorder,Completed | Recruiting | Terminated | Unknown status
+CHEMBL1201081,EFO_0000565,4.0,leukemia,
+CHEMBL1201081,EFO_0000574,4.0,lymphoma,
+CHEMBL1201081,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL1201081,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL1201081,MONDO_0002280,4.0,anemia,
+CHEMBL1201081,MONDO_0002406,4.0,dermatitis,
+CHEMBL1201081,MONDO_0004979,4.0,asthma,Completed
+CHEMBL1201081,MONDO_0005301,4.0,multiple sclerosis,Completed
+CHEMBL1201082,EFO_0004242,4.0,obsessive-compulsive disorder,
+CHEMBL1201082,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL1201082,MONDO_0002009,4.0,major depressive disorder,Unknown status
+CHEMBL1201082,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL1201087,MONDO_0005180,4.0,Parkinson disease,Completed | Terminated
+CHEMBL1201101,EFO_0000616,4.0,neoplasm,
+CHEMBL1201101,EFO_1001078,4.0,orchitis,
+CHEMBL1201101,MONDO_0002146,4.0,hypogonadism,Completed
+CHEMBL1201108,EFO_0003144,4.0,heart failure,
+CHEMBL1201109,EFO_0000274,4.0,atopic eczema,Completed
+CHEMBL1201109,EFO_0000701,4.0,skin disease,
+CHEMBL1201109,EFO_0005752,4.0,eye inflammation,
+CHEMBL1201115,EFO_0000537,4.0,hypertension,
+CHEMBL1201129,EFO_0000198,4.0,myelodysplastic syndrome,Terminated | Unknown status
+CHEMBL1201129,EFO_0000616,4.0,neoplasm,
+CHEMBL1201129,EFO_0003811,4.0,refractory anemia with excess blasts,
+CHEMBL1201129,EFO_1001779,4.0,chronic myelomonocytic leukemia,
+CHEMBL1201129,MONDO_0004643,4.0,myeloid leukemia,
+CHEMBL1201134,EFO_0000555,4.0,irritable bowel syndrome,
+CHEMBL1201134,HP_0002019,4.0,Constipation,Completed | Terminated
+CHEMBL1201134,MONDO_0002203,4.0,constipation disorder,
+CHEMBL1201139,EFO_0000616,4.0,neoplasm,
+CHEMBL1201139,HP_0002039,4.0,Anorexia,
+CHEMBL1201139,HP_0004326,4.0,Cachexia,Withdrawn
+CHEMBL1201139,MONDO_0003778,4.0,inborn error of immunity,
+CHEMBL1201139,MONDO_0004992,4.0,cancer,Not yet recruiting
+CHEMBL1201142,MONDO_0005180,4.0,Parkinson disease,Completed
+CHEMBL1201146,EFO_0001065,4.0,endometriosis,
+CHEMBL1201146,EFO_0003894,4.0,acne,
+CHEMBL1201150,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1201155,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1201162,EFO_0004190,4.0,open-angle glaucoma,
+CHEMBL1201162,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL1201162,MONDO_0005041,4.0,glaucoma,Unknown status | Completed
+CHEMBL1201163,HP_0012531,4.0,Pain,Terminated | Completed | Enrolling by invitation
+CHEMBL1201173,EFO_0005752,4.0,eye inflammation,
+CHEMBL1201174,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed
+CHEMBL1201177,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201178,EFO_0003888,4.0,attention deficit hyperactivity disorder,Not yet recruiting | Completed
+CHEMBL1201178,EFO_0003890,4.0,drug dependence,
+CHEMBL1201178,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201179,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1201179,MONDO_0007254,4.0,breast cancer,
+CHEMBL1201182,EFO_0000616,4.0,neoplasm,
+CHEMBL1201182,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL1201182,EFO_1001469,4.0,Mantle cell lymphoma,
+CHEMBL1201184,EFO_1000852,4.0,carcinoid syndrome,
+CHEMBL1201184,EFO_1001485,4.0,acromegaly,
+CHEMBL1201190,EFO_0000701,4.0,skin disease,
+CHEMBL1201190,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1201190,EFO_0005531,4.0,urticaria,Unknown status
+CHEMBL1201190,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1201191,MONDO_0005271,4.0,allergic disease,Completed
+CHEMBL1201192,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL1201192,EFO_0003918,4.0,obstructive sleep apnea,
+CHEMBL1201192,EFO_0008568,4.0,Sleep Disorder,
+CHEMBL1201192,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL1201199,EFO_0000616,4.0,neoplasm,
+CHEMBL1201202,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201203,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1201213,HP_0006536,4.0,Airway obstruction,
+CHEMBL1201216,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201222,EFO_0003888,4.0,attention deficit hyperactivity disorder,Completed | Not yet recruiting | Terminated
+CHEMBL1201229,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201232,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201237,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201245,MONDO_0005271,4.0,allergic disease,
+CHEMBL1201247,EFO_0000616,4.0,neoplasm,
+CHEMBL1201255,EFO_0000616,4.0,neoplasm,
+CHEMBL1201260,EFO_0000537,4.0,hypertension,
+CHEMBL1201271,MONDO_0005271,4.0,allergic disease,
+CHEMBL1201284,EFO_0005754,4.0,parathyroid disease,
+CHEMBL1201286,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201287,MONDO_0005271,4.0,allergic disease,
+CHEMBL1201295,HP_0006536,4.0,Airway obstruction,
+CHEMBL1201325,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201334,EFO_0000616,4.0,neoplasm,
+CHEMBL1201340,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201341,MONDO_0005041,4.0,glaucoma,
+CHEMBL1201342,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1201354,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1201414,EFO_0003907,4.0,deep vein thrombosis,Completed
+CHEMBL1201414,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201419,EFO_0008560,4.0,female infertility,
+CHEMBL1201421,EFO_0004683,4.0,wet macular degeneration,Terminated
+CHEMBL1201460,EFO_0003907,4.0,deep vein thrombosis,Completed
+CHEMBL1201460,EFO_0004286,4.0,venous thromboembolism,Terminated
+CHEMBL1201460,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201460,HP_0004936,4.0,Venous thrombosis,Recruiting
+CHEMBL1201464,EFO_0000545,4.0,infertility,Completed
+CHEMBL1201464,EFO_0004266,4.0,primary ovarian insufficiency,
+CHEMBL1201464,EFO_0008560,4.0,female infertility,
+CHEMBL1201464,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1201476,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1201476,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL1201476,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL1201476,EFO_0004286,4.0,venous thromboembolism,Completed
+CHEMBL1201476,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201477,EFO_0000616,4.0,neoplasm,
+CHEMBL1201496,EFO_0000400,4.0,diabetes mellitus,Completed | Terminated
+CHEMBL1201497,EFO_0000400,4.0,diabetes mellitus,Terminated | Completed | Unknown status | Withdrawn
+CHEMBL1201497,MONDO_0005147,4.0,type 1 diabetes mellitus,"Withdrawn | Active, not recruiting | Completed | Terminated | Unknown status"
+CHEMBL1201497,MONDO_0005148,4.0,type 2 diabetes mellitus,"Active, not recruiting | Recruiting | Terminated | Completed | Unknown status | Withdrawn"
+CHEMBL1201506,EFO_0000222,4.0,acute myeloid leukemia,Completed
+CHEMBL1201506,EFO_0000616,4.0,neoplasm,
+CHEMBL1201515,EFO_1001485,4.0,acromegaly,Completed | Unknown status
+CHEMBL1201533,EFO_0003841,4.0,thyroid neoplasm,Completed
+CHEMBL1201533,MONDO_0002108,4.0,thyroid cancer,Completed
+CHEMBL1201534,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201538,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1201550,EFO_0000616,4.0,neoplasm,
+CHEMBL1201550,EFO_0002913,4.0,Cutaneous T-cell lymphoma,Completed
+CHEMBL1201565,EFO_0003884,4.0,chronic kidney disease,Completed
+CHEMBL1201565,EFO_0004272,4.0,anemia (phenotype),Completed | Not yet recruiting | Terminated
+CHEMBL1201565,MONDO_0002280,4.0,anemia,
+CHEMBL1201565,MONDO_0024327,4.0,chronic renal failure syndrome,Completed
+CHEMBL1201566,EFO_0003884,4.0,chronic kidney disease,Completed
+CHEMBL1201566,EFO_0004272,4.0,anemia (phenotype),Completed
+CHEMBL1201566,MONDO_0002280,4.0,anemia,
+CHEMBL1201566,MONDO_0004992,4.0,cancer,
+CHEMBL1201567,EFO_0000544,4.0,infection,
+CHEMBL1201567,EFO_0000616,4.0,neoplasm,
+CHEMBL1201567,MONDO_0001475,4.0,neutropenia,
+CHEMBL1201567,MONDO_0004992,4.0,cancer,
+CHEMBL1201568,EFO_0000544,4.0,infection,
+CHEMBL1201568,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL1201568,MONDO_0001475,4.0,neutropenia,
+CHEMBL1201568,MONDO_0004992,4.0,cancer,
+CHEMBL1201569,HP_0000473,4.0,Torticollis,Completed
+CHEMBL1201570,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL1201572,EFO_0000540,4.0,immune system disease,
+CHEMBL1201572,EFO_0000676,4.0,psoriasis,Completed | Terminated | Withdrawn | Recruiting | Unknown status
+CHEMBL1201572,EFO_0000685,4.0,rheumatoid arthritis,"Completed | Recruiting | Terminated | Unknown status | Active, not recruiting | Not yet recruiting | Withdrawn"
+CHEMBL1201572,EFO_0000706,4.0,spondyloarthropathy,Completed
+CHEMBL1201572,EFO_0002609,4.0,juvenile idiopathic arthritis,Unknown status | Completed
+CHEMBL1201572,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL1201572,EFO_0003898,4.0,ankylosing spondylitis,Completed | Not yet recruiting | Terminated | Unknown status
+CHEMBL1201572,EFO_1001494,4.0,psoriasis vulgaris,Completed
+CHEMBL1201572,MONDO_0003937,4.0,spondylitis,
+CHEMBL1201576,EFO_0000095,4.0,chronic lymphocytic leukemia,Terminated | Completed | Unknown status
+CHEMBL1201576,EFO_0000220,4.0,acute lymphoblastic leukemia,Unknown status | Completed
+CHEMBL1201576,EFO_0000616,4.0,neoplasm,
+CHEMBL1201576,EFO_0000685,4.0,rheumatoid arthritis,Completed | Terminated
+CHEMBL1201576,EFO_0005297,4.0,Granulomatosis with Polyangiitis,Completed | Terminated
+CHEMBL1201576,EFO_0005952,4.0,non-Hodgkins lymphoma,Completed | Recruiting | Unknown status
+CHEMBL1201576,EFO_1000749,4.0,pemphigus,
+CHEMBL1201576,EFO_1000784,4.0,microscopic polyangiitis,Completed
+CHEMBL1201577,EFO_0000365,4.0,colorectal adenocarcinoma,
+CHEMBL1201577,EFO_0000616,4.0,neoplasm,Recruiting
+CHEMBL1201577,EFO_0000707,4.0,squamous cell carcinoma,
+CHEMBL1201577,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL1201577,EFO_0004284,4.0,upper aerodigestive tract neoplasm,Terminated
+CHEMBL1201577,EFO_0005950,4.0,head and neck neoplasia,
+CHEMBL1201577,EFO_0006859,4.0,head and neck malignant neoplasia,Completed
+CHEMBL1201580,EFO_0000384,4.0,Crohn's disease,"Active, not recruiting | Completed | Not yet recruiting | Recruiting | Withdrawn | Enrolling by invitation | Terminated | Unknown status"
+CHEMBL1201580,EFO_0000540,4.0,immune system disease,
+CHEMBL1201580,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL1201580,EFO_0000685,4.0,rheumatoid arthritis,"Active, not recruiting | Completed | Recruiting | Unknown status | Not yet recruiting | Terminated"
+CHEMBL1201580,EFO_0000729,4.0,ulcerative colitis,Enrolling by invitation | Recruiting | Withdrawn | Completed | Terminated
+CHEMBL1201580,EFO_0002609,4.0,juvenile idiopathic arthritis,"Active, not recruiting"
+CHEMBL1201580,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL1201580,EFO_0003898,4.0,ankylosing spondylitis,"Active, not recruiting | Terminated | Unknown status | Completed | Not yet recruiting"
+CHEMBL1201580,EFO_1000710,4.0,hidradenitis suppurativa,Recruiting | Withdrawn | Completed
+CHEMBL1201580,EFO_1001231,4.0,uveitis,"Active, not recruiting | Not yet recruiting"
+CHEMBL1201581,EFO_0000384,4.0,Crohn's disease,"Active, not recruiting | Unknown status | Completed | Enrolling by invitation | Not yet recruiting | Recruiting | Terminated | Withdrawn"
+CHEMBL1201581,EFO_0000540,4.0,immune system disease,
+CHEMBL1201581,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL1201581,EFO_0000685,4.0,rheumatoid arthritis,"Terminated | Unknown status | Active, not recruiting | Completed"
+CHEMBL1201581,EFO_0000729,4.0,ulcerative colitis,"Active, not recruiting | Completed | Enrolling by invitation | Recruiting | Unknown status | Terminated"
+CHEMBL1201581,EFO_0003778,4.0,psoriatic arthritis,Completed
+CHEMBL1201581,EFO_0003898,4.0,ankylosing spondylitis,Withdrawn | Completed | Not yet recruiting | Unknown status
+CHEMBL1201583,EFO_0000305,4.0,breast carcinoma,Completed
+CHEMBL1201583,EFO_0000365,4.0,colorectal adenocarcinoma,
+CHEMBL1201583,EFO_0000519,4.0,glioblastoma multiforme,
+CHEMBL1201583,EFO_0000616,4.0,neoplasm,Completed | Recruiting
+CHEMBL1201583,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL1201583,EFO_0001075,4.0,ovarian carcinoma,Recruiting
+CHEMBL1201583,EFO_0003060,4.0,non-small cell lung carcinoma,Completed
+CHEMBL1201583,EFO_0003869,4.0,breast neoplasm,
+CHEMBL1201583,EFO_0004142,4.0,colorectal neoplasm,Completed
+CHEMBL1201583,EFO_0005753,4.0,ocular vascular disease,
+CHEMBL1201583,EFO_1001100,4.0,peritoneal neoplasm,
+CHEMBL1201583,MONDO_0002974,4.0,cervical cancer,
+CHEMBL1201583,MONDO_0005575,4.0,colorectal cancer,Recruiting | Completed | Terminated
+CHEMBL1201583,MONDO_0007254,4.0,breast cancer,Completed | Withdrawn
+CHEMBL1201583,MONDO_0008170,4.0,ovarian cancer,"Active, not recruiting"
+CHEMBL1201585,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1201585,EFO_0000616,4.0,neoplasm,
+CHEMBL1201585,EFO_0003869,4.0,breast neoplasm,
+CHEMBL1201585,MONDO_0001056,4.0,gastric cancer,Terminated
+CHEMBL1201585,MONDO_0007254,4.0,breast cancer,Terminated | Completed | Recruiting
+CHEMBL1201587,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL1201587,MONDO_0005301,4.0,multiple sclerosis,Completed
+CHEMBL1201589,EFO_0005531,4.0,urticaria,Completed | Withdrawn
+CHEMBL1201589,MONDO_0004979,4.0,asthma,Completed | Terminated | Unknown status | Recruiting
+CHEMBL1201593,EFO_0000612,4.0,myocardial infarction,Completed
+CHEMBL1201593,EFO_0000712,4.0,stroke,Completed
+CHEMBL1201593,EFO_0003144,4.0,heart failure,
+CHEMBL1201593,EFO_0003827,4.0,pulmonary embolism,Completed | Unknown status
+CHEMBL1201593,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201593,MONDO_0000831,4.0,thrombotic disease,Recruiting | Terminated | Unknown status
+CHEMBL1201610,MONDO_0005301,4.0,multiple sclerosis,Completed | Terminated
+CHEMBL1201613,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL1201619,MP_0001914,4.0,hemorrhage,Completed
+CHEMBL1201621,EFO_0000764,4.0,HIV infection,Completed
+CHEMBL1201621,EFO_0001379,4.0,endocrine system disease,
+CHEMBL1201621,EFO_0003884,4.0,chronic kidney disease,Completed | Terminated
+CHEMBL1201621,EFO_0009607,4.0,pituitary gland disease,
+CHEMBL1201621,EFO_1001109,4.0,pituitary dwarfism,Completed | Recruiting | Unknown status
+CHEMBL1201621,HP_0001510,4.0,Growth delay,Recruiting
+CHEMBL1201621,MONDO_0001967,4.0,gonadal dysgenesis,
+CHEMBL1201621,MONDO_0008300,4.0,Prader-Willi syndrome,Completed
+CHEMBL1201621,MONDO_0015183,4.0,short bowel syndrome,Completed | Terminated
+CHEMBL1201621,MONDO_0019499,4.0,Turner syndrome,Completed
+CHEMBL1201629,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1201630,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1201631,EFO_0000400,4.0,diabetes mellitus,Terminated | Completed | Not yet recruiting | Recruiting | Unknown status | Withdrawn
+CHEMBL1201631,MONDO_0005148,4.0,type 2 diabetes mellitus,"Active, not recruiting | Recruiting | Suspended | Completed | Not yet recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL1201657,EFO_0000275,4.0,atrial fibrillation,
+CHEMBL1201657,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL1201657,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL1201657,HP_0001907,4.0,Thromboembolism,
+CHEMBL1201657,HP_0004936,4.0,Venous thrombosis,
+CHEMBL1201662,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL1201662,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201662,HP_0004936,4.0,Venous thrombosis,
+CHEMBL1201666,HP_0001873,4.0,Thrombocytopenia,Withdrawn | Terminated
+CHEMBL1201666,HP_0001907,4.0,Thromboembolism,
+CHEMBL1201666,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1201692,EFO_0008560,4.0,female infertility,Completed
+CHEMBL1201692,MONDO_0002775,4.0,anovulation,
+CHEMBL1201728,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL1201729,EFO_0000275,4.0,atrial fibrillation,
+CHEMBL1201731,EFO_0000537,4.0,hypertension,
+CHEMBL1201731,EFO_0000712,4.0,stroke,
+CHEMBL1201733,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL1201733,EFO_0000691,4.0,sarcoma,
+CHEMBL1201735,MONDO_0002009,4.0,major depressive disorder,Not yet recruiting
+CHEMBL1201740,EFO_0000339,4.0,chronic myelogenous leukemia,
+CHEMBL1201743,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL1201745,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1201746,EFO_0000211,4.0,unspecified peripheral T-cell lymphoma,Unknown status
+CHEMBL1201746,EFO_0000616,4.0,neoplasm,
+CHEMBL1201746,MONDO_0015760,4.0,T-cell non-Hodgkin lymphoma,
+CHEMBL1201747,EFO_0005751,4.0,eye allergy,
+CHEMBL1201747,EFO_0007141,4.0,allergic conjunctivitis,Completed | Unknown status
+CHEMBL1201749,EFO_1000811,4.0,anterior uveitis,Recruiting
+CHEMBL1201749,MP_0001845,4.0,inflammation,
+CHEMBL1201753,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1201759,EFO_0007141,4.0,allergic conjunctivitis,Completed
+CHEMBL1201759,HP_0000989,4.0,Pruritus,
+CHEMBL1201764,HP_0000020,4.0,Urinary incontinence,Completed
+CHEMBL1201764,HP_0000103,4.0,Polyuria,
+CHEMBL1201765,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL1201765,EFO_1000781,4.0,overactive bladder,Completed | Terminated | Unknown status
+CHEMBL1201770,EFO_0005611,4.0,opioid dependence,
+CHEMBL1201770,HP_0002019,4.0,Constipation,Completed
+CHEMBL1201773,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1201773,EFO_0005672,4.0,acute coronary syndrome,
+CHEMBL1201773,MP_0001914,4.0,hemorrhage,
+CHEMBL1201775,MONDO_0009861,4.0,phenylketonuria,Completed
+CHEMBL1201775,Orphanet_238583,4.0,Hyperphenylalaninemia,
+CHEMBL1201776,HP_0012531,4.0,Pain,
+CHEMBL1201777,EFO_0005762,4.0,neuropathic pain,
+CHEMBL1201777,HP_0012531,4.0,Pain,
+CHEMBL1201777,HP_0012532,4.0,Chronic pain,
+CHEMBL1201780,HP_0001987,4.0,Hyperammonemia,
+CHEMBL1201782,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,Completed
+CHEMBL1201782,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1201782,MONDO_0004992,4.0,cancer,
+CHEMBL1201821,EFO_1001898,4.0,mucositis,
+CHEMBL1201823,EFO_0000540,4.0,immune system disease,
+CHEMBL1201823,EFO_0000685,4.0,rheumatoid arthritis,Completed | Recruiting | Withdrawn | Terminated | Unknown status
+CHEMBL1201823,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL1201823,EFO_0003778,4.0,psoriatic arthritis,Recruiting
+CHEMBL1201825,EFO_0003770,4.0,diabetic retinopathy,Completed
+CHEMBL1201825,EFO_0004683,4.0,wet macular degeneration,Completed | Unknown status | Withdrawn
+CHEMBL1201825,EFO_0005753,4.0,ocular vascular disease,
+CHEMBL1201825,EFO_0010977,4.0,macrovascular complications of diabetes,
+CHEMBL1201825,HP_0000545,4.0,Myopia,
+CHEMBL1201825,MONDO_0003005,4.0,macular retinal edema,Completed | Terminated | Unknown status
+CHEMBL1201825,MONDO_0810000,4.0,choroidal neovascularization,Completed
+CHEMBL1201827,EFO_0000365,4.0,colorectal adenocarcinoma,
+CHEMBL1201827,EFO_0000616,4.0,neoplasm,
+CHEMBL1201827,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL1201827,MONDO_0004992,4.0,cancer,Unknown status
+CHEMBL1201828,MONDO_0016244,4.0,atypical hemolytic-uremic syndrome,Completed
+CHEMBL1201828,MONDO_0100244,4.0,paroxysmal nocturnal hemoglobinuria,Completed
+CHEMBL1201830,EFO_0000540,4.0,immune system disease,
+CHEMBL1201830,EFO_0007427,4.0,pericarditis,
+CHEMBL1201830,MONDO_0008633,4.0,Muckle-Wells syndrome,
+CHEMBL1201830,MONDO_0016168,4.0,cryopyrin-associated periodic syndrome,
+CHEMBL1201830,Orphanet_47045,4.0,Familial cold urticaria,
+CHEMBL1201831,EFO_0000384,4.0,Crohn's disease,Terminated | Unknown status
+CHEMBL1201831,EFO_0000540,4.0,immune system disease,
+CHEMBL1201831,EFO_0000685,4.0,rheumatoid arthritis,Completed | Terminated | Unknown status
+CHEMBL1201831,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL1201831,EFO_0003898,4.0,ankylosing spondylitis,
+CHEMBL1201831,MP_0001845,4.0,inflammation,
+CHEMBL1201832,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,Recruiting | Completed
+CHEMBL1201832,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL1201832,MP_0001914,4.0,hemorrhage,
+CHEMBL1201833,EFO_0000540,4.0,immune system disease,
+CHEMBL1201833,EFO_0000685,4.0,rheumatoid arthritis,"Completed | Unknown status | Active, not recruiting | Recruiting | Terminated"
+CHEMBL1201833,EFO_0000729,4.0,ulcerative colitis,Not yet recruiting | Recruiting | Unknown status | Completed
+CHEMBL1201833,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL1201833,EFO_0003898,4.0,ankylosing spondylitis,Completed | Not yet recruiting
+CHEMBL1201833,MONDO_0003937,4.0,spondylitis,
+CHEMBL1201834,EFO_0000540,4.0,immune system disease,
+CHEMBL1201834,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL1201834,EFO_0004274,4.0,gout,
+CHEMBL1201834,MONDO_0008633,4.0,Muckle-Wells syndrome,
+CHEMBL1201834,MONDO_0016168,4.0,cryopyrin-associated periodic syndrome,
+CHEMBL1201836,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL1201836,EFO_0000616,4.0,neoplasm,
+CHEMBL1201836,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,Recruiting
+CHEMBL1201836,MONDO_0005301,4.0,multiple sclerosis,"Active, not recruiting | Terminated | Completed"
+CHEMBL1201837,MONDO_0019623,4.0,hereditary angioedema,
+CHEMBL1201891,MONDO_0010679,4.0,Duchenne muscular dystrophy,
+CHEMBL1206,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1206690,EFO_0005755,4.0,rheumatic disease,
+CHEMBL1206690,HP_0012531,4.0,Pain,Completed | Terminated | Withdrawn
+CHEMBL121,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL121,MONDO_0005148,4.0,type 2 diabetes mellitus,Suspended | Terminated | Completed
+CHEMBL1213351,HP_0012531,4.0,Pain,
+CHEMBL122,EFO_0005755,4.0,rheumatic disease,
+CHEMBL1224,MONDO_0005271,4.0,allergic disease,
+CHEMBL1229517,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL1229517,EFO_0000756,4.0,melanoma,Completed
+CHEMBL1229517,EFO_0002617,4.0,metastatic melanoma,Terminated
+CHEMBL1231,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL1231,EFO_1000781,4.0,overactive bladder,Completed | Unknown status
+CHEMBL1231,HP_0000020,4.0,Urinary incontinence,Completed | Terminated
+CHEMBL1231,HP_0000103,4.0,Polyuria,
+CHEMBL1237022,EFO_0000540,4.0,immune system disease,
+CHEMBL1237022,EFO_0000685,4.0,rheumatoid arthritis,Completed | Recruiting | Terminated | Withdrawn | Unknown status
+CHEMBL1237022,EFO_0000717,4.0,systemic scleroderma,
+CHEMBL1237022,EFO_0002609,4.0,juvenile idiopathic arthritis,Completed
+CHEMBL1237022,EFO_1001209,4.0,temporal arteritis,Completed | Unknown status
+CHEMBL1237022,MONDO_0100096,4.0,COVID-19,Completed | Withdrawn
+CHEMBL1237023,EFO_0003854,4.0,postmenopausal osteoporosis,"Recruiting | Active, not recruiting | Completed"
+CHEMBL1237023,EFO_0003882,4.0,osteoporosis,"Active, not recruiting | Unknown status | Completed | Not yet recruiting | Recruiting"
+CHEMBL1237023,EFO_0004260,4.0,bone disease,Completed
+CHEMBL1237023,MONDO_0002171,4.0,giant cell tumor,Completed | Recruiting
+CHEMBL1237023,MONDO_0007254,4.0,breast cancer,
+CHEMBL1237024,EFO_0000616,4.0,neoplasm,
+CHEMBL1237024,MONDO_0008315,4.0,prostate cancer,
+CHEMBL1237044,HP_0012531,4.0,Pain,Not yet recruiting | Unknown status | Completed | Recruiting | Terminated
+CHEMBL1237055,EFO_0003890,4.0,drug dependence,
+CHEMBL1237055,HP_0012531,4.0,Pain,Completed
+CHEMBL1237061,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL1237061,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL1237061,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL1237061,MONDO_0021187,4.0,hyperlipidemia,
+CHEMBL1237065,EFO_0003890,4.0,drug dependence,
+CHEMBL1237065,HP_0012531,4.0,Pain,Completed | Unknown status
+CHEMBL1237065,HP_0012532,4.0,Chronic pain,
+CHEMBL1237080,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,Unknown status
+CHEMBL1237080,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1237080,HP_0002018,4.0,Nausea,
+CHEMBL1237080,MONDO_0004992,4.0,cancer,
+CHEMBL1237104,HP_0012531,4.0,Pain,
+CHEMBL1237119,EFO_0001361,4.0,pulmonary arterial hypertension,Recruiting | Terminated | Withdrawn | Completed
+CHEMBL1237119,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1237119,MONDO_0005149,4.0,pulmonary hypertension,Completed | Recruiting
+CHEMBL1240,MONDO_0004247,4.0,peptic ulcer disease,
+CHEMBL1241,HP_0000989,4.0,Pruritus,
+CHEMBL1241,MONDO_0005271,4.0,allergic disease,
+CHEMBL1252,EFO_0000616,4.0,neoplasm,
+CHEMBL1256696,EFO_0007486,4.0,sinusitis,
+CHEMBL1256786,HP_0006536,4.0,Airway obstruction,
+CHEMBL1256818,EFO_0007214,4.0,common cold,
+CHEMBL1256818,EFO_0007486,4.0,sinusitis,Completed
+CHEMBL1256818,HP_0001742,4.0,Nasal congestion,
+CHEMBL1256818,HP_0001945,4.0,Fever,
+CHEMBL1256818,HP_0002315,4.0,Headache,
+CHEMBL1256818,HP_0012735,4.0,Cough,Terminated
+CHEMBL1257040,EFO_0000677,4.0,mental or behavioural disorder,
+CHEMBL1257040,EFO_0006788,4.0,anxiety disorder,
+CHEMBL1257040,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1263,HP_0006536,4.0,Airway obstruction,
+CHEMBL1269025,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL12713,EFO_0005407,4.0,psychosis,
+CHEMBL1274,EFO_0000616,4.0,neoplasm,
+CHEMBL1274,MONDO_0008315,4.0,prostate cancer,
+CHEMBL1276308,EFO_0003099,4.0,Cushing syndrome,Completed
+CHEMBL1278,MONDO_0005277,4.0,migraine disorder,
+CHEMBL1279,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL128,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1282,EFO_0002496,4.0,actinic keratosis,Completed | Terminated | Unknown status
+CHEMBL1282,EFO_0004193,4.0,basal cell carcinoma,Completed | Unknown status
+CHEMBL1282,EFO_0007147,4.0,anogenital venereal wart,Completed
+CHEMBL1282,EFO_1000720,4.0,keratosis,Completed
+CHEMBL12856,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1286,EFO_0000474,4.0,epilepsy,Completed | Unknown status
+CHEMBL1286,HP_0001250,4.0,Seizure,Unknown status
+CHEMBL1286,HP_0002069,4.0,Bilateral tonic-clonic seizure,Completed
+CHEMBL1287853,EFO_0000616,4.0,neoplasm,
+CHEMBL1290,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1291,MONDO_0005041,4.0,glaucoma,
+CHEMBL13,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL131,EFO_0000274,4.0,atopic eczema,Completed
+CHEMBL131,EFO_0000384,4.0,Crohn's disease,Terminated | Unknown status | Completed
+CHEMBL131,EFO_0000398,4.0,dermatomyositis,
+CHEMBL131,EFO_0000565,4.0,leukemia,
+CHEMBL131,EFO_0000574,4.0,lymphoma,Completed
+CHEMBL131,EFO_0000676,4.0,psoriasis,
+CHEMBL131,EFO_0000685,4.0,rheumatoid arthritis,Completed | Unknown status
+CHEMBL131,EFO_0000729,4.0,ulcerative colitis,Completed
+CHEMBL131,EFO_0002609,4.0,juvenile idiopathic arthritis,Completed
+CHEMBL131,EFO_0003106,4.0,pneumonia,
+CHEMBL131,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL131,EFO_0003898,4.0,ankylosing spondylitis,
+CHEMBL131,EFO_0004255,4.0,nephrotic syndrome,Completed | Unknown status
+CHEMBL131,EFO_0004274,4.0,gout,Recruiting
+CHEMBL131,EFO_0005319,4.0,contact dermatitis,
+CHEMBL131,EFO_0005558,4.0,hemolytic anemia,
+CHEMBL131,EFO_0005752,4.0,eye inflammation,
+CHEMBL131,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL131,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL131,EFO_0007257,4.0,eosinophilic pneumonia,Completed
+CHEMBL131,EFO_0007403,4.0,ophthalmic herpes zoster,
+CHEMBL131,EFO_0007405,4.0,optic neuritis,
+CHEMBL131,EFO_0007520,4.0,trichinosis,
+CHEMBL131,EFO_0008997,4.0,synovitis,
+CHEMBL131,EFO_0009449,4.0,keratitis,
+CHEMBL131,EFO_0009456,4.0,exfoliative dermatitis,
+CHEMBL131,EFO_0009552,4.0,hemorrhoid,
+CHEMBL131,EFO_0009609,4.0,myocarditis,
+CHEMBL131,EFO_1000039,4.0,meningeal tuberculosis,
+CHEMBL131,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL131,EFO_1000684,4.0,dermatitis herpetiformis,
+CHEMBL131,EFO_1000694,4.0,erythema multiforme,
+CHEMBL131,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL131,EFO_1000941,4.0,frozen shoulder,
+CHEMBL131,EFO_1000997,4.0,iritis,
+CHEMBL131,EFO_1001051,4.0,mycosis fungoides,
+CHEMBL131,EFO_1001119,4.0,posterior uveitis,
+CHEMBL131,EFO_1001194,4.0,subacute thyroiditis,
+CHEMBL131,EFO_1001205,4.0,sympathetic ophthalmia,
+CHEMBL131,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL131,EFO_1001435,4.0,tenosynovitis,
+CHEMBL131,EFO_1001896,4.0,lateral epicondylitis,
+CHEMBL131,HP_0001094,4.0,Iridocyclitis,
+CHEMBL131,HP_0001742,4.0,Nasal congestion,
+CHEMBL131,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL131,HP_0001915,4.0,Aplastic anemia,
+CHEMBL131,HP_0003072,4.0,Hypercalcemia,
+CHEMBL131,HP_0004398,4.0,Peptic ulcer,
+CHEMBL131,HP_0012424,4.0,Chorioretinitis,
+CHEMBL131,MONDO_0001280,4.0,choroiditis,
+CHEMBL131,MONDO_0004979,4.0,asthma,"Active, not recruiting | Completed"
+CHEMBL131,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL131,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL131,MONDO_0007915,4.0,systemic lupus erythematosus,
+CHEMBL131,MONDO_0008728,4.0,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,
+CHEMBL131,MONDO_0015128,4.0,primary adrenal insufficiency,
+CHEMBL131,MONDO_0019338,4.0,sarcoidosis,"Active, not recruiting | Completed"
+CHEMBL1315867,EFO_0009661,4.0,bronchitis,
+CHEMBL1315867,MONDO_0004979,4.0,asthma,
+CHEMBL1324,MONDO_0005180,4.0,Parkinson disease,Completed
+CHEMBL1337,MONDO_0004741,4.0,tyrosinemia,
+CHEMBL1339,EFO_0004234,4.0,erectile dysfunction,Completed
+CHEMBL1339,HP_0000802,4.0,Impotence,
+CHEMBL1346,HP_0000020,4.0,Urinary incontinence,Completed
+CHEMBL1346,HP_0000103,4.0,Polyuria,
+CHEMBL135,EFO_0003854,4.0,postmenopausal osteoporosis,
+CHEMBL135,EFO_0003882,4.0,osteoporosis,
+CHEMBL135,EFO_0004266,4.0,primary ovarian insufficiency,
+CHEMBL135,EFO_1000096,4.0,Atrophy,
+CHEMBL135,EFO_1001271,4.0,Atrophic Vaginitis,Completed
+CHEMBL135,GO_0042697,4.0,menopause,"Active, not recruiting | Completed | Recruiting | Terminated | Not yet recruiting | Withdrawn"
+CHEMBL135,HP_0008209,4.0,Premature ovarian insufficiency,Completed
+CHEMBL135,HP_0030016,4.0,Dyspareunia,Completed
+CHEMBL135,MONDO_0001410,4.0,postmenopausal atrophic vaginitis,
+CHEMBL135,MONDO_0002146,4.0,hypogonadism,
+CHEMBL135,MONDO_0007254,4.0,breast cancer,Recruiting
+CHEMBL1358,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1358,EFO_0000616,4.0,neoplasm,
+CHEMBL1358,EFO_0003869,4.0,breast neoplasm,Terminated
+CHEMBL1358,MONDO_0007254,4.0,breast cancer,Completed | Not yet recruiting | Recruiting | Terminated
+CHEMBL1364144,EFO_0000565,4.0,leukemia,
+CHEMBL1364144,EFO_0000574,4.0,lymphoma,
+CHEMBL1364144,EFO_0000685,4.0,rheumatoid arthritis,Completed | Unknown status
+CHEMBL1364144,EFO_0003833,4.0,brain neoplasm,
+CHEMBL1364144,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1364144,EFO_1000941,4.0,frozen shoulder,
+CHEMBL1364144,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL1364144,EFO_1001231,4.0,uveitis,
+CHEMBL1364144,MONDO_0002041,4.0,fungal infectious disease,
+CHEMBL1364144,MONDO_0002280,4.0,anemia,
+CHEMBL1364144,MONDO_0002406,4.0,dermatitis,
+CHEMBL1364144,MONDO_0004979,4.0,asthma,
+CHEMBL1364144,MONDO_0005178,4.0,osteoarthritis,Recruiting | Terminated
+CHEMBL1370,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Not yet recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL1370,EFO_0000384,4.0,Crohn's disease,Completed
+CHEMBL1370,EFO_0000464,4.0,emphysema,
+CHEMBL1370,EFO_0000729,4.0,ulcerative colitis,Not yet recruiting | Recruiting
+CHEMBL1370,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1370,EFO_0005854,4.0,allergic rhinitis,Recruiting | Completed
+CHEMBL1370,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1370,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",Completed
+CHEMBL1370,HP_0001742,4.0,Nasal congestion,
+CHEMBL1370,HP_0006536,4.0,Airway obstruction,
+CHEMBL1370,MONDO_0004979,4.0,asthma,Unknown status | Withdrawn | Completed | Recruiting | Terminated
+CHEMBL1371200,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1373,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL1373,EFO_0003918,4.0,obstructive sleep apnea,Terminated | Completed
+CHEMBL1373,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL1375743,EFO_0005306,4.0,ventricular tachycardia,
+CHEMBL1375743,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL1375743,HP_0000713,4.0,Agitation,
+CHEMBL1375743,MONDO_0004985,4.0,bipolar disorder,Completed | Terminated
+CHEMBL1375743,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1382,HP_0000020,4.0,Urinary incontinence,Completed | Terminated | Unknown status
+CHEMBL1382,HP_0000103,4.0,Polyuria,
+CHEMBL13828,MONDO_0005271,4.0,allergic disease,
+CHEMBL1389,HP_0000132,4.0,Menorrhagia,Completed
+CHEMBL1393,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1393,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1393,EFO_0000537,4.0,hypertension,Completed | Recruiting | Unknown status
+CHEMBL1393,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1393,EFO_0000668,4.0,preeclampsia,
+CHEMBL1393,EFO_0001422,4.0,cirrhosis of liver,
+CHEMBL1393,EFO_0003144,4.0,heart failure,"Active, not recruiting | Completed | Withdrawn"
+CHEMBL1393,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1395,EFO_1001078,4.0,orchitis,
+CHEMBL1395,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1395,MONDO_0007254,4.0,breast cancer,
+CHEMBL1399,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1399,EFO_0000616,4.0,neoplasm,
+CHEMBL1399,EFO_0003869,4.0,breast neoplasm,Terminated
+CHEMBL1399,MONDO_0007254,4.0,breast cancer,Completed | Unknown status
+CHEMBL14,HP_0000616,4.0,Miosis,
+CHEMBL14,MONDO_0005041,4.0,glaucoma,
+CHEMBL1404,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1404,EFO_0003913,4.0,angina pectoris,Completed | Unknown status
+CHEMBL1409,EFO_0004242,4.0,obsessive-compulsive disorder,Unknown status | Completed | Terminated
+CHEMBL1411979,MONDO_0005271,4.0,allergic disease,
+CHEMBL1417019,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL1417019,MONDO_0008315,4.0,prostate cancer,
+CHEMBL1421,EFO_0000220,4.0,acute lymphoblastic leukemia,Unknown status
+CHEMBL1421,EFO_0000339,4.0,chronic myelogenous leukemia,Completed | Recruiting | Unknown status
+CHEMBL1421,EFO_0000616,4.0,neoplasm,
+CHEMBL1421,EFO_0004289,4.0,lymphoid leukemia,
+CHEMBL1421,EFO_1000131,4.0,"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+CHEMBL1422,EFO_0000400,4.0,diabetes mellitus,Completed | Not yet recruiting | Terminated
+CHEMBL1423,EFO_0004895,4.0,Tourette syndrome,
+CHEMBL1423,EFO_0005407,4.0,psychosis,
+CHEMBL1423,HP_0100033,4.0,Tics,
+CHEMBL142703,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL142703,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Recruiting | Terminated | Unknown status
+CHEMBL1428,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1431,EFO_0000400,4.0,diabetes mellitus,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status
+CHEMBL14370,MONDO_0002050,4.0,depressive disorder,Unknown status
+CHEMBL14376,EFO_0005407,4.0,psychosis,
+CHEMBL14376,MONDO_0005090,4.0,schizophrenia,Completed | Terminated
+CHEMBL1441059,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed
+CHEMBL1441059,MONDO_0004979,4.0,asthma,"Active, not recruiting | Completed"
+CHEMBL1444,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1444,EFO_0000616,4.0,neoplasm,
+CHEMBL1444,EFO_0003869,4.0,breast neoplasm,"Active, not recruiting | Recruiting | Terminated"
+CHEMBL1444,MONDO_0007254,4.0,breast cancer,Unknown status | Completed | Recruiting | Terminated
+CHEMBL1445,EFO_0000616,4.0,neoplasm,
+CHEMBL1445,EFO_1001078,4.0,orchitis,
+CHEMBL1445,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1448187,EFO_0000677,4.0,mental or behavioural disorder,
+CHEMBL1451,EFO_0000701,4.0,skin disease,
+CHEMBL1451,EFO_0005752,4.0,eye inflammation,
+CHEMBL1451,EFO_0009552,4.0,hemorrhoid,
+CHEMBL1451,HP_0001742,4.0,Nasal congestion,
+CHEMBL1451,HP_0006536,4.0,Airway obstruction,
+CHEMBL1463345,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1464,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1464,MONDO_0000831,4.0,thrombotic disease,Recruiting
+CHEMBL1465,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1466,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1467,EFO_0000565,4.0,leukemia,
+CHEMBL1467,EFO_0000574,4.0,lymphoma,
+CHEMBL1467,EFO_0004274,4.0,gout,Completed | Enrolling by invitation | Recruiting
+CHEMBL1467,MONDO_0004992,4.0,cancer,
+CHEMBL1471,EFO_0004888,4.0,post operative nausea and vomiting,Recruiting | Unknown status | Completed | Terminated
+CHEMBL1471,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,
+CHEMBL1471,HP_0002013,4.0,Vomiting,Unknown status
+CHEMBL1471,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1471,HP_0002018,4.0,Nausea,Completed
+CHEMBL1471,MONDO_0004992,4.0,cancer,Completed
+CHEMBL1472989,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1473,EFO_0000274,4.0,atopic eczema,Completed
+CHEMBL1473,EFO_0000341,4.0,chronic obstructive pulmonary disease,Terminated | Unknown status | Completed
+CHEMBL1473,EFO_0000464,4.0,emphysema,Completed
+CHEMBL1473,EFO_0000701,4.0,skin disease,Completed
+CHEMBL1473,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1473,EFO_0005854,4.0,allergic rhinitis,Recruiting | Unknown status | Completed | Withdrawn
+CHEMBL1473,EFO_0006505,4.0,chronic bronchitis,Completed
+CHEMBL1473,HP_0001742,4.0,Nasal congestion,
+CHEMBL1473,HP_0006536,4.0,Airway obstruction,
+CHEMBL1473,HP_0100582,4.0,Nasal polyposis,
+CHEMBL1473,MONDO_0004979,4.0,asthma,Terminated | Withdrawn | Completed | Not yet recruiting
+CHEMBL1477,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1479,EFO_0001065,4.0,endometriosis,
+CHEMBL1480,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1480,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1480,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1487,EFO_0000319,4.0,cardiovascular disease,"Terminated | Unknown status | Active, not recruiting | Completed | Recruiting"
+CHEMBL1489,EFO_0000198,4.0,myelodysplastic syndrome,Not yet recruiting | Terminated | Completed
+CHEMBL1489,EFO_0000222,4.0,acute myeloid leukemia,Not yet recruiting
+CHEMBL1489,EFO_0000616,4.0,neoplasm,
+CHEMBL1489,EFO_0003811,4.0,refractory anemia with excess blasts,
+CHEMBL1489,EFO_1001779,4.0,chronic myelomonocytic leukemia,
+CHEMBL1490,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL1492,MONDO_0005271,4.0,allergic disease,
+CHEMBL1495,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1496,EFO_0000319,4.0,cardiovascular disease,"Active, not recruiting | Terminated"
+CHEMBL1497,EFO_0000701,4.0,skin disease,
+CHEMBL1501,EFO_0000701,4.0,skin disease,
+CHEMBL1501,EFO_0009552,4.0,hemorrhoid,
+CHEMBL1504,EFO_0000546,4.0,injury,
+CHEMBL1504,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL1504,EFO_0000701,4.0,skin disease,
+CHEMBL1504,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1504,EFO_0004274,4.0,gout,Terminated
+CHEMBL1504,EFO_0005854,4.0,allergic rhinitis,Completed
+CHEMBL1504,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL1504,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL1504,EFO_1001435,4.0,tenosynovitis,Terminated
+CHEMBL1504,EFO_1001887,4.0,epicondylitis,
+CHEMBL1504,EFO_1001896,4.0,lateral epicondylitis,Unknown status | Terminated
+CHEMBL1504,HP_0001742,4.0,Nasal congestion,Completed
+CHEMBL1504,HP_0012531,4.0,Pain,
+CHEMBL1504,MONDO_0002041,4.0,fungal infectious disease,
+CHEMBL1504,MONDO_0002280,4.0,anemia,
+CHEMBL1504,MONDO_0002406,4.0,dermatitis,
+CHEMBL1504,MONDO_0002471,4.0,bursitis,
+CHEMBL1504,MONDO_0004979,4.0,asthma,
+CHEMBL1504,MONDO_0005178,4.0,osteoarthritis,"Active, not recruiting | Completed | Recruiting | Terminated"
+CHEMBL1504,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL1508,MONDO_0002009,4.0,major depressive disorder,Completed | Recruiting | Withdrawn | Terminated | Unknown status
+CHEMBL1508,MONDO_0002050,4.0,depressive disorder,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status
+CHEMBL1509,EFO_0003894,4.0,acne,
+CHEMBL1510,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1511,EFO_0004266,4.0,primary ovarian insufficiency,
+CHEMBL1511,EFO_1000096,4.0,Atrophy,
+CHEMBL1511,GO_0042697,4.0,menopause,
+CHEMBL1511,HP_0008209,4.0,Premature ovarian insufficiency,
+CHEMBL1511,MONDO_0002146,4.0,hypogonadism,
+CHEMBL1512,EFO_0008521,4.0,rhinitis,
+CHEMBL1512,HP_0001742,4.0,Nasal congestion,
+CHEMBL1512,HP_0006536,4.0,Airway obstruction,
+CHEMBL1512,MONDO_0004979,4.0,asthma,
+CHEMBL1513,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1513,EFO_0000401,4.0,diabetic nephropathy,Completed
+CHEMBL1513,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1513,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL1513,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed
+CHEMBL1514,EFO_0003890,4.0,drug dependence,
+CHEMBL1514,EFO_0005611,4.0,opioid dependence,Completed
+CHEMBL1515,EFO_0009189,4.0,hyperthyroidism,
+CHEMBL1515,HP_0000820,4.0,Abnormality of the thyroid gland,
+CHEMBL1516474,EFO_0000555,4.0,irritable bowel syndrome,
+CHEMBL1518,EFO_0009189,4.0,hyperthyroidism,
+CHEMBL1518,HP_0000820,4.0,Abnormality of the thyroid gland,
+CHEMBL1519,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1519,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1519,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1519,EFO_0003144,4.0,heart failure,
+CHEMBL1520,EFO_0004234,4.0,erectile dysfunction,Completed | Unknown status
+CHEMBL1532,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1535,EFO_0001068,4.0,malaria,
+CHEMBL1536,EFO_0009451,4.0,hypoparathyroidism,
+CHEMBL1542,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL1551,EFO_0004267,4.0,biliary liver cirrhosis,
+CHEMBL1551,EFO_1001486,4.0,primary biliary cirrhosis,Completed | Recruiting
+CHEMBL1555,HP_0000726,4.0,Dementia,
+CHEMBL1555,MONDO_0004975,4.0,Alzheimer disease,Terminated | Completed
+CHEMBL1557,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1557,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1560,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1560,EFO_0000373,4.0,congestive heart failure,
+CHEMBL1560,EFO_0000401,4.0,diabetic nephropathy,
+CHEMBL1560,EFO_0000537,4.0,hypertension,Unknown status
+CHEMBL1560,EFO_0000612,4.0,myocardial infarction,
+CHEMBL1560,EFO_0003144,4.0,heart failure,
+CHEMBL1560,EFO_0005755,4.0,rheumatic disease,
+CHEMBL1560,EFO_1002048,4.0,kidney failure,
+CHEMBL1561,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1561,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL1562610,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL1562610,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL1562610,HP_0001945,4.0,Fever,
+CHEMBL1562610,HP_0100607,4.0,Dysmenorrhea,
+CHEMBL1562610,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL1563,EFO_0004289,4.0,lymphoid leukemia,
+CHEMBL1567,EFO_0000681,4.0,renal cell carcinoma,Completed
+CHEMBL1567,EFO_1001901,4.0,neuroendocrine neoplasm,
+CHEMBL1567,MONDO_0011719,4.0,gastrointestinal stromal tumor,Completed
+CHEMBL1568057,MONDO_0004979,4.0,asthma,
+CHEMBL1569,EFO_0000544,4.0,infection,
+CHEMBL1569,EFO_0007328,4.0,influenza,
+CHEMBL1569,EFO_1000860,4.0,cerebral atherosclerosis,
+CHEMBL1569,EFO_1001175,4.0,secondary Parkinson disease,
+CHEMBL1569,EFO_1001402,4.0,postencephalitic Parkinson disease,
+CHEMBL1569,MONDO_0005180,4.0,Parkinson disease,Completed
+CHEMBL1574,EFO_0001073,4.0,obesity,"Completed | Recruiting | Active, not recruiting"
+CHEMBL1577,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1580,EFO_0000616,4.0,neoplasm,
+CHEMBL1581,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1587,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1590,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1590,EFO_0005854,4.0,allergic rhinitis,Not yet recruiting | Completed
+CHEMBL1590,EFO_0007214,4.0,common cold,
+CHEMBL1590,HP_0001742,4.0,Nasal congestion,
+CHEMBL1592,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL1595,HP_0012531,4.0,Pain,Completed
+CHEMBL160,EFO_0000676,4.0,psoriasis,Completed | Not yet recruiting | Recruiting
+CHEMBL160,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL160,EFO_0003966,4.0,eye disease,
+CHEMBL160,MP_0001845,4.0,inflammation,Completed
+CHEMBL1607273,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1607273,EFO_0005531,4.0,urticaria,
+CHEMBL1607273,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL1607273,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1607273,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",
+CHEMBL1607273,HP_0000989,4.0,Pruritus,
+CHEMBL1607273,HP_0001742,4.0,Nasal congestion,
+CHEMBL1614701,EFO_0000616,4.0,neoplasm,
+CHEMBL1615369,EFO_0000275,4.0,atrial fibrillation,Completed
+CHEMBL1615369,EFO_0000712,4.0,stroke,
+CHEMBL1615369,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL1615369,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL1615369,EFO_0004286,4.0,venous thromboembolism,
+CHEMBL1615372,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL1615372,MONDO_0005090,4.0,schizophrenia,
+CHEMBL1615438,EFO_0005751,4.0,eye allergy,
+CHEMBL1615438,HP_0001742,4.0,Nasal congestion,
+CHEMBL1615779,EFO_0000239,4.0,adrenal gland pheochromocytoma,
+CHEMBL1615779,EFO_0000621,4.0,neuroblastoma,
+CHEMBL1615779,EFO_1000453,4.0,Paraganglioma,
+CHEMBL1620,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1620,EFO_0003958,4.0,sunburn,
+CHEMBL1620,EFO_0004698,4.0,insomnia,
+CHEMBL1620,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL1620,EFO_0006928,4.0,motion sickness,
+CHEMBL1620,EFO_0007214,4.0,common cold,
+CHEMBL1620,EFO_0009516,4.0,burn,
+CHEMBL1620,HP_0000989,4.0,Pruritus,
+CHEMBL1620,HP_0001742,4.0,Nasal congestion,
+CHEMBL1620,HP_0001945,4.0,Fever,
+CHEMBL1620,HP_0002013,4.0,Vomiting,
+CHEMBL1620,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1620,HP_0002018,4.0,Nausea,
+CHEMBL1620,HP_0002315,4.0,Headache,
+CHEMBL1620,HP_0012531,4.0,Pain,
+CHEMBL1620,HP_0012735,4.0,Cough,
+CHEMBL1620,MONDO_0002258,4.0,pharyngitis,
+CHEMBL1621,EFO_0000677,4.0,mental or behavioural disorder,Completed
+CHEMBL1621,EFO_0005407,4.0,psychosis,Completed
+CHEMBL1621,EFO_0005411,4.0,schizoaffective disorder,Unknown status | Completed
+CHEMBL1621,MONDO_0005090,4.0,schizophrenia,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL1623,MONDO_0005271,4.0,allergic disease,
+CHEMBL1626,HP_0000989,4.0,Pruritus,
+CHEMBL1626,MONDO_0005271,4.0,allergic disease,
+CHEMBL1628234,EFO_0000274,4.0,atopic eczema,
+CHEMBL1628234,EFO_0004698,4.0,insomnia,
+CHEMBL1628234,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL1628234,MONDO_0007079,4.0,alcohol dependence,
+CHEMBL163,EFO_0000180,4.0,HIV-1 infection,Completed | Not yet recruiting
+CHEMBL163,EFO_0000764,4.0,HIV infection,"Active, not recruiting | Completed | Terminated | Unknown status"
+CHEMBL163,EFO_0003047,4.0,hepatitis C virus infection,"Active, not recruiting"
+CHEMBL163,EFO_0004220,4.0,chronic hepatitis C virus infection,Completed | Unknown status
+CHEMBL1639,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1642,EFO_0000339,4.0,chronic myelogenous leukemia,Completed
+CHEMBL1642,MONDO_0011719,4.0,gastrointestinal stromal tumor,"Active, not recruiting | Completed"
+CHEMBL1643,EFO_0001422,4.0,cirrhosis of liver,Completed | Unknown status
+CHEMBL1643,EFO_0004220,4.0,chronic hepatitis C virus infection,Completed | Terminated | Unknown status
+CHEMBL1643,EFO_0006890,4.0,fibrosis,
+CHEMBL1650,EFO_0000274,4.0,atopic eczema,
+CHEMBL1650,EFO_0000398,4.0,dermatomyositis,
+CHEMBL1650,EFO_0000565,4.0,leukemia,
+CHEMBL1650,EFO_0000574,4.0,lymphoma,
+CHEMBL1650,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL1650,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL1650,EFO_0003063,4.0,polymyositis,
+CHEMBL1650,EFO_0003106,4.0,pneumonia,
+CHEMBL1650,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL1650,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL1650,EFO_0004274,4.0,gout,
+CHEMBL1650,EFO_0004276,4.0,Stevens-Johnson syndrome,
+CHEMBL1650,EFO_0005319,4.0,contact dermatitis,
+CHEMBL1650,EFO_0005558,4.0,hemolytic anemia,
+CHEMBL1650,EFO_0005752,4.0,eye inflammation,
+CHEMBL1650,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,
+CHEMBL1650,EFO_0007403,4.0,ophthalmic herpes zoster,
+CHEMBL1650,EFO_0008997,4.0,synovitis,
+CHEMBL1650,EFO_0009456,4.0,exfoliative dermatitis,
+CHEMBL1650,EFO_1000039,4.0,meningeal tuberculosis,
+CHEMBL1650,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL1650,EFO_1000684,4.0,dermatitis herpetiformis,
+CHEMBL1650,EFO_1000694,4.0,erythema multiforme,
+CHEMBL1650,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL1650,EFO_1000941,4.0,frozen shoulder,
+CHEMBL1650,EFO_1000997,4.0,iritis,
+CHEMBL1650,EFO_1001119,4.0,posterior uveitis,
+CHEMBL1650,EFO_1001194,4.0,subacute thyroiditis,
+CHEMBL1650,EFO_1001205,4.0,sympathetic ophthalmia,
+CHEMBL1650,EFO_1001435,4.0,tenosynovitis,
+CHEMBL1650,EFO_1001896,4.0,lateral epicondylitis,
+CHEMBL1650,HP_0001094,4.0,Iridocyclitis,
+CHEMBL1650,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL1650,HP_0001915,4.0,Aplastic anemia,
+CHEMBL1650,HP_0003072,4.0,Hypercalcemia,
+CHEMBL1650,HP_0004398,4.0,Peptic ulcer,
+CHEMBL1650,MONDO_0004979,4.0,asthma,
+CHEMBL1650,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL1650,MONDO_0005271,4.0,allergic disease,
+CHEMBL1650,MONDO_0007915,4.0,systemic lupus erythematosus,
+CHEMBL1650,MONDO_0008728,4.0,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,
+CHEMBL1650,MONDO_0015128,4.0,primary adrenal insufficiency,Completed
+CHEMBL1650,MONDO_0018479,4.0,congenital adrenal hyperplasia,Recruiting
+CHEMBL1650,MONDO_0043579,4.0,enteritis,
+CHEMBL1654,EFO_0003854,4.0,postmenopausal osteoporosis,Completed | Recruiting
+CHEMBL1654,EFO_0003882,4.0,osteoporosis,Completed
+CHEMBL1654,MONDO_0021165,4.0,Paget disease,
+CHEMBL1659,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1659,EFO_0007214,4.0,common cold,
+CHEMBL1659,EFO_0007486,4.0,sinusitis,
+CHEMBL1659,HP_0001742,4.0,Nasal congestion,
+CHEMBL1659,HP_0001945,4.0,Fever,
+CHEMBL1659,HP_0002315,4.0,Headache,
+CHEMBL1659,HP_0012531,4.0,Pain,
+CHEMBL1659,HP_0012735,4.0,Cough,
+CHEMBL1659,MONDO_0002258,4.0,pharyngitis,
+CHEMBL1659,MONDO_0005271,4.0,allergic disease,
+CHEMBL1668,EFO_0000537,4.0,hypertension,
+CHEMBL1670,EFO_0000616,4.0,neoplasm,
+CHEMBL1671,EFO_0000537,4.0,hypertension,
+CHEMBL1671,EFO_0000712,4.0,stroke,
+CHEMBL1671,EFO_0003913,4.0,angina pectoris,
+CHEMBL1671,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL1671,EFO_1000635,4.0,hemangioma,
+CHEMBL1671,MONDO_0005277,4.0,migraine disorder,
+CHEMBL1671,MONDO_0021661,4.0,coronary atherosclerosis,
+CHEMBL1676,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Withdrawn
+CHEMBL1676,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL1676,EFO_0005854,4.0,allergic rhinitis,Completed | Withdrawn
+CHEMBL1676,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",Completed
+CHEMBL1676,HP_0001742,4.0,Nasal congestion,
+CHEMBL1676,HP_0006536,4.0,Airway obstruction,
+CHEMBL1676,MONDO_0004979,4.0,asthma,Completed | Withdrawn
+CHEMBL1678,HP_0000726,4.0,Dementia,Completed
+CHEMBL1678,MONDO_0004975,4.0,Alzheimer disease,Completed | Terminated | Withdrawn
+CHEMBL1683,EFO_0000274,4.0,atopic eczema,Completed | Terminated | Withdrawn
+CHEMBL1683,EFO_0000701,4.0,skin disease,
+CHEMBL1683,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL1684,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1684,EFO_0000537,4.0,hypertension,Completed
+CHEMBL1685,HP_0012531,4.0,Pain,Not yet recruiting | Unknown status
+CHEMBL1690,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL1690,EFO_0001068,4.0,malaria,
+CHEMBL1691,EFO_0000537,4.0,hypertension,
+CHEMBL1691,EFO_0004190,4.0,open-angle glaucoma,
+CHEMBL1691,EFO_1001069,4.0,ocular hypertension,
+CHEMBL1693,EFO_0001073,4.0,obesity,
+CHEMBL1694,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL1694,EFO_0000537,4.0,hypertension,
+CHEMBL1694,EFO_0000712,4.0,stroke,
+CHEMBL1694,EFO_1002048,4.0,kidney failure,
+CHEMBL1695,HP_0001250,4.0,Seizure,
+CHEMBL1698,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL1698,MONDO_0002050,4.0,depressive disorder,
+CHEMBL169901,EFO_0000537,4.0,hypertension,
+CHEMBL17,MONDO_0005041,4.0,glaucoma,
+CHEMBL1700,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL1701,EFO_0003890,4.0,drug dependence,
+CHEMBL1701,HP_0012531,4.0,Pain,Unknown status
+CHEMBL1702,EFO_0003888,4.0,attention deficit hyperactivity disorder,"Active, not recruiting | Completed"
+CHEMBL1703,EFO_0000400,4.0,diabetes mellitus,Completed | Not yet recruiting
+CHEMBL1703,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Recruiting | Withdrawn
+CHEMBL1707,HP_0002014,4.0,Diarrhea,Completed
+CHEMBL1709,EFO_0001358,4.0,post-traumatic stress disorder,
+CHEMBL1709,EFO_0004242,4.0,obsessive-compulsive disorder,Completed
+CHEMBL1709,EFO_1001917,4.0,social anxiety disorder,
+CHEMBL1709,HP_0002315,4.0,Headache,
+CHEMBL1709,MONDO_0002009,4.0,major depressive disorder,Unknown status
+CHEMBL1715,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed
+CHEMBL17157,MONDO_0005271,4.0,allergic disease,
+CHEMBL1716,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1716,EFO_0005531,4.0,urticaria,
+CHEMBL1716,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL1717,EFO_0000712,4.0,stroke,
+CHEMBL1717,MONDO_0000831,4.0,thrombotic disease,
+CHEMBL1719,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL1719,EFO_0005854,4.0,allergic rhinitis,Withdrawn
+CHEMBL1719,EFO_0007141,4.0,allergic conjunctivitis,Recruiting | Completed | Withdrawn
+CHEMBL1719,HP_0000989,4.0,Pruritus,
+CHEMBL1720,EFO_0004888,4.0,post operative nausea and vomiting,
+CHEMBL1720,HP_0002013,4.0,Vomiting,
+CHEMBL1720,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL1720,HP_0002018,4.0,Nausea,
+CHEMBL1720,MONDO_0004992,4.0,cancer,
+CHEMBL1722,EFO_0003888,4.0,attention deficit hyperactivity disorder,"Active, not recruiting | Completed | Recruiting | Unknown status | Withdrawn | Terminated"
+CHEMBL1722209,EFO_0006865,4.0,urgency urinary incontinence,Completed
+CHEMBL1722209,EFO_1000781,4.0,overactive bladder,Completed
+CHEMBL1729,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL1732,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL1734,HP_0000020,4.0,Urinary incontinence,Completed | Recruiting | Unknown status
+CHEMBL1734,HP_0000103,4.0,Polyuria,
+CHEMBL1737,EFO_0001361,4.0,pulmonary arterial hypertension,Completed | Terminated
+CHEMBL1737,EFO_0004234,4.0,erectile dysfunction,Completed
+CHEMBL1737,HP_0000802,4.0,Impotence,Completed
+CHEMBL1737,MONDO_0005149,4.0,pulmonary hypertension,
+CHEMBL1738797,EFO_0000616,4.0,neoplasm,
+CHEMBL1742423,EFO_0005751,4.0,eye allergy,
+CHEMBL1742423,MONDO_0005271,4.0,allergic disease,
+CHEMBL1742982,EFO_0000365,4.0,colorectal adenocarcinoma,
+CHEMBL1742982,EFO_0000616,4.0,neoplasm,
+CHEMBL1742982,EFO_0003770,4.0,diabetic retinopathy,"Withdrawn | Active, not recruiting | Completed"
+CHEMBL1742982,EFO_0004683,4.0,wet macular degeneration,Completed | Withdrawn
+CHEMBL1742982,EFO_0005753,4.0,ocular vascular disease,
+CHEMBL1742982,EFO_0010977,4.0,macrovascular complications of diabetes,
+CHEMBL1742982,EFO_1001157,4.0,retinal vein occlusion,Terminated | Unknown status | Completed
+CHEMBL1742982,MONDO_0003005,4.0,macular retinal edema,Completed
+CHEMBL1742982,MONDO_0005575,4.0,colorectal cancer,
+CHEMBL1742990,EFO_0000540,4.0,immune system disease,
+CHEMBL1742991,MONDO_0004979,4.0,asthma,Recruiting | Completed | Unknown status
+CHEMBL1742992,EFO_0000220,4.0,acute lymphoblastic leukemia,
+CHEMBL1742992,EFO_0000616,4.0,neoplasm,
+CHEMBL1742992,EFO_0004289,4.0,lymphoid leukemia,Recruiting
+CHEMBL1742994,EFO_0000183,4.0,Hodgkins lymphoma,Completed
+CHEMBL1742994,EFO_0000616,4.0,neoplasm,
+CHEMBL1742994,EFO_0003032,4.0,anaplastic large cell lymphoma,
+CHEMBL1742994,EFO_0005952,4.0,non-Hodgkins lymphoma,
+CHEMBL1742996,EFO_0000676,4.0,psoriasis,"Active, not recruiting | Completed | Not yet recruiting | Withdrawn | Recruiting | Terminated"
+CHEMBL1742996,EFO_1001494,4.0,psoriasis vulgaris,"Active, not recruiting | Completed | Terminated | Recruiting"
+CHEMBL1743007,EFO_0000616,4.0,neoplasm,
+CHEMBL1743007,EFO_0001378,4.0,multiple myeloma,Completed | Recruiting
+CHEMBL1743010,EFO_0000616,4.0,neoplasm,
+CHEMBL1743010,EFO_0001378,4.0,multiple myeloma,
+CHEMBL1743029,EFO_0000180,4.0,HIV-1 infection,
+CHEMBL1743029,EFO_0000763,4.0,viral disease,
+CHEMBL1743029,EFO_0000764,4.0,HIV infection,
+CHEMBL1743034,EFO_0000540,4.0,immune system disease,
+CHEMBL1743034,EFO_0000676,4.0,psoriasis,"Active, not recruiting | Completed | Recruiting"
+CHEMBL1743034,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL1743034,EFO_1001494,4.0,psoriasis vulgaris,"Active, not recruiting"
+CHEMBL1743041,EFO_0000616,4.0,neoplasm,
+CHEMBL1743041,EFO_1000785,4.0,Sezary's disease,
+CHEMBL1743041,EFO_1001051,4.0,mycosis fungoides,
+CHEMBL1743043,EFO_0000616,4.0,neoplasm,
+CHEMBL1743043,EFO_1000956,4.0,hairy cell leukemia,
+CHEMBL1743047,EFO_0000616,4.0,neoplasm,
+CHEMBL1743047,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL1743048,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL1743048,EFO_0000616,4.0,neoplasm,
+CHEMBL1743048,MONDO_0018906,4.0,follicular lymphoma,Completed
+CHEMBL1743049,EFO_0000616,4.0,neoplasm,
+CHEMBL1743049,EFO_0000691,4.0,sarcoma,
+CHEMBL1743062,EFO_0000616,4.0,neoplasm,
+CHEMBL1743062,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL1743062,EFO_0003897,4.0,stomach neoplasm,
+CHEMBL1743062,MONDO_0001056,4.0,gastric cancer,Recruiting
+CHEMBL1743068,EFO_0000540,4.0,immune system disease,
+CHEMBL1743068,EFO_0000676,4.0,psoriasis,"Completed | Withdrawn | Active, not recruiting | Not yet recruiting | Recruiting"
+CHEMBL1743068,EFO_0000706,4.0,spondyloarthropathy,Recruiting
+CHEMBL1743068,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL1743068,EFO_0003898,4.0,ankylosing spondylitis,"Active, not recruiting | Completed | Recruiting | Unknown status"
+CHEMBL1743068,EFO_1001494,4.0,psoriasis vulgaris,"Active, not recruiting | Recruiting"
+CHEMBL1743070,EFO_0000540,4.0,immune system disease,
+CHEMBL1743073,EFO_0001361,4.0,pulmonary arterial hypertension,Not yet recruiting
+CHEMBL1743078,MONDO_0005147,4.0,type 1 diabetes mellitus,Recruiting
+CHEMBL1743079,EFO_1001466,4.0,Graves ophthalmopathy,Completed
+CHEMBL1743081,EFO_0000274,4.0,atopic eczema,
+CHEMBL1743081,HP_0000964,4.0,Eczematoid dermatitis,
+CHEMBL1743082,EFO_0000305,4.0,breast carcinoma,
+CHEMBL1743082,EFO_0000616,4.0,neoplasm,
+CHEMBL1743082,EFO_0003869,4.0,breast neoplasm,
+CHEMBL1743082,MONDO_0007254,4.0,breast cancer,Completed
+CHEMBL1744447,EFO_0001645,4.0,coronary artery disease,Completed
+CHEMBL1744447,EFO_0003914,4.0,atherosclerosis,
+CHEMBL1744447,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL1744447,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL1744447,MONDO_0018473,4.0,hyperlipoproteinemia type 3,
+CHEMBL1744447,MONDO_0021187,4.0,hyperlipidemia,Completed
+CHEMBL1752,HP_0006536,4.0,Airway obstruction,
+CHEMBL175247,EFO_0001073,4.0,obesity,"Completed | Terminated | Active, not recruiting"
+CHEMBL1755,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1760,HP_0006536,4.0,Airway obstruction,
+CHEMBL1763,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL1766,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL1766,EFO_0000701,4.0,skin disease,
+CHEMBL1766,EFO_1001494,4.0,psoriasis vulgaris,
+CHEMBL1771,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL1771,MONDO_0000831,4.0,thrombotic disease,Completed
+CHEMBL1773,EFO_0000305,4.0,breast carcinoma,Completed
+CHEMBL1773,EFO_0000503,4.0,gastric adenocarcinoma,Terminated
+CHEMBL1773,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL1773,EFO_0003869,4.0,breast neoplasm,"Active, not recruiting"
+CHEMBL1773,EFO_0003897,4.0,stomach neoplasm,
+CHEMBL1773,EFO_0004142,4.0,colorectal neoplasm,Completed
+CHEMBL1773,EFO_0004288,4.0,colonic neoplasm,
+CHEMBL1773,MONDO_0005575,4.0,colorectal cancer,Terminated | Completed
+CHEMBL1773,MONDO_0007254,4.0,breast cancer,Terminated | Completed | Recruiting
+CHEMBL1779710,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL178,EFO_0000222,4.0,acute myeloid leukemia,"Completed | Active, not recruiting | Terminated"
+CHEMBL178,EFO_0000616,4.0,neoplasm,
+CHEMBL17879,HP_0000989,4.0,Pruritus,
+CHEMBL17879,MONDO_0007318,4.0,Alagille syndrome,
+CHEMBL1789842,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed
+CHEMBL1789842,EFO_0000464,4.0,emphysema,
+CHEMBL1789842,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1789843,EFO_0005761,4.0,lupus nephritis,
+CHEMBL1789843,MONDO_0007915,4.0,systemic lupus erythematosus,Recruiting | Unknown status | Completed | Not yet recruiting
+CHEMBL1789844,EFO_0000616,4.0,neoplasm,
+CHEMBL1789844,EFO_0000681,4.0,renal cell carcinoma,Completed
+CHEMBL1789844,EFO_0000756,4.0,melanoma,"Active, not recruiting"
+CHEMBL1789844,EFO_0002617,4.0,metastatic melanoma,Terminated
+CHEMBL1789844,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL1789941,EFO_0000616,4.0,neoplasm,
+CHEMBL1789941,HP_0000964,4.0,Eczematoid dermatitis,
+CHEMBL1790041,EFO_0003948,4.0,gastroesophageal reflux disease,
+CHEMBL1790041,HP_0004398,4.0,Peptic ulcer,Withdrawn
+CHEMBL1795071,EFO_0002429,4.0,polycythemia vera,
+CHEMBL1795071,EFO_0002430,4.0,primary myelofibrosis,
+CHEMBL1795071,EFO_0004251,4.0,myeloproliferative disorder,
+CHEMBL1795071,HP_0011974,4.0,Myelofibrosis,
+CHEMBL1795071,MONDO_0013730,4.0,graft versus host disease,
+CHEMBL1800159,EFO_0000616,4.0,neoplasm,
+CHEMBL1800159,MONDO_0008315,4.0,prostate cancer,"Active, not recruiting"
+CHEMBL1808388,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL181,EFO_0000537,4.0,hypertension,
+CHEMBL18442,EFO_0000220,4.0,acute lymphoblastic leukemia,
+CHEMBL18442,EFO_0000574,4.0,lymphoma,Recruiting
+CHEMBL18442,EFO_0000616,4.0,neoplasm,
+CHEMBL18442,EFO_0001378,4.0,multiple myeloma,
+CHEMBL18442,EFO_0005952,4.0,non-Hodgkins lymphoma,Completed
+CHEMBL185,EFO_0000228,4.0,adenocarcinoma,
+CHEMBL185,EFO_0000616,4.0,neoplasm,
+CHEMBL185,EFO_0002496,4.0,actinic keratosis,Completed | Enrolling by invitation | Unknown status
+CHEMBL185,EFO_0004193,4.0,basal cell carcinoma,
+CHEMBL1873475,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL1873475,EFO_0000616,4.0,neoplasm,
+CHEMBL1873475,EFO_0009441,4.0,Waldenstrom macroglobulinemia,Completed
+CHEMBL1873475,EFO_1001469,4.0,Mantle cell lymphoma,Completed
+CHEMBL1888176,HP_0000020,4.0,Urinary incontinence,Completed
+CHEMBL1888176,HP_0000103,4.0,Polyuria,
+CHEMBL189,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL19,EFO_0004190,4.0,open-angle glaucoma,"Active, not recruiting"
+CHEMBL19,MONDO_0005041,4.0,glaucoma,
+CHEMBL190461,EFO_0000474,4.0,epilepsy,
+CHEMBL190461,HP_0001250,4.0,Seizure,
+CHEMBL190461,MONDO_0016532,4.0,Lennox-Gastaut syndrome,Withdrawn
+CHEMBL1908360,EFO_0000305,4.0,breast carcinoma,Completed
+CHEMBL1908360,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL1908360,EFO_0000681,4.0,renal cell carcinoma,Completed | Terminated
+CHEMBL1908360,EFO_1000045,4.0,pancreatic neuroendocrine tumor,Completed
+CHEMBL1908360,EFO_1000634,4.0,hamartoma,
+CHEMBL1908360,EFO_1001901,4.0,neuroendocrine neoplasm,Completed
+CHEMBL1908360,MONDO_0001734,4.0,tuberous sclerosis,
+CHEMBL1908360,MONDO_0004555,4.0,kidney angiomyolipoma,
+CHEMBL1908360,MONDO_0007254,4.0,breast cancer,Completed
+CHEMBL1908391,EFO_0000616,4.0,neoplasm,
+CHEMBL191,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL192,EFO_0004234,4.0,erectile dysfunction,Unknown status | Completed
+CHEMBL192,HP_0000802,4.0,Impotence,Completed | Unknown status
+CHEMBL19236,EFO_0000537,4.0,hypertension,
+CHEMBL19449,HP_0006536,4.0,Airway obstruction,
+CHEMBL1946170,EFO_0000616,4.0,neoplasm,
+CHEMBL1946170,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL1946170,MONDO_0005575,4.0,colorectal cancer,
+CHEMBL1951071,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Terminated
+CHEMBL1951071,EFO_0000464,4.0,emphysema,
+CHEMBL1951071,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL1963681,EFO_0004234,4.0,erectile dysfunction,Completed | Unknown status
+CHEMBL1963681,HP_0000802,4.0,Impotence,
+CHEMBL1963683,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL1963683,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL1963683,MONDO_0005041,4.0,glaucoma,Completed
+CHEMBL1983268,EFO_0000616,4.0,neoplasm,
+CHEMBL1983268,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL198362,EFO_0000275,4.0,atrial fibrillation,Completed | Recruiting | Unknown status
+CHEMBL198362,EFO_0001645,4.0,coronary artery disease,"Active, not recruiting | Recruiting | Completed"
+CHEMBL198362,EFO_0003827,4.0,pulmonary embolism,Completed
+CHEMBL198362,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL198362,EFO_0004265,4.0,peripheral arterial disease,Completed | Recruiting
+CHEMBL198362,EFO_0004286,4.0,venous thromboembolism,Completed | Recruiting | Terminated
+CHEMBL198362,EFO_0005672,4.0,acute coronary syndrome,Recruiting | Not yet recruiting
+CHEMBL198362,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL198362,HP_0004936,4.0,Venous thrombosis,Recruiting | Completed
+CHEMBL198362,MONDO_0000831,4.0,thrombotic disease,Recruiting
+CHEMBL20,EFO_0000474,4.0,epilepsy,
+CHEMBL20,EFO_0003144,4.0,heart failure,Completed | Not yet recruiting | Recruiting
+CHEMBL20,EFO_0009373,4.0,edema,
+CHEMBL20,EFO_1000782,4.0,altitude sickness,"Active, not recruiting | Completed"
+CHEMBL20,HP_0001250,4.0,Seizure,
+CHEMBL20,MONDO_0001744,4.0,angle-closure glaucoma,
+CHEMBL20,MONDO_0005041,4.0,glaucoma,Completed | Unknown status
+CHEMBL2007641,EFO_0000305,4.0,breast carcinoma,
+CHEMBL2007641,EFO_0000616,4.0,neoplasm,
+CHEMBL2007641,EFO_0003869,4.0,breast neoplasm,
+CHEMBL2007641,MONDO_0007254,4.0,breast cancer,Completed | Recruiting
+CHEMBL2010601,MONDO_0009061,4.0,cystic fibrosis,Recruiting | Terminated | Unknown status
+CHEMBL2018096,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL2021430,EFO_0000274,4.0,atopic eczema,
+CHEMBL2021430,EFO_0000384,4.0,Crohn's disease,
+CHEMBL2021430,EFO_0000565,4.0,leukemia,
+CHEMBL2021430,EFO_0000574,4.0,lymphoma,
+CHEMBL2021430,EFO_0000676,4.0,psoriasis,
+CHEMBL2021430,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL2021430,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL2021430,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL2021430,EFO_0003106,4.0,pneumonia,
+CHEMBL2021430,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL2021430,EFO_0003898,4.0,ankylosing spondylitis,
+CHEMBL2021430,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL2021430,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL2021430,EFO_0004274,4.0,gout,
+CHEMBL2021430,EFO_0004276,4.0,Stevens-Johnson syndrome,
+CHEMBL2021430,EFO_0004719,4.0,pemphigus vulgaris,
+CHEMBL2021430,EFO_0005319,4.0,contact dermatitis,
+CHEMBL2021430,EFO_0005558,4.0,hemolytic anemia,
+CHEMBL2021430,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL2021430,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL2021430,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,
+CHEMBL2021430,EFO_0007257,4.0,eosinophilic pneumonia,
+CHEMBL2021430,EFO_0007403,4.0,ophthalmic herpes zoster,
+CHEMBL2021430,EFO_0007405,4.0,optic neuritis,
+CHEMBL2021430,EFO_0007520,4.0,trichinosis,
+CHEMBL2021430,EFO_0008997,4.0,synovitis,
+CHEMBL2021430,EFO_0009449,4.0,keratitis,
+CHEMBL2021430,EFO_0009456,4.0,exfoliative dermatitis,
+CHEMBL2021430,EFO_0009491,4.0,adrenocortical insufficiency,
+CHEMBL2021430,EFO_0009609,4.0,myocarditis,
+CHEMBL2021430,EFO_1000039,4.0,meningeal tuberculosis,
+CHEMBL2021430,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL2021430,EFO_1000684,4.0,dermatitis herpetiformis,
+CHEMBL2021430,EFO_1000694,4.0,erythema multiforme,
+CHEMBL2021430,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL2021430,EFO_1000845,4.0,brain edema,
+CHEMBL2021430,EFO_1000941,4.0,frozen shoulder,
+CHEMBL2021430,EFO_1000997,4.0,iritis,
+CHEMBL2021430,EFO_1001051,4.0,mycosis fungoides,
+CHEMBL2021430,EFO_1001119,4.0,posterior uveitis,
+CHEMBL2021430,EFO_1001194,4.0,subacute thyroiditis,
+CHEMBL2021430,EFO_1001205,4.0,sympathetic ophthalmia,
+CHEMBL2021430,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL2021430,EFO_1001435,4.0,tenosynovitis,
+CHEMBL2021430,EFO_1001896,4.0,lateral epicondylitis,
+CHEMBL2021430,HP_0001094,4.0,Iridocyclitis,
+CHEMBL2021430,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL2021430,HP_0001915,4.0,Aplastic anemia,
+CHEMBL2021430,HP_0003072,4.0,Hypercalcemia,
+CHEMBL2021430,HP_0004398,4.0,Peptic ulcer,
+CHEMBL2021430,HP_0012424,4.0,Chorioretinitis,
+CHEMBL2021430,MONDO_0001280,4.0,choroiditis,
+CHEMBL2021430,MONDO_0004979,4.0,asthma,
+CHEMBL2021430,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL2021430,MONDO_0007915,4.0,systemic lupus erythematosus,
+CHEMBL2021430,MONDO_0008728,4.0,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,
+CHEMBL2021430,MONDO_0015128,4.0,primary adrenal insufficiency,
+CHEMBL2021430,MONDO_0019338,4.0,sarcoidosis,
+CHEMBL2021430,MP_0001845,4.0,inflammation,
+CHEMBL2024517,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL2024517,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL2024517,MONDO_0005090,4.0,schizophrenia,
+CHEMBL2028019,EFO_0005407,4.0,psychosis,
+CHEMBL2028663,EFO_0000616,4.0,neoplasm,
+CHEMBL2028852,EFO_0005532,4.0,angioedema,
+CHEMBL2028852,MONDO_0019623,4.0,hereditary angioedema,
+CHEMBL2028987,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL2028987,MONDO_0008315,4.0,prostate cancer,
+CHEMBL2035187,EFO_0000616,4.0,neoplasm,
+CHEMBL2040682,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL2040682,EFO_0005854,4.0,allergic rhinitis,Completed | Withdrawn
+CHEMBL2040682,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",Completed
+CHEMBL2040682,HP_0001742,4.0,Nasal congestion,
+CHEMBL2040682,HP_0006536,4.0,Airway obstruction,
+CHEMBL2040682,MONDO_0004979,4.0,asthma,Terminated | Completed
+CHEMBL2043437,EFO_0000616,4.0,neoplasm,
+CHEMBL2062163,EFO_0001073,4.0,obesity,
+CHEMBL2062266,HP_0012531,4.0,Pain,Completed
+CHEMBL2062335,EFO_0000537,4.0,hypertension,Completed
+CHEMBL2062335,EFO_0000612,4.0,myocardial infarction,Completed
+CHEMBL2062335,EFO_0000712,4.0,stroke,
+CHEMBL2062335,EFO_0003144,4.0,heart failure,
+CHEMBL2062335,EFO_0003913,4.0,angina pectoris,
+CHEMBL206253,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,"Active, not recruiting"
+CHEMBL20883,EFO_0000616,4.0,neoplasm,
+CHEMBL2095212,EFO_0006865,4.0,urgency urinary incontinence,Recruiting | Completed
+CHEMBL2095212,EFO_1000781,4.0,overactive bladder,Not yet recruiting | Completed | Recruiting | Unknown status | Withdrawn
+CHEMBL2095212,HP_0000020,4.0,Urinary incontinence,Recruiting | Completed
+CHEMBL2103738,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL2103739,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL2103744,EFO_0003890,4.0,drug dependence,
+CHEMBL2103744,EFO_0020911,4.0,overdose,
+CHEMBL2103744,HP_0012531,4.0,Pain,Recruiting | Terminated | Unknown status | Completed | Withdrawn
+CHEMBL2103744,HP_0012532,4.0,Chronic pain,Terminated | Completed
+CHEMBL2103744,MONDO_0004992,4.0,cancer,Completed
+CHEMBL2103795,EFO_0000537,4.0,hypertension,
+CHEMBL2103795,EFO_0000712,4.0,stroke,
+CHEMBL2103802,EFO_0003144,4.0,heart failure,
+CHEMBL2103802,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed
+CHEMBL2103837,EFO_0000318,4.0,cardiomyopathy,
+CHEMBL2103837,EFO_1001875,4.0,amyloidosis,
+CHEMBL2103837,MONDO_0019438,4.0,AL amyloidosis,
+CHEMBL2103867,HP_0002019,4.0,Constipation,
+CHEMBL2103868,EFO_0000182,4.0,hepatocellular carcinoma,
+CHEMBL2103868,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL2103868,EFO_0002892,4.0,thyroid carcinoma,
+CHEMBL2103870,MONDO_0009061,4.0,cystic fibrosis,Terminated
+CHEMBL2103875,EFO_0000616,4.0,neoplasm,
+CHEMBL2103883,MP_0001914,4.0,hemorrhage,
+CHEMBL2104391,EFO_0000400,4.0,diabetes mellitus,Completed | Terminated
+CHEMBL2104391,MONDO_0005147,4.0,type 1 diabetes mellitus,Terminated | Completed | Unknown status
+CHEMBL2104391,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL2104987,MONDO_0015183,4.0,short bowel syndrome,Completed
+CHEMBL2105458,HP_0000989,4.0,Pruritus,
+CHEMBL2105458,MONDO_0005271,4.0,allergic disease,
+CHEMBL2105581,EFO_0005407,4.0,psychosis,
+CHEMBL2105613,EFO_0000474,4.0,epilepsy,
+CHEMBL2105613,EFO_0009963,4.0,bipolar I disorder,Completed
+CHEMBL2105613,EFO_1000877,4.0,complex partial epilepsy,
+CHEMBL2105613,HP_0001250,4.0,Seizure,
+CHEMBL2105613,HP_0002121,4.0,Generalized non-motor (absence) seizure,
+CHEMBL2105613,MONDO_0004985,4.0,bipolar disorder,Completed | Terminated | Withdrawn
+CHEMBL2105613,MONDO_0005277,4.0,migraine disorder,
+CHEMBL2105648,MONDO_0007606,4.0,fibrodysplasia ossificans progressiva,
+CHEMBL2105675,EFO_0000318,4.0,cardiomyopathy,
+CHEMBL2105675,EFO_1001875,4.0,amyloidosis,
+CHEMBL2105675,MONDO_0019438,4.0,AL amyloidosis,
+CHEMBL2105682,EFO_0000275,4.0,atrial fibrillation,
+CHEMBL2105682,EFO_0000712,4.0,stroke,
+CHEMBL2105682,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL2105682,EFO_0003907,4.0,deep vein thrombosis,
+CHEMBL2105682,EFO_0004286,4.0,venous thromboembolism,
+CHEMBL2105712,EFO_0003060,4.0,non-small cell lung carcinoma,Not yet recruiting
+CHEMBL2105717,EFO_0000616,4.0,neoplasm,
+CHEMBL2105719,EFO_0000616,4.0,neoplasm,
+CHEMBL2105719,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL2105720,EFO_0004274,4.0,gout,
+CHEMBL2105720,EFO_0009104,4.0,hyperuricemia,
+CHEMBL2105729,EFO_0000756,4.0,melanoma,
+CHEMBL2105729,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL2105732,EFO_0005687,4.0,fibromyalgia,
+CHEMBL2105732,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL2105737,EFO_0000616,4.0,neoplasm,
+CHEMBL2105741,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL2105743,EFO_0000341,4.0,chronic obstructive pulmonary disease,
+CHEMBL2105743,EFO_0000464,4.0,emphysema,
+CHEMBL2105743,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL2105748,HP_0002019,4.0,Constipation,
+CHEMBL2105755,HP_0002019,4.0,Constipation,
+CHEMBL2105756,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL2105758,EFO_0001421,4.0,liver disease,
+CHEMBL2105758,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL2105759,EFO_0000685,4.0,rheumatoid arthritis,"Active, not recruiting | Completed | Recruiting | Terminated"
+CHEMBL2105760,EFO_0005407,4.0,psychosis,
+CHEMBL2105760,MONDO_0002009,4.0,major depressive disorder,Completed | Recruiting | Withdrawn
+CHEMBL2105760,MONDO_0005090,4.0,schizophrenia,
+CHEMBL2106483,EFO_0003888,4.0,attention deficit hyperactivity disorder,Completed | Recruiting
+CHEMBL2107067,EFO_0000616,4.0,neoplasm,
+CHEMBL2107067,EFO_1001006,4.0,Klinefelter's syndrome,
+CHEMBL2107067,EFO_1001078,4.0,orchitis,
+CHEMBL2107067,MONDO_0002146,4.0,hypogonadism,"Withdrawn | Active, not recruiting | Recruiting"
+CHEMBL2107067,MONDO_0018555,4.0,hypogonadotropic hypogonadism,Completed
+CHEMBL2107333,EFO_0000540,4.0,immune system disease,
+CHEMBL2107333,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL2107333,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,Completed | Terminated | Withdrawn
+CHEMBL2107333,MONDO_0005301,4.0,multiple sclerosis,"Active, not recruiting | Completed | Terminated | Unknown status"
+CHEMBL2107354,EFO_0000616,4.0,neoplasm,
+CHEMBL2107355,MONDO_0010526,4.0,Fabry disease,
+CHEMBL2107360,EFO_0005411,4.0,schizoaffective disorder,Completed
+CHEMBL2107360,MONDO_0005090,4.0,schizophrenia,Completed | Not yet recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL2107383,EFO_0000275,4.0,atrial fibrillation,
+CHEMBL2107386,EFO_0000612,4.0,myocardial infarction,
+CHEMBL2107386,EFO_0004265,4.0,peripheral arterial disease,
+CHEMBL2107387,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL2107797,MP_0001914,4.0,hemorrhage,
+CHEMBL2107826,EFO_0006865,4.0,urgency urinary incontinence,Recruiting
+CHEMBL2107826,EFO_1000781,4.0,overactive bladder,
+CHEMBL2107826,HP_0000020,4.0,Urinary incontinence,
+CHEMBL2107830,EFO_0000400,4.0,diabetes mellitus,Completed | Recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL2107830,EFO_0003144,4.0,heart failure,Enrolling by invitation | Completed | Recruiting
+CHEMBL2107830,EFO_0003884,4.0,chronic kidney disease,Recruiting
+CHEMBL2107830,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Not yet recruiting | Recruiting | Terminated
+CHEMBL2107831,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL2107831,MP_0001914,4.0,hemorrhage,
+CHEMBL2107841,EFO_0000400,4.0,diabetes mellitus,Completed | Terminated
+CHEMBL2107841,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Terminated
+CHEMBL2107869,EFO_0000400,4.0,diabetes mellitus,Terminated
+CHEMBL2107873,Orphanet_903,4.0,Von Willebrand disease,
+CHEMBL2107874,EFO_0003854,4.0,postmenopausal osteoporosis,"Recruiting | Active, not recruiting"
+CHEMBL2107874,EFO_0003882,4.0,osteoporosis,Completed | Recruiting
+CHEMBL2107884,HP_0006536,4.0,Airway obstruction,
+CHEMBL2107884,MONDO_0004979,4.0,asthma,Completed | Terminated
+CHEMBL2107885,EFO_0000612,4.0,myocardial infarction,
+CHEMBL2107885,EFO_0003144,4.0,heart failure,
+CHEMBL2107885,EFO_0008585,4.0,ST Elevation Myocardial Infarction,
+CHEMBL2107885,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL2108027,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL2108027,MONDO_0005148,4.0,type 2 diabetes mellitus,"Completed | Active, not recruiting | Recruiting"
+CHEMBL2108041,EFO_0003840,4.0,chronic progressive multiple sclerosis,
+CHEMBL2108041,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,"Active, not recruiting | Recruiting"
+CHEMBL2108041,MONDO_0005301,4.0,multiple sclerosis,"Recruiting | Withdrawn | Active, not recruiting | Completed | Terminated"
+CHEMBL2108078,EFO_0003854,4.0,postmenopausal osteoporosis,Completed
+CHEMBL2108078,EFO_0009451,4.0,hypoparathyroidism,
+CHEMBL2108184,HP_0002014,4.0,Diarrhea,Terminated
+CHEMBL2108286,MONDO_0010602,4.0,hemophilia A,
+CHEMBL2108290,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL2108290,EFO_0004272,4.0,anemia (phenotype),
+CHEMBL2108319,MONDO_0010602,4.0,hemophilia A,Not yet recruiting
+CHEMBL2108334,MONDO_0002244,4.0,factor VII deficiency,
+CHEMBL2108334,MONDO_0010602,4.0,hemophilia A,Completed
+CHEMBL2108334,MONDO_0010604,4.0,hemophilia B,
+CHEMBL2108336,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL2108336,MONDO_0005148,4.0,type 2 diabetes mellitus,Terminated | Completed
+CHEMBL2108348,MONDO_0010604,4.0,hemophilia B,
+CHEMBL2108350,MONDO_0019623,4.0,hereditary angioedema,
+CHEMBL2108354,EFO_0003840,4.0,chronic progressive multiple sclerosis,
+CHEMBL2108354,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL2108429,EFO_1001467,4.0,Hypereosinophilic syndrome,
+CHEMBL2108429,HP_0006536,4.0,Airway obstruction,
+CHEMBL2108429,MONDO_0004979,4.0,asthma,Not yet recruiting | Recruiting | Completed
+CHEMBL2108581,EFO_0000616,4.0,neoplasm,
+CHEMBL2108593,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL2108593,EFO_0004272,4.0,anemia (phenotype),
+CHEMBL2108594,EFO_0003944,4.0,tibia fracture,
+CHEMBL2108594,EFO_0004260,4.0,bone disease,
+CHEMBL2108611,EFO_0000220,4.0,acute lymphoblastic leukemia,"Active, not recruiting | Completed"
+CHEMBL2108611,EFO_0000616,4.0,neoplasm,
+CHEMBL2108658,EFO_0000182,4.0,hepatocellular carcinoma,
+CHEMBL2108658,EFO_0000616,4.0,neoplasm,
+CHEMBL2108675,EFO_0000274,4.0,atopic eczema,"Completed | Recruiting | Active, not recruiting | Not yet recruiting | Terminated"
+CHEMBL2108675,MONDO_0004979,4.0,asthma,Recruiting | Completed
+CHEMBL2108724,EFO_0000400,4.0,diabetes mellitus,Recruiting
+CHEMBL2108724,EFO_0001073,4.0,obesity,"Active, not recruiting | Recruiting"
+CHEMBL2108724,MONDO_0005148,4.0,type 2 diabetes mellitus,"Recruiting | Active, not recruiting | Completed | Terminated"
+CHEMBL2108730,EFO_0000540,4.0,immune system disease,
+CHEMBL2108730,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL2108738,EFO_0000181,4.0,head and neck squamous cell carcinoma,
+CHEMBL2108738,EFO_0000183,4.0,Hodgkins lymphoma,
+CHEMBL2108738,EFO_0000588,4.0,mesothelioma,
+CHEMBL2108738,EFO_0000616,4.0,neoplasm,
+CHEMBL2108738,EFO_0000681,4.0,renal cell carcinoma,Completed
+CHEMBL2108738,EFO_0000756,4.0,melanoma,Recruiting
+CHEMBL2108738,EFO_0002617,4.0,metastatic melanoma,Unknown status
+CHEMBL2108738,EFO_0003060,4.0,non-small cell lung carcinoma,"Active, not recruiting"
+CHEMBL2108738,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL2108738,EFO_1000601,4.0,Transitional Cell Carcinoma,
+CHEMBL2108738,MONDO_0009348,4.0,classic Hodgkin lymphoma,
+CHEMBL2108791,EFO_0000612,4.0,myocardial infarction,"Terminated | Active, not recruiting"
+CHEMBL2108791,EFO_0008583,4.0,acute myocardial infarction,Terminated
+CHEMBL2108791,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL2108973,EFO_0000400,4.0,diabetes mellitus,Terminated
+CHEMBL2109065,HP_0100806,4.0,Sepsis,Completed
+CHEMBL2109092,EFO_0003884,4.0,chronic kidney disease,Completed
+CHEMBL2109092,EFO_0004272,4.0,anemia (phenotype),Recruiting | Completed | Terminated | Unknown status
+CHEMBL2109093,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL2109093,EFO_0004272,4.0,anemia (phenotype),
+CHEMBL2109128,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL2109137,MONDO_0010602,4.0,hemophilia A,Completed | Terminated | Withdrawn
+CHEMBL2109171,EFO_0003944,4.0,tibia fracture,Completed
+CHEMBL2109171,EFO_0004260,4.0,bone disease,
+CHEMBL2109205,MONDO_0010604,4.0,hemophilia B,Completed
+CHEMBL2109334,EFO_0004256,4.0,neuromyelitis optica,Not yet recruiting | Recruiting
+CHEMBL2109540,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL2109540,EFO_0001645,4.0,coronary artery disease,Recruiting
+CHEMBL2109540,EFO_0003914,4.0,atherosclerosis,Terminated
+CHEMBL2109540,EFO_0004911,4.0,familial hypercholesterolemia,Completed | Terminated
+CHEMBL2109624,MONDO_0018896,4.0,thrombotic thrombocytopenic purpura,
+CHEMBL2110372,EFO_0004607,4.0,duodenal ulcer,
+CHEMBL2110372,EFO_0009454,4.0,gastric ulcer,
+CHEMBL2110372,MONDO_0043839,4.0,ulcer disease,
+CHEMBL2110588,MONDO_0018150,4.0,Gaucher disease,
+CHEMBL2110774,HP_0000989,4.0,Pruritus,
+CHEMBL2110774,MONDO_0005271,4.0,allergic disease,
+CHEMBL2110824,EFO_0000616,4.0,neoplasm,
+CHEMBL2111101,EFO_0005407,4.0,psychosis,
+CHEMBL2111112,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL2111286,EFO_0003948,4.0,gastroesophageal reflux disease,
+CHEMBL2111286,HP_0004398,4.0,Peptic ulcer,
+CHEMBL2111290,EFO_1001348,4.0,HIV-Associated Lipodystrophy Syndrome,
+CHEMBL211471,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL21333,HP_0006536,4.0,Airway obstruction,
+CHEMBL2134724,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Terminated
+CHEMBL2134724,EFO_0000464,4.0,emphysema,
+CHEMBL2134724,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL2134724,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL2134724,EFO_0007214,4.0,common cold,Completed
+CHEMBL2134724,HP_0001742,4.0,Nasal congestion,
+CHEMBL2134724,HP_0006536,4.0,Airway obstruction,
+CHEMBL2134724,MONDO_0004979,4.0,asthma,Terminated | Completed | Unknown status
+CHEMBL2135460,MONDO_0001382,4.0,hepatorenal syndrome,Unknown status
+CHEMBL2138684,MONDO_0005277,4.0,migraine disorder,
+CHEMBL2145077,EFO_0000373,4.0,congestive heart failure,
+CHEMBL2145077,EFO_0003144,4.0,heart failure,
+CHEMBL2145077,EFO_0003913,4.0,angina pectoris,
+CHEMBL2146146,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL2146146,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL2146146,HP_0004398,4.0,Peptic ulcer,
+CHEMBL2146146,HP_0011499,4.0,Mydriasis,
+CHEMBL2146146,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL2146883,EFO_0000616,4.0,neoplasm,
+CHEMBL2147777,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL2159122,EFO_0000555,4.0,irritable bowel syndrome,Completed
+CHEMBL2181927,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL2181927,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL2181927,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL218490,MONDO_0005041,4.0,glaucoma,Completed | Unknown status
+CHEMBL219916,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL220491,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL220491,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL220491,MONDO_0005041,4.0,glaucoma,Completed | Terminated
+CHEMBL220492,EFO_0000474,4.0,epilepsy,Completed | Unknown status
+CHEMBL220492,HP_0001250,4.0,Seizure,
+CHEMBL220492,MONDO_0005277,4.0,migraine disorder,Completed | Enrolling by invitation | Recruiting
+CHEMBL220492,MONDO_0016532,4.0,Lennox-Gastaut syndrome,
+CHEMBL2216870,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL2216870,EFO_0000096,4.0,neoplasm of mature B-cells,
+CHEMBL2216870,EFO_0000616,4.0,neoplasm,
+CHEMBL2216870,EFO_0005952,4.0,non-Hodgkins lymphoma,
+CHEMBL2218894,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL2218894,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL2218896,HP_0002017,4.0,Nausea and vomiting,Terminated
+CHEMBL2218896,HP_0002018,4.0,Nausea,
+CHEMBL2218896,MONDO_0004992,4.0,cancer,
+CHEMBL2218917,EFO_0009869,4.0,xerostomia,
+CHEMBL2219416,EFO_0005611,4.0,opioid dependence,
+CHEMBL2219416,HP_0002019,4.0,Constipation,
+CHEMBL2219416,HP_0012531,4.0,Pain,
+CHEMBL2219418,HP_0002019,4.0,Constipation,Terminated | Completed
+CHEMBL2219425,MONDO_0005090,4.0,schizophrenia,Completed | Recruiting
+CHEMBL2220442,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL22242,EFO_0005407,4.0,psychosis,
+CHEMBL225071,EFO_0000616,4.0,neoplasm,
+CHEMBL225072,EFO_0000588,4.0,mesothelioma,
+CHEMBL225072,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL225072,EFO_0000770,4.0,malignant pleural mesothelioma,
+CHEMBL227529,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL2311030,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL231779,EFO_0000275,4.0,atrial fibrillation,Unknown status | Completed | Recruiting
+CHEMBL231779,EFO_0000712,4.0,stroke,
+CHEMBL231779,EFO_0003827,4.0,pulmonary embolism,
+CHEMBL231779,EFO_0003907,4.0,deep vein thrombosis,Terminated
+CHEMBL231779,EFO_0004286,4.0,venous thromboembolism,Terminated | Completed | Recruiting
+CHEMBL231779,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL231779,MONDO_0000831,4.0,thrombotic disease,Recruiting
+CHEMBL232201,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL2336071,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL2356097,EFO_0000373,4.0,congestive heart failure,
+CHEMBL2356097,EFO_0000537,4.0,hypertension,Completed | Terminated
+CHEMBL2356097,EFO_0000612,4.0,myocardial infarction,
+CHEMBL2356097,EFO_0000712,4.0,stroke,
+CHEMBL2356097,EFO_0003144,4.0,heart failure,
+CHEMBL2356097,EFO_0003913,4.0,angina pectoris,Completed
+CHEMBL2360464,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL2364607,EFO_0000756,4.0,melanoma,
+CHEMBL2364607,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL2364612,EFO_0004190,4.0,open-angle glaucoma,
+CHEMBL2364612,EFO_1001069,4.0,ocular hypertension,Withdrawn
+CHEMBL2364612,MONDO_0005041,4.0,glaucoma,
+CHEMBL2364629,MONDO_0005277,4.0,migraine disorder,
+CHEMBL2364638,MONDO_0005277,4.0,migraine disorder,Completed | Recruiting
+CHEMBL2364649,EFO_0000616,4.0,neoplasm,
+CHEMBL2364649,MONDO_0007254,4.0,breast cancer,
+CHEMBL2364653,MONDO_0007915,4.0,systemic lupus erythematosus,
+CHEMBL2364655,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL2364655,EFO_0000612,4.0,myocardial infarction,
+CHEMBL2364655,EFO_0001645,4.0,coronary artery disease,Completed | Recruiting | Withdrawn
+CHEMBL2364655,EFO_0004911,4.0,familial hypercholesterolemia,Completed | Terminated
+CHEMBL2364655,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL2364655,MONDO_0018328,4.0,homozygous familial hypercholesterolemia,Completed
+CHEMBL2368861,EFO_0003890,4.0,drug dependence,
+CHEMBL2368861,EFO_0005611,4.0,opioid dependence,Completed
+CHEMBL2368924,EFO_0004888,4.0,post operative nausea and vomiting,
+CHEMBL2368924,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL2368924,MONDO_0004992,4.0,cancer,
+CHEMBL2368925,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,"Active, not recruiting"
+CHEMBL2368925,HP_0002018,4.0,Nausea,
+CHEMBL237500,EFO_0000400,4.0,diabetes mellitus,Completed | Unknown status | Withdrawn | Terminated
+CHEMBL237500,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed | Unknown status | Withdrawn | Terminated
+CHEMBL238804,EFO_0001361,4.0,pulmonary arterial hypertension,Completed | Recruiting
+CHEMBL238804,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL238804,MONDO_0005149,4.0,pulmonary hypertension,
+CHEMBL2396661,EFO_0000305,4.0,breast carcinoma,
+CHEMBL2396661,EFO_0000616,4.0,neoplasm,
+CHEMBL2396661,EFO_0003869,4.0,breast neoplasm,
+CHEMBL2396661,MONDO_0007254,4.0,breast cancer,Recruiting
+CHEMBL24,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL24,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL24,EFO_0000537,4.0,hypertension,Completed | Recruiting | Unknown status
+CHEMBL24,EFO_0000612,4.0,myocardial infarction,
+CHEMBL24,EFO_0000712,4.0,stroke,
+CHEMBL24,EFO_0003913,4.0,angina pectoris,Completed | Unknown status
+CHEMBL24,MONDO_0021661,4.0,coronary atherosclerosis,
+CHEMBL2403108,EFO_0000616,4.0,neoplasm,
+CHEMBL2403108,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL2403108,MONDO_0004992,4.0,cancer,"Active, not recruiting"
+CHEMBL24072,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL2443262,HP_0012531,4.0,Pain,
+CHEMBL24441,HP_0002321,4.0,Vertigo,
+CHEMBL2448612,HP_0002315,4.0,Headache,
+CHEMBL2448612,MONDO_0005277,4.0,migraine disorder,
+CHEMBL2448613,EFO_0005407,4.0,psychosis,
+CHEMBL2448613,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL24778,EFO_0000284,4.0,benign prostatic hyperplasia,Completed
+CHEMBL24828,EFO_0000616,4.0,neoplasm,
+CHEMBL24828,EFO_0002892,4.0,thyroid carcinoma,
+CHEMBL24828,EFO_0003841,4.0,thyroid neoplasm,
+CHEMBL24828,MONDO_0002108,4.0,thyroid cancer,"Active, not recruiting"
+CHEMBL24828,MONDO_0015277,4.0,medullary thyroid gland carcinoma,
+CHEMBL254328,EFO_0000616,4.0,neoplasm,
+CHEMBL256087,EFO_0000546,4.0,injury,
+CHEMBL256087,EFO_0003958,4.0,sunburn,
+CHEMBL256087,EFO_0005856,4.0,arthritis,
+CHEMBL256087,EFO_0007214,4.0,common cold,
+CHEMBL256087,EFO_0009582,4.0,sprain,
+CHEMBL256087,HP_0000155,4.0,Oral ulcer,
+CHEMBL256087,HP_0000989,4.0,Pruritus,
+CHEMBL256087,HP_0001742,4.0,Nasal congestion,
+CHEMBL256087,HP_0002315,4.0,Headache,
+CHEMBL256087,HP_0003326,4.0,Myalgia,
+CHEMBL256087,HP_0003418,4.0,Back pain,
+CHEMBL256087,HP_0012531,4.0,Pain,
+CHEMBL256087,HP_0012735,4.0,Cough,
+CHEMBL256087,MONDO_0002258,4.0,pharyngitis,
+CHEMBL256087,MONDO_0043653,4.0,herpes labialis,
+CHEMBL259571,EFO_0000676,4.0,psoriasis,Completed | Recruiting
+CHEMBL26,EFO_0005407,4.0,psychosis,
+CHEMBL260538,EFO_0000731,4.0,uterine fibroid,Terminated | Unknown status
+CHEMBL260538,MONDO_0001572,4.0,leiomyoma,Unknown status
+CHEMBL27,EFO_0000319,4.0,cardiovascular disease,Recruiting
+CHEMBL270190,HP_0002019,4.0,Constipation,Completed
+CHEMBL271227,EFO_0000196,4.0,metastatic prostate cancer,Unknown status
+CHEMBL271227,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL271227,MONDO_0008315,4.0,prostate cancer,"Completed | Unknown status | Active, not recruiting"
+CHEMBL277062,HP_0000739,4.0,Anxiety,
+CHEMBL277474,HP_0001945,4.0,Fever,
+CHEMBL277474,HP_0012531,4.0,Pain,
+CHEMBL278020,MONDO_0005041,4.0,glaucoma,
+CHEMBL27810,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL278398,MONDO_0005271,4.0,allergic disease,
+CHEMBL28218,EFO_0005407,4.0,psychosis,
+CHEMBL289469,EFO_0004888,4.0,post operative nausea and vomiting,Completed | Not yet recruiting
+CHEMBL289469,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,"Active, not recruiting | Unknown status | Completed | Recruiting"
+CHEMBL289469,HP_0002013,4.0,Vomiting,
+CHEMBL289469,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL289469,HP_0002018,4.0,Nausea,
+CHEMBL289469,MONDO_0004992,4.0,cancer,
+CHEMBL289480,EFO_0000537,4.0,hypertension,
+CHEMBL294199,EFO_0005762,4.0,neuropathic pain,Terminated
+CHEMBL294199,EFO_0005856,4.0,arthritis,
+CHEMBL294199,EFO_0009430,4.0,neuralgia,
+CHEMBL294199,EFO_0009582,4.0,sprain,
+CHEMBL294199,HP_0002829,4.0,Arthralgia,
+CHEMBL294199,HP_0003326,4.0,Myalgia,
+CHEMBL294199,HP_0003418,4.0,Back pain,
+CHEMBL294199,HP_0012531,4.0,Pain,Completed
+CHEMBL294199,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL295698,EFO_0003099,4.0,Cushing syndrome,
+CHEMBL295698,EFO_0005539,4.0,adrenal gland disease,
+CHEMBL296419,MONDO_0005271,4.0,allergic disease,
+CHEMBL296913,HP_0012531,4.0,Pain,Completed | Withdrawn
+CHEMBL297302,EFO_0005407,4.0,psychosis,
+CHEMBL299400,EFO_0003890,4.0,drug dependence,
+CHEMBL30,EFO_0003948,4.0,gastroesophageal reflux disease,
+CHEMBL30,EFO_0004607,4.0,duodenal ulcer,
+CHEMBL30,HP_0004398,4.0,Peptic ulcer,
+CHEMBL3039502,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL3039502,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL3039507,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL3039507,EFO_0003144,4.0,heart failure,Recruiting
+CHEMBL3039507,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL3039507,MONDO_0005147,4.0,type 1 diabetes mellitus,
+CHEMBL3039507,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL3039508,HP_0002019,4.0,Constipation,
+CHEMBL3039520,MONDO_0005277,4.0,migraine disorder,
+CHEMBL3039526,MONDO_0005277,4.0,migraine disorder,
+CHEMBL3039540,MONDO_0004975,4.0,Alzheimer disease,
+CHEMBL3039596,EFO_0000537,4.0,hypertension,
+CHEMBL3039596,EFO_0003144,4.0,heart failure,
+CHEMBL3039598,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL304902,EFO_0005407,4.0,psychosis,
+CHEMBL305660,MONDO_0005271,4.0,allergic disease,
+CHEMBL3084748,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL3084748,EFO_1000781,4.0,overactive bladder,Completed
+CHEMBL3099695,EFO_0005539,4.0,adrenal gland disease,
+CHEMBL3137301,EFO_0000373,4.0,congestive heart failure,Recruiting | Terminated
+CHEMBL3137301,EFO_0003144,4.0,heart failure,"Completed | Terminated | Active, not recruiting | Recruiting | Withdrawn"
+CHEMBL3137309,EFO_0000095,4.0,chronic lymphocytic leukemia,Not yet recruiting
+CHEMBL3137309,EFO_0000616,4.0,neoplasm,
+CHEMBL3137317,EFO_0004193,4.0,basal cell carcinoma,
+CHEMBL3137318,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3137326,EFO_0004152,4.0,chorea,
+CHEMBL3137326,MONDO_0007739,4.0,Huntington disease,
+CHEMBL3137343,EFO_0000181,4.0,head and neck squamous cell carcinoma,"Active, not recruiting"
+CHEMBL3137343,EFO_0000183,4.0,Hodgkins lymphoma,
+CHEMBL3137343,EFO_0000616,4.0,neoplasm,
+CHEMBL3137343,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL3137343,EFO_0000756,4.0,melanoma,
+CHEMBL3137343,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL3137343,EFO_0003060,4.0,non-small cell lung carcinoma,Recruiting
+CHEMBL3137343,EFO_1000601,4.0,Transitional Cell Carcinoma,
+CHEMBL3137343,MONDO_0021251,4.0,endometrium neoplasm,
+CHEMBL313972,EFO_0000616,4.0,neoplasm,
+CHEMBL314437,HP_0012531,4.0,Pain,
+CHEMBL317094,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL3183075,EFO_0003948,4.0,gastroesophageal reflux disease,
+CHEMBL3183075,EFO_0004607,4.0,duodenal ulcer,
+CHEMBL3183075,HP_0004398,4.0,Peptic ulcer,
+CHEMBL3183075,HP_0100633,4.0,Esophagitis,
+CHEMBL3183409,EFO_0000616,4.0,neoplasm,
+CHEMBL3183409,EFO_0000673,4.0,prostate adenocarcinoma,"Active, not recruiting"
+CHEMBL3183409,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL3183409,MONDO_0008315,4.0,prostate cancer,Recruiting
+CHEMBL3185958,EFO_0000545,4.0,infertility,Completed | Unknown status
+CHEMBL3185958,EFO_0000660,4.0,polycystic ovary syndrome,Completed | Terminated | Unknown status
+CHEMBL3186492,EFO_0004888,4.0,post operative nausea and vomiting,
+CHEMBL3186492,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,Completed
+CHEMBL3186492,HP_0002013,4.0,Vomiting,
+CHEMBL3186492,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL3186492,HP_0002018,4.0,Nausea,
+CHEMBL3186492,MONDO_0004992,4.0,cancer,
+CHEMBL3187365,EFO_0005407,4.0,psychosis,
+CHEMBL3187365,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL3187365,MONDO_0005090,4.0,schizophrenia,Completed | Unknown status
+CHEMBL3187723,EFO_0000616,4.0,neoplasm,Recruiting
+CHEMBL3187723,EFO_0000756,4.0,melanoma,
+CHEMBL3187723,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL3188034,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL3188034,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL3188034,EFO_0007214,4.0,common cold,
+CHEMBL3188034,HP_0001742,4.0,Nasal congestion,
+CHEMBL3188267,EFO_0000616,4.0,neoplasm,
+CHEMBL3188993,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL3188993,EFO_0009964,4.0,bipolar II disorder,
+CHEMBL3188993,MONDO_0002009,4.0,major depressive disorder,Unknown status | Completed
+CHEMBL3188993,MONDO_0004985,4.0,bipolar disorder,Unknown status | Withdrawn | Completed | Terminated
+CHEMBL3188993,MONDO_0005090,4.0,schizophrenia,Completed | Unknown status
+CHEMBL3218576,EFO_0000616,4.0,neoplasm,
+CHEMBL3244648,EFO_0000676,4.0,psoriasis,
+CHEMBL3244648,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL3244648,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL3244648,EFO_0002893,4.0,choriocarcinoma,
+CHEMBL3244648,EFO_0005952,4.0,non-Hodgkins lymphoma,
+CHEMBL3244648,EFO_1001012,4.0,leptomeningeal metastasis,
+CHEMBL3244648,MONDO_0002041,4.0,fungal infectious disease,
+CHEMBL3244648,MONDO_0007254,4.0,breast cancer,
+CHEMBL3244648,MONDO_0008903,4.0,lung cancer,
+CHEMBL325109,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL32800,HP_0006536,4.0,Airway obstruction,
+CHEMBL3286830,EFO_0000574,4.0,lymphoma,
+CHEMBL3286830,EFO_0000616,4.0,neoplasm,
+CHEMBL3286830,EFO_0003060,4.0,non-small cell lung carcinoma,"Completed | Recruiting | Active, not recruiting"
+CHEMBL3301574,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL3301581,EFO_0003854,4.0,postmenopausal osteoporosis,Recruiting
+CHEMBL3301581,EFO_0003882,4.0,osteoporosis,"Active, not recruiting"
+CHEMBL3301582,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL3301582,EFO_0000616,4.0,neoplasm,
+CHEMBL3301587,EFO_0000616,4.0,neoplasm,"Active, not recruiting"
+CHEMBL3301587,EFO_0000702,4.0,small cell lung carcinoma,
+CHEMBL3301587,EFO_0003060,4.0,non-small cell lung carcinoma,Completed
+CHEMBL3301589,EFO_0000616,4.0,neoplasm,
+CHEMBL3301589,MONDO_0004992,4.0,cancer,
+CHEMBL3301603,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL3301610,EFO_0000305,4.0,breast carcinoma,
+CHEMBL3301610,EFO_0000616,4.0,neoplasm,
+CHEMBL3301610,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3301610,MONDO_0007254,4.0,breast cancer,Recruiting | Terminated | Withdrawn
+CHEMBL3301612,EFO_0000616,4.0,neoplasm,Recruiting
+CHEMBL3301612,EFO_0000756,4.0,melanoma,
+CHEMBL3301612,EFO_0002617,4.0,metastatic melanoma,
+CHEMBL3301612,EFO_0004142,4.0,colorectal neoplasm,
+CHEMBL3301622,EFO_0000616,4.0,neoplasm,
+CHEMBL3301624,EFO_0001073,4.0,obesity,
+CHEMBL3301627,EFO_0000555,4.0,irritable bowel syndrome,
+CHEMBL3301675,EFO_0000555,4.0,irritable bowel syndrome,Terminated
+CHEMBL3301675,HP_0002019,4.0,Constipation,
+CHEMBL3306803,EFO_0005407,4.0,psychosis,Terminated
+CHEMBL334966,EFO_0000612,4.0,myocardial infarction,Completed
+CHEMBL334966,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL3353410,EFO_0000616,4.0,neoplasm,
+CHEMBL33986,HP_0012531,4.0,Pain,Completed | Recruiting
+CHEMBL3402762,EFO_0000616,4.0,neoplasm,
+CHEMBL3414621,EFO_0000616,4.0,neoplasm,
+CHEMBL34259,EFO_0000220,4.0,acute lymphoblastic leukemia,Unknown status | Completed
+CHEMBL34259,EFO_0000305,4.0,breast carcinoma,
+CHEMBL34259,EFO_0000616,4.0,neoplasm,
+CHEMBL34259,EFO_0000676,4.0,psoriasis,"Completed | Not yet recruiting | Recruiting | Active, not recruiting | Unknown status"
+CHEMBL34259,EFO_0000685,4.0,rheumatoid arthritis,"Active, not recruiting | Completed | Not yet recruiting | Terminated | Recruiting | Unknown status | Withdrawn"
+CHEMBL34259,EFO_0002609,4.0,juvenile idiopathic arthritis,Completed
+CHEMBL34259,EFO_0003778,4.0,psoriatic arthritis,Recruiting | Completed
+CHEMBL34259,EFO_0005952,4.0,non-Hodgkins lymphoma,
+CHEMBL34259,EFO_1001012,4.0,leptomeningeal metastasis,Not yet recruiting
+CHEMBL34259,EFO_1001051,4.0,mycosis fungoides,Terminated
+CHEMBL34259,EFO_1001494,4.0,psoriasis vulgaris,Unknown status
+CHEMBL34259,MONDO_0007254,4.0,breast cancer,
+CHEMBL344159,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL344159,EFO_0000373,4.0,congestive heart failure,Completed
+CHEMBL344159,EFO_0003144,4.0,heart failure,Completed | Withdrawn
+CHEMBL344159,EFO_0008620,4.0,Polycystic Kidney Disease,
+CHEMBL344159,EFO_1001496,4.0,Autosomal dominant polycystic kidney disease,Unknown status | Completed
+CHEMBL344159,HP_0002902,4.0,Hyponatremia,Terminated
+CHEMBL35,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL35,EFO_0000373,4.0,congestive heart failure,Recruiting | Completed
+CHEMBL35,EFO_0000537,4.0,hypertension,Completed
+CHEMBL35,EFO_0001422,4.0,cirrhosis of liver,Terminated
+CHEMBL35,EFO_0003144,4.0,heart failure,Recruiting | Completed | Terminated | Unknown status | Withdrawn
+CHEMBL35,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL3544906,EFO_0001073,4.0,obesity,
+CHEMBL3544909,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL3544909,EFO_0005754,4.0,parathyroid disease,
+CHEMBL3544909,EFO_1001173,4.0,secondary hyperparathyroidism,Completed
+CHEMBL3544914,MONDO_0009061,4.0,cystic fibrosis,Recruiting
+CHEMBL3544971,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL3544971,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL3544974,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL3544974,MONDO_0004985,4.0,bipolar disorder,Completed
+CHEMBL3544974,MONDO_0005090,4.0,schizophrenia,Completed | Unknown status
+CHEMBL3544986,EFO_0000537,4.0,hypertension,Completed
+CHEMBL3545059,EFO_0000537,4.0,hypertension,
+CHEMBL3545059,EFO_0000712,4.0,stroke,
+CHEMBL3545063,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL3545068,EFO_0000096,4.0,neoplasm of mature B-cells,
+CHEMBL3545068,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL3545131,EFO_0000616,4.0,neoplasm,
+CHEMBL3545131,EFO_0001378,4.0,multiple myeloma,
+CHEMBL3545132,EFO_1001100,4.0,peritoneal neoplasm,
+CHEMBL3545181,EFO_0000341,4.0,chronic obstructive pulmonary disease,Terminated | Completed | Recruiting | Unknown status | Withdrawn
+CHEMBL3545181,EFO_0000464,4.0,emphysema,
+CHEMBL3545181,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL3545181,HP_0006536,4.0,Airway obstruction,
+CHEMBL3545181,MONDO_0004979,4.0,asthma,Completed
+CHEMBL3545183,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL3545183,EFO_1001173,4.0,secondary hyperparathyroidism,
+CHEMBL3545184,EFO_0005754,4.0,parathyroid disease,
+CHEMBL3545184,EFO_1001173,4.0,secondary hyperparathyroidism,
+CHEMBL3545185,EFO_0000403,4.0,diffuse large B-cell lymphoma,Recruiting
+CHEMBL3545185,EFO_0000616,4.0,neoplasm,
+CHEMBL3545185,EFO_0001378,4.0,multiple myeloma,
+CHEMBL3545189,MONDO_0019623,4.0,hereditary angioedema,
+CHEMBL3545191,MONDO_0018328,4.0,homozygous familial hypercholesterolemia,
+CHEMBL3545262,EFO_0000616,4.0,neoplasm,Enrolling by invitation
+CHEMBL3545262,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3545262,EFO_0005537,4.0,triple-negative breast cancer,
+CHEMBL3545262,MONDO_0007254,4.0,breast cancer,
+CHEMBL3545311,EFO_0000616,4.0,neoplasm,
+CHEMBL3545311,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL3545313,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL3545313,EFO_0003914,4.0,atherosclerosis,
+CHEMBL3545313,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL3545313,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL3545367,EFO_0004698,4.0,insomnia,Completed
+CHEMBL3590187,EFO_0003894,4.0,acne,"Active, not recruiting"
+CHEMBL359744,EFO_0000183,4.0,Hodgkins lymphoma,
+CHEMBL359744,EFO_0000223,4.0,acute myelomonocytic leukemia,
+CHEMBL359744,EFO_0000305,4.0,breast carcinoma,
+CHEMBL359744,EFO_0000558,4.0,Kaposi's sarcoma,
+CHEMBL359744,EFO_0000691,4.0,sarcoma,
+CHEMBL359744,EFO_0001075,4.0,ovarian carcinoma,
+CHEMBL359744,EFO_0001378,4.0,multiple myeloma,Unknown status
+CHEMBL359744,EFO_0003869,4.0,breast neoplasm,
+CHEMBL359744,EFO_0003893,4.0,ovarian neoplasm,Completed
+CHEMBL359744,EFO_0005952,4.0,non-Hodgkins lymphoma,
+CHEMBL359744,MONDO_0004986,4.0,urinary bladder carcinoma,
+CHEMBL359744,MONDO_0007254,4.0,breast cancer,
+CHEMBL359744,MONDO_0008170,4.0,ovarian cancer,
+CHEMBL360328,EFO_0001073,4.0,obesity,Terminated
+CHEMBL3608680,HP_0031217,4.0,Hot flashes,
+CHEMBL3646221,EFO_0004272,4.0,anemia (phenotype),
+CHEMBL3655081,EFO_0000274,4.0,atopic eczema,Recruiting
+CHEMBL3655081,HP_0000964,4.0,Eczematoid dermatitis,
+CHEMBL3707227,EFO_0000616,4.0,neoplasm,
+CHEMBL3707227,EFO_0000702,4.0,small cell lung carcinoma,
+CHEMBL3707227,EFO_0003060,4.0,non-small cell lung carcinoma,Completed | Recruiting
+CHEMBL3707227,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3707227,EFO_0008528,4.0,urothelial carcinoma,
+CHEMBL3707227,MONDO_0007254,4.0,breast cancer,
+CHEMBL3707227,MONDO_0008903,4.0,lung cancer,
+CHEMBL3707229,MONDO_0004979,4.0,asthma,
+CHEMBL3707246,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL3707246,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL3707246,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL3707248,EFO_0004280,4.0,movement disorder,
+CHEMBL3707266,EFO_0000305,4.0,breast carcinoma,
+CHEMBL3707266,EFO_0000616,4.0,neoplasm,
+CHEMBL3707266,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3707266,MONDO_0007254,4.0,breast cancer,
+CHEMBL3707275,MONDO_0018998,4.0,Leber congenital amaurosis,
+CHEMBL3707276,MONDO_0007037,4.0,achondroplasia,
+CHEMBL3707290,EFO_1001109,4.0,pituitary dwarfism,
+CHEMBL3707313,EFO_0003894,4.0,acne,Completed
+CHEMBL3707314,EFO_0003884,4.0,chronic kidney disease,Completed
+CHEMBL3707314,EFO_0004272,4.0,anemia (phenotype),Completed
+CHEMBL3707314,MONDO_0002280,4.0,anemia,
+CHEMBL3707320,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL3707326,EFO_1002027,4.0,osteomalacia,"Active, not recruiting"
+CHEMBL3707326,HP_0002148,4.0,Hypophosphatemia,
+CHEMBL3707326,Orphanet_89936,4.0,X-linked hypophosphatemia,"Active, not recruiting | Completed"
+CHEMBL3707330,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,
+CHEMBL3707348,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL3707348,EFO_0000616,4.0,neoplasm,
+CHEMBL3707348,EFO_1001469,4.0,Mantle cell lymphoma,
+CHEMBL3707357,EFO_0004683,4.0,wet macular degeneration,Withdrawn
+CHEMBL3707357,EFO_0005753,4.0,ocular vascular disease,
+CHEMBL3707359,EFO_0005422,4.0,skin aging,
+CHEMBL3707393,EFO_0003099,4.0,Cushing syndrome,
+CHEMBL3707393,EFO_1001110,4.0,pituitary-dependent Cushing's disease,
+CHEMBL3786343,EFO_0000616,4.0,neoplasm,
+CHEMBL3813873,EFO_0000616,4.0,neoplasm,
+CHEMBL3833319,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Recruiting
+CHEMBL3833319,HP_0006536,4.0,Airway obstruction,
+CHEMBL3833321,MONDO_0004975,4.0,Alzheimer disease,
+CHEMBL3833329,MONDO_0005277,4.0,migraine disorder,Completed | Terminated | Recruiting
+CHEMBL3833373,EFO_0000616,4.0,neoplasm,
+CHEMBL3833373,EFO_0008528,4.0,urothelial carcinoma,
+CHEMBL3833373,EFO_1001471,4.0,Merkel cell skin cancer,
+CHEMBL3833384,EFO_0000616,4.0,neoplasm,
+CHEMBL384467,EFO_0000274,4.0,atopic eczema,
+CHEMBL384467,EFO_0000384,4.0,Crohn's disease,
+CHEMBL384467,EFO_0000544,4.0,infection,Completed
+CHEMBL384467,EFO_0000565,4.0,leukemia,Completed
+CHEMBL384467,EFO_0000574,4.0,lymphoma,
+CHEMBL384467,EFO_0000616,4.0,neoplasm,Completed | Terminated
+CHEMBL384467,EFO_0000676,4.0,psoriasis,
+CHEMBL384467,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL384467,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL384467,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL384467,EFO_0003106,4.0,pneumonia,Terminated
+CHEMBL384467,EFO_0003770,4.0,diabetic retinopathy,Completed
+CHEMBL384467,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL384467,EFO_0003894,4.0,acne,
+CHEMBL384467,EFO_0003898,4.0,ankylosing spondylitis,
+CHEMBL384467,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL384467,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL384467,EFO_0004274,4.0,gout,
+CHEMBL384467,EFO_0004276,4.0,Stevens-Johnson syndrome,
+CHEMBL384467,EFO_0004719,4.0,pemphigus vulgaris,
+CHEMBL384467,EFO_0005319,4.0,contact dermatitis,
+CHEMBL384467,EFO_0005539,4.0,adrenal gland disease,
+CHEMBL384467,EFO_0005558,4.0,hemolytic anemia,
+CHEMBL384467,EFO_0005752,4.0,eye inflammation,
+CHEMBL384467,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL384467,EFO_0007141,4.0,allergic conjunctivitis,Completed
+CHEMBL384467,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,Not yet recruiting | Completed | Recruiting | Withdrawn
+CHEMBL384467,EFO_0007257,4.0,eosinophilic pneumonia,
+CHEMBL384467,EFO_0007403,4.0,ophthalmic herpes zoster,
+CHEMBL384467,EFO_0007405,4.0,optic neuritis,
+CHEMBL384467,EFO_0007520,4.0,trichinosis,
+CHEMBL384467,EFO_0008997,4.0,synovitis,
+CHEMBL384467,EFO_0009449,4.0,keratitis,
+CHEMBL384467,EFO_0009456,4.0,exfoliative dermatitis,
+CHEMBL384467,EFO_0009552,4.0,hemorrhoid,
+CHEMBL384467,EFO_0009609,4.0,myocarditis,
+CHEMBL384467,EFO_1000039,4.0,meningeal tuberculosis,
+CHEMBL384467,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL384467,EFO_1000684,4.0,dermatitis herpetiformis,
+CHEMBL384467,EFO_1000694,4.0,erythema multiforme,
+CHEMBL384467,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL384467,EFO_1000797,4.0,adrenal gland hyperfunction,
+CHEMBL384467,EFO_1000941,4.0,frozen shoulder,
+CHEMBL384467,EFO_1000997,4.0,iritis,
+CHEMBL384467,EFO_1001051,4.0,mycosis fungoides,
+CHEMBL384467,EFO_1001119,4.0,posterior uveitis,Completed | Recruiting
+CHEMBL384467,EFO_1001194,4.0,subacute thyroiditis,
+CHEMBL384467,EFO_1001205,4.0,sympathetic ophthalmia,
+CHEMBL384467,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL384467,EFO_1001231,4.0,uveitis,
+CHEMBL384467,EFO_1001435,4.0,tenosynovitis,
+CHEMBL384467,EFO_1001896,4.0,lateral epicondylitis,
+CHEMBL384467,HP_0000559,4.0,Corneal scarring,
+CHEMBL384467,HP_0001094,4.0,Iridocyclitis,
+CHEMBL384467,HP_0001742,4.0,Nasal congestion,
+CHEMBL384467,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL384467,HP_0001915,4.0,Aplastic anemia,
+CHEMBL384467,HP_0003072,4.0,Hypercalcemia,
+CHEMBL384467,HP_0004398,4.0,Peptic ulcer,
+CHEMBL384467,HP_0012424,4.0,Chorioretinitis,
+CHEMBL384467,MONDO_0001280,4.0,choroiditis,
+CHEMBL384467,MONDO_0002406,4.0,dermatitis,
+CHEMBL384467,MONDO_0003005,4.0,macular retinal edema,Completed
+CHEMBL384467,MONDO_0004979,4.0,asthma,Completed | Terminated
+CHEMBL384467,MONDO_0004992,4.0,cancer,Completed | Not yet recruiting
+CHEMBL384467,MONDO_0005178,4.0,osteoarthritis,Unknown status | Completed
+CHEMBL384467,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL384467,MONDO_0007915,4.0,systemic lupus erythematosus,
+CHEMBL384467,MONDO_0008728,4.0,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,
+CHEMBL384467,MONDO_0015128,4.0,primary adrenal insufficiency,
+CHEMBL384467,MONDO_0018479,4.0,congenital adrenal hyperplasia,Not yet recruiting | Recruiting
+CHEMBL384467,MONDO_0019338,4.0,sarcoidosis,
+CHEMBL384467,MP_0001845,4.0,inflammation,"Active, not recruiting | Completed"
+CHEMBL386630,EFO_0000616,4.0,neoplasm,
+CHEMBL386630,EFO_0004714,4.0,sexual dysfunction,Completed
+CHEMBL386630,EFO_1001006,4.0,Klinefelter's syndrome,
+CHEMBL386630,EFO_1001078,4.0,orchitis,
+CHEMBL386630,HP_0000044,4.0,Hypogonadotropic hypogonadism,
+CHEMBL386630,MONDO_0002146,4.0,hypogonadism,"Active, not recruiting | Terminated | Withdrawn | Completed | Recruiting"
+CHEMBL386630,MONDO_0018555,4.0,hypogonadotropic hypogonadism,Completed
+CHEMBL388590,EFO_0004274,4.0,gout,
+CHEMBL389621,EFO_0000274,4.0,atopic eczema,Recruiting
+CHEMBL389621,EFO_0000384,4.0,Crohn's disease,
+CHEMBL389621,EFO_0000565,4.0,leukemia,
+CHEMBL389621,EFO_0000574,4.0,lymphoma,
+CHEMBL389621,EFO_0000676,4.0,psoriasis,
+CHEMBL389621,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL389621,EFO_0000701,4.0,skin disease,
+CHEMBL389621,EFO_0000729,4.0,ulcerative colitis,Completed
+CHEMBL389621,EFO_0001379,4.0,endocrine system disease,
+CHEMBL389621,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL389621,EFO_0003106,4.0,pneumonia,
+CHEMBL389621,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL389621,EFO_0005539,4.0,adrenal gland disease,
+CHEMBL389621,EFO_0005752,4.0,eye inflammation,
+CHEMBL389621,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL389621,EFO_0009491,4.0,adrenocortical insufficiency,Completed | Recruiting | Unknown status
+CHEMBL389621,EFO_0009552,4.0,hemorrhoid,
+CHEMBL389621,EFO_0009560,4.0,otitis externa,
+CHEMBL389621,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL389621,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL389621,EFO_1001435,4.0,tenosynovitis,
+CHEMBL389621,HP_0000989,4.0,Pruritus,
+CHEMBL389621,HP_0001742,4.0,Nasal congestion,
+CHEMBL389621,MONDO_0002406,4.0,dermatitis,Completed
+CHEMBL389621,MONDO_0002471,4.0,bursitis,
+CHEMBL389621,MONDO_0003937,4.0,spondylitis,
+CHEMBL389621,MONDO_0004979,4.0,asthma,Completed
+CHEMBL389621,MONDO_0004992,4.0,cancer,
+CHEMBL389621,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL389621,MONDO_0018479,4.0,congenital adrenal hyperplasia,Completed | Not yet recruiting | Recruiting
+CHEMBL389621,MP_0001845,4.0,inflammation,Completed
+CHEMBL393220,EFO_0000373,4.0,congestive heart failure,
+CHEMBL393220,EFO_0000537,4.0,hypertension,
+CHEMBL393220,EFO_0000612,4.0,myocardial infarction,
+CHEMBL393220,EFO_0000712,4.0,stroke,
+CHEMBL393220,EFO_0001645,4.0,coronary artery disease,Completed | Unknown status | Not yet recruiting
+CHEMBL393220,EFO_0003913,4.0,angina pectoris,
+CHEMBL393220,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL393220,EFO_0008583,4.0,acute myocardial infarction,Completed
+CHEMBL393220,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL393220,HP_0003124,4.0,Hypercholesterolemia,Completed
+CHEMBL393220,MONDO_0021187,4.0,hyperlipidemia,
+CHEMBL3936761,EFO_0000616,4.0,neoplasm,
+CHEMBL3936761,EFO_0009441,4.0,Waldenstrom macroglobulinemia,
+CHEMBL3936761,EFO_1001469,4.0,Mantle cell lymphoma,
+CHEMBL3948730,EFO_0000616,4.0,neoplasm,
+CHEMBL395429,EFO_1001863,4.0,Uterine Inertia,Completed
+CHEMBL395429,MP_0001914,4.0,hemorrhage,Completed | Not yet recruiting
+CHEMBL396778,MONDO_0005180,4.0,Parkinson disease,Recruiting | Completed
+CHEMBL397420,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL398435,EFO_0000612,4.0,myocardial infarction,Unknown status | Completed
+CHEMBL398435,EFO_0000712,4.0,stroke,Completed
+CHEMBL398435,EFO_0001645,4.0,coronary artery disease,Recruiting | Unknown status | Completed | Enrolling by invitation | Not yet recruiting | Withdrawn
+CHEMBL398435,EFO_0005672,4.0,acute coronary syndrome,"Terminated | Unknown status | Withdrawn | Active, not recruiting | Completed | Recruiting"
+CHEMBL398435,EFO_0008583,4.0,acute myocardial infarction,Completed | Recruiting
+CHEMBL398435,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL398435,MONDO_0000831,4.0,thrombotic disease,Completed
+CHEMBL398435,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL398707,HP_0012531,4.0,Pain,"Completed | Recruiting | Terminated | Active, not recruiting"
+CHEMBL3989510,HP_0012531,4.0,Pain,
+CHEMBL3989516,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,
+CHEMBL3989516,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL3989555,EFO_0006928,4.0,motion sickness,
+CHEMBL3989555,HP_0002013,4.0,Vomiting,
+CHEMBL3989555,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL3989555,HP_0002018,4.0,Nausea,
+CHEMBL3989555,HP_0002321,4.0,Vertigo,
+CHEMBL3989569,EFO_0003854,4.0,postmenopausal osteoporosis,Completed
+CHEMBL3989569,EFO_0003882,4.0,osteoporosis,Completed
+CHEMBL3989691,EFO_0004220,4.0,chronic hepatitis C virus infection,
+CHEMBL3989691,EFO_0006927,4.0,severe aplastic anemia,
+CHEMBL3989691,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,Completed
+CHEMBL3989691,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL3989694,MONDO_0005090,4.0,schizophrenia,
+CHEMBL3989695,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL3989716,HP_0012531,4.0,Pain,
+CHEMBL3989740,EFO_0003894,4.0,acne,Completed | Recruiting
+CHEMBL3989767,EFO_0003854,4.0,postmenopausal osteoporosis,
+CHEMBL3989798,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Not yet recruiting | Recruiting | Withdrawn
+CHEMBL3989798,EFO_0000464,4.0,emphysema,Withdrawn
+CHEMBL3989798,EFO_0006505,4.0,chronic bronchitis,Withdrawn
+CHEMBL3989798,MONDO_0004979,4.0,asthma,Completed | Enrolling by invitation | Unknown status
+CHEMBL3989826,HP_0012531,4.0,Pain,
+CHEMBL3989833,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL3989844,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL3989844,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL3989855,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL3989855,EFO_0005854,4.0,allergic rhinitis,Completed
+CHEMBL3989868,EFO_0000616,4.0,neoplasm,
+CHEMBL3989868,EFO_0003869,4.0,breast neoplasm,
+CHEMBL3989868,EFO_1000294,4.0,HER2 Positive Breast Carcinoma,
+CHEMBL3989868,EFO_1001951,4.0,colorectal carcinoma,
+CHEMBL3989868,MONDO_0007254,4.0,breast cancer,
+CHEMBL3989869,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL3989871,EFO_0005297,4.0,Granulomatosis with Polyangiitis,
+CHEMBL3989871,EFO_1000784,4.0,microscopic polyangiitis,
+CHEMBL3989871,MONDO_0015492,4.0,anti-neutrophil cytoplasmic antibody-associated vasculitis,Recruiting
+CHEMBL3989887,EFO_0000274,4.0,atopic eczema,
+CHEMBL3989919,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,
+CHEMBL3989919,HP_0002013,4.0,Vomiting,
+CHEMBL3989920,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL3989920,MONDO_0021187,4.0,hyperlipidemia,
+CHEMBL3989921,EFO_0000305,4.0,breast carcinoma,
+CHEMBL3989921,MONDO_0007254,4.0,breast cancer,
+CHEMBL3989922,EFO_0001075,4.0,ovarian carcinoma,
+CHEMBL3989922,EFO_0003893,4.0,ovarian neoplasm,
+CHEMBL3989922,EFO_1000251,4.0,Fallopian Tube Carcinoma,
+CHEMBL3989922,EFO_1001100,4.0,peritoneal neoplasm,
+CHEMBL3989923,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL3989923,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL3989923,MONDO_0021187,4.0,hyperlipidemia,
+CHEMBL3989931,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL3989932,EFO_0006834,4.0,septic shock,
+CHEMBL3989933,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL3989937,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL3989944,EFO_0000540,4.0,immune system disease,
+CHEMBL3989944,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL3989944,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL3989958,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL3989973,EFO_1000562,4.0,Tenosynovial Giant Cell Tumor,
+CHEMBL3989977,Orphanet_158038,4.0,Primary hemophagocytic lymphohistiocytosis,"Active, not recruiting"
+CHEMBL3989986,MONDO_0001549,4.0,hemolytic-uremic syndrome,
+CHEMBL3989986,MONDO_0100244,4.0,paroxysmal nocturnal hemoglobinuria,Completed
+CHEMBL3989989,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL3989989,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL3991065,MONDO_0005277,4.0,migraine disorder,Completed
+CHEMBL404108,EFO_0005755,4.0,rheumatic disease,
+CHEMBL405,EFO_0003888,4.0,attention deficit hyperactivity disorder,Completed | Recruiting | Unknown status
+CHEMBL406,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL406,EFO_0000373,4.0,congestive heart failure,
+CHEMBL406,EFO_0000537,4.0,hypertension,Completed | Recruiting | Unknown status
+CHEMBL406,EFO_0000668,4.0,preeclampsia,
+CHEMBL408,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL408403,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL4084119,EFO_0000400,4.0,diabetes mellitus,Completed | Recruiting
+CHEMBL4084119,EFO_0001073,4.0,obesity,"Recruiting | Withdrawn | Active, not recruiting | Completed | Not yet recruiting"
+CHEMBL4084119,MONDO_0005148,4.0,type 2 diabetes mellitus,Terminated | Unknown status | Completed | Recruiting | Withdrawn
+CHEMBL409,EFO_0000313,4.0,carcinoma,
+CHEMBL409,EFO_0000616,4.0,neoplasm,
+CHEMBL411,EFO_0000616,4.0,neoplasm,
+CHEMBL413,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL414357,EFO_0000400,4.0,diabetes mellitus,Terminated | Completed
+CHEMBL414357,MONDO_0005148,4.0,type 2 diabetes mellitus,Unknown status | Withdrawn | Completed | Recruiting | Terminated
+CHEMBL415,MONDO_0002050,4.0,depressive disorder,Terminated
+CHEMBL416146,EFO_0005755,4.0,rheumatic disease,
+CHEMBL4164059,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL419213,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL419213,EFO_0000373,4.0,congestive heart failure,
+CHEMBL419213,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL419213,EFO_0000537,4.0,hypertension,
+CHEMBL419213,EFO_0000612,4.0,myocardial infarction,
+CHEMBL419213,EFO_0000712,4.0,stroke,
+CHEMBL419213,EFO_0003144,4.0,heart failure,
+CHEMBL42,EFO_0005407,4.0,psychosis,
+CHEMBL42,EFO_0005411,4.0,schizoaffective disorder,Completed | Recruiting
+CHEMBL42,MONDO_0005090,4.0,schizophrenia,Completed | Recruiting | Withdrawn | Terminated
+CHEMBL4204794,EFO_0000616,4.0,neoplasm,
+CHEMBL4204794,MONDO_0011719,4.0,gastrointestinal stromal tumor,"Active, not recruiting"
+CHEMBL4208229,EFO_0000616,4.0,neoplasm,
+CHEMBL421,EFO_0000685,4.0,rheumatoid arthritis,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status
+CHEMBL421,EFO_0000729,4.0,ulcerative colitis,
+CHEMBL421,EFO_0002609,4.0,juvenile idiopathic arthritis,Terminated
+CHEMBL4216467,EFO_0000616,4.0,neoplasm,
+CHEMBL4216467,MONDO_0011719,4.0,gastrointestinal stromal tumor,
+CHEMBL422,EFO_0005407,4.0,psychosis,
+CHEMBL423,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL423,MONDO_0005041,4.0,glaucoma,
+CHEMBL4297064,EFO_0005687,4.0,fibromyalgia,
+CHEMBL4297147,MONDO_0005090,4.0,schizophrenia,Completed
+CHEMBL4297185,EFO_0000616,4.0,neoplasm,
+CHEMBL4297185,MONDO_0008315,4.0,prostate cancer,Recruiting
+CHEMBL4297185,MONDO_0021259,4.0,prostate neoplasm,
+CHEMBL4297216,EFO_0002430,4.0,primary myelofibrosis,
+CHEMBL4297216,EFO_0004251,4.0,myeloproliferative disorder,
+CHEMBL4297216,HP_0011974,4.0,Myelofibrosis,
+CHEMBL4297229,EFO_0005422,4.0,skin aging,
+CHEMBL4297240,EFO_0008525,4.0,spinal muscular atrophy,
+CHEMBL4297522,EFO_0000616,4.0,neoplasm,
+CHEMBL4297522,EFO_0005221,4.0,cholangiocarcinoma,
+CHEMBL4297533,EFO_0004714,4.0,sexual dysfunction,
+CHEMBL4297534,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL4297549,MONDO_0019623,4.0,hereditary angioedema,Completed
+CHEMBL4297551,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL4297573,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL4297573,EFO_0000574,4.0,lymphoma,
+CHEMBL4297573,EFO_0000616,4.0,neoplasm,
+CHEMBL4297610,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL4297700,EFO_0000540,4.0,immune system disease,
+CHEMBL4297700,EFO_0000676,4.0,psoriasis,"Active, not recruiting | Recruiting"
+CHEMBL4297723,EFO_0000616,4.0,neoplasm,
+CHEMBL4297723,EFO_0000707,4.0,squamous cell carcinoma,
+CHEMBL4297723,MONDO_0008903,4.0,lung cancer,
+CHEMBL4297734,MONDO_0011382,4.0,sickle cell disease,Completed | Recruiting
+CHEMBL4297750,EFO_0004683,4.0,wet macular degeneration,
+CHEMBL4297750,EFO_0005753,4.0,ocular vascular disease,
+CHEMBL4297750,EFO_0010977,4.0,macrovascular complications of diabetes,
+CHEMBL4297750,MONDO_0003005,4.0,macular retinal edema,
+CHEMBL4297750,MONDO_0007935,4.0,cystoid macular edema,
+CHEMBL4297774,EFO_0000616,4.0,neoplasm,
+CHEMBL4297774,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4297778,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL4297778,EFO_0000616,4.0,neoplasm,
+CHEMBL4297788,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL4297809,EFO_0001378,4.0,multiple myeloma,Recruiting
+CHEMBL4297820,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL4297830,EFO_1001109,4.0,pituitary dwarfism,
+CHEMBL4297832,EFO_1001264,4.0,"Anemia, Hemolytic, Autoimmune",
+CHEMBL4297839,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL4297839,EFO_0001073,4.0,obesity,Recruiting
+CHEMBL4297839,MONDO_0005148,4.0,type 2 diabetes mellitus,"Active, not recruiting | Completed | Recruiting"
+CHEMBL4297840,EFO_0000616,4.0,neoplasm,
+CHEMBL4297840,EFO_0003060,4.0,non-small cell lung carcinoma,Not yet recruiting | Recruiting
+CHEMBL4297840,EFO_0005922,4.0,esophageal squamous cell carcinoma,"Active, not recruiting"
+CHEMBL4297841,EFO_0000616,4.0,neoplasm,
+CHEMBL4297841,MONDO_0002974,4.0,cervical cancer,
+CHEMBL4297844,EFO_0000616,4.0,neoplasm,
+CHEMBL4297844,EFO_0003869,4.0,breast neoplasm,
+CHEMBL4297844,MONDO_0007254,4.0,breast cancer,Not yet recruiting
+CHEMBL4297862,EFO_0005422,4.0,skin aging,
+CHEMBL4297862,EFO_0006865,4.0,urgency urinary incontinence,
+CHEMBL4297862,EFO_1000781,4.0,overactive bladder,
+CHEMBL4297862,MONDO_0005277,4.0,migraine disorder,
+CHEMBL4297873,MONDO_0010602,4.0,hemophilia A,Completed
+CHEMBL4297945,MONDO_0010602,4.0,hemophilia A,Completed | Recruiting
+CHEMBL4297950,EFO_0000616,4.0,neoplasm,
+CHEMBL4297951,MONDO_0002247,4.0,factor X deficiency,
+CHEMBL4297951,MP_0001914,4.0,hemorrhage,
+CHEMBL4297955,EFO_0004248,4.0,male infertility,
+CHEMBL4297955,EFO_0004266,4.0,primary ovarian insufficiency,
+CHEMBL4297955,MONDO_0002146,4.0,hypogonadism,
+CHEMBL4297955,MONDO_0018555,4.0,hypogonadotropic hypogonadism,
+CHEMBL4297986,MONDO_0010604,4.0,hemophilia B,Completed
+CHEMBL4297990,EFO_0000616,4.0,neoplasm,
+CHEMBL4298037,EFO_0000616,4.0,neoplasm,
+CHEMBL4298037,EFO_1001471,4.0,Merkel cell skin cancer,
+CHEMBL4298047,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL4298047,EFO_0000574,4.0,lymphoma,
+CHEMBL4298047,EFO_0000616,4.0,neoplasm,
+CHEMBL4298092,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL4298124,EFO_0000616,4.0,neoplasm,
+CHEMBL4298124,MONDO_0011962,4.0,endometrial cancer,
+CHEMBL4298124,MONDO_0021251,4.0,endometrium neoplasm,
+CHEMBL4298139,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL4298150,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL4298150,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL4298167,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL4298185,EFO_1001109,4.0,pituitary dwarfism,
+CHEMBL4298199,EFO_0000616,4.0,neoplasm,
+CHEMBL4298199,EFO_0001378,4.0,multiple myeloma,
+CHEMBL4298209,EFO_0000616,4.0,neoplasm,
+CHEMBL4298209,EFO_0001378,4.0,multiple myeloma,
+CHEMBL4298211,MONDO_0100244,4.0,paroxysmal nocturnal hemoglobinuria,
+CHEMBL429910,EFO_0000400,4.0,diabetes mellitus,Recruiting | Terminated | Unknown status | Completed | Not yet recruiting
+CHEMBL429910,EFO_0003144,4.0,heart failure,Enrolling by invitation | Not yet recruiting | Recruiting | Completed
+CHEMBL429910,EFO_0003884,4.0,chronic kidney disease,Recruiting | Completed
+CHEMBL429910,MONDO_0005148,4.0,type 2 diabetes mellitus,"Completed | Not yet recruiting | Active, not recruiting | Recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL4303669,EFO_0001378,4.0,multiple myeloma,Withdrawn | Completed
+CHEMBL4303669,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL4303669,EFO_0003854,4.0,postmenopausal osteoporosis,Not yet recruiting | Recruiting | Unknown status | Completed
+CHEMBL4303669,EFO_0003882,4.0,osteoporosis,Completed | Recruiting
+CHEMBL4303669,EFO_0003931,4.0,bone fracture,Completed | Terminated
+CHEMBL4303669,EFO_0004260,4.0,bone disease,
+CHEMBL4303669,EFO_0004261,4.0,osteitis deformans,Completed
+CHEMBL4303669,EFO_0009708,4.0,metastasis,Completed
+CHEMBL4303669,EFO_0009870,4.0,bone metastasis,Completed
+CHEMBL4303669,MONDO_0008315,4.0,prostate cancer,Completed
+CHEMBL4303669,MONDO_0021165,4.0,Paget disease,
+CHEMBL43064,HP_0002321,4.0,Vertigo,
+CHEMBL431,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL431770,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL433,EFO_0000474,4.0,epilepsy,"Active, not recruiting | Unknown status | Completed"
+CHEMBL434394,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL435,EFO_0000319,4.0,cardiovascular disease,Completed
+CHEMBL435,EFO_0000373,4.0,congestive heart failure,Unknown status
+CHEMBL435,EFO_0000537,4.0,hypertension,Recruiting | Unknown status | Completed | Withdrawn
+CHEMBL435,EFO_0000612,4.0,myocardial infarction,
+CHEMBL435,EFO_0000668,4.0,preeclampsia,
+CHEMBL435,EFO_0001422,4.0,cirrhosis of liver,
+CHEMBL435,EFO_0003144,4.0,heart failure,Recruiting
+CHEMBL435,EFO_0003884,4.0,chronic kidney disease,Completed | Unknown status
+CHEMBL435,EFO_0003913,4.0,angina pectoris,
+CHEMBL435,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL435,EFO_0009373,4.0,edema,
+CHEMBL435,MONDO_0002462,4.0,glomerulonephritis,
+CHEMBL439849,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL441738,MONDO_0001676,4.0,erythropoietic protoporphyria,
+CHEMBL442,MONDO_0005277,4.0,migraine disorder,
+CHEMBL4435170,EFO_0000676,4.0,psoriasis,"Completed | Active, not recruiting | Recruiting"
+CHEMBL4435170,EFO_1001494,4.0,psoriasis vulgaris,Recruiting
+CHEMBL445,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL445,MONDO_0002050,4.0,depressive disorder,Completed | Terminated | Unknown status
+CHEMBL4535757,EFO_0000616,4.0,neoplasm,
+CHEMBL4535757,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4559134,EFO_0000616,4.0,neoplasm,
+CHEMBL4559134,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4559134,EFO_0003841,4.0,thyroid neoplasm,
+CHEMBL4559134,MONDO_0002108,4.0,thyroid cancer,
+CHEMBL4559134,MONDO_0015277,4.0,medullary thyroid gland carcinoma,
+CHEMBL456,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL456,EFO_0000373,4.0,congestive heart failure,
+CHEMBL456,EFO_0001422,4.0,cirrhosis of liver,
+CHEMBL456,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL457,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL457,EFO_0001645,4.0,coronary artery disease,
+CHEMBL4582651,EFO_0000616,4.0,neoplasm,
+CHEMBL4582651,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4582651,MONDO_0015277,4.0,medullary thyroid gland carcinoma,
+CHEMBL4585668,EFO_0000616,4.0,neoplasm,
+CHEMBL4585668,EFO_0000681,4.0,renal cell carcinoma,
+CHEMBL4594214,HP_0012531,4.0,Pain,
+CHEMBL4594217,EFO_0000400,4.0,diabetes mellitus,Completed
+CHEMBL4594217,MONDO_0005148,4.0,type 2 diabetes mellitus,"Active, not recruiting | Completed | Recruiting | Unknown status | Not yet recruiting"
+CHEMBL4594230,EFO_0000616,4.0,neoplasm,
+CHEMBL4594230,MONDO_0001475,4.0,neutropenia,
+CHEMBL4594260,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL4594273,EFO_0003869,4.0,breast neoplasm,
+CHEMBL4594273,EFO_0006861,4.0,male breast carcinoma,
+CHEMBL4594292,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4594293,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL4594293,EFO_1001469,4.0,Mantle cell lymphoma,
+CHEMBL4594311,Orphanet_848,4.0,Beta-thalassemia,
+CHEMBL4594350,EFO_0000616,4.0,neoplasm,
+CHEMBL4594350,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4594406,MONDO_0008315,4.0,prostate cancer,
+CHEMBL4594503,EFO_0001378,4.0,multiple myeloma,
+CHEMBL4594505,EFO_0001378,4.0,multiple myeloma,
+CHEMBL4594584,MONDO_0010602,4.0,hemophilia A,Recruiting
+CHEMBL4594598,MONDO_0010604,4.0,hemophilia B,
+CHEMBL4594603,MONDO_0010602,4.0,hemophilia A,
+CHEMBL46,EFO_0004888,4.0,post operative nausea and vomiting,Not yet recruiting | Recruiting | Unknown status | Completed
+CHEMBL46,EFO_0006911,4.0,Chemotherapy-induced nausea and vomiting,"Active, not recruiting | Completed | Recruiting"
+CHEMBL46,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL46,HP_0002018,4.0,Nausea,Completed | Terminated
+CHEMBL46,MONDO_0004992,4.0,cancer,
+CHEMBL460,EFO_0005407,4.0,psychosis,
+CHEMBL465,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL465,HP_0002018,4.0,Nausea,
+CHEMBL465,MONDO_0004992,4.0,cancer,
+CHEMBL4650216,EFO_0004698,4.0,insomnia,
+CHEMBL4650220,MONDO_0005277,4.0,migraine disorder,
+CHEMBL4650272,EFO_0000702,4.0,small cell lung carcinoma,
+CHEMBL4650273,EFO_0001073,4.0,obesity,
+CHEMBL4650274,HP_0001943,4.0,Hypoglycemia,
+CHEMBL4650274,MONDO_0005147,4.0,type 1 diabetes mellitus,
+CHEMBL4650319,EFO_0000616,4.0,neoplasm,
+CHEMBL4650393,EFO_0000403,4.0,diffuse large B-cell lymphoma,
+CHEMBL4650485,EFO_1001469,4.0,Mantle cell lymphoma,
+CHEMBL46516,EFO_0005407,4.0,psychosis,
+CHEMBL471,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL471737,EFO_0000319,4.0,cardiovascular disease,Recruiting
+CHEMBL471737,EFO_0000373,4.0,congestive heart failure,Completed
+CHEMBL471737,EFO_0003144,4.0,heart failure,Completed | Withdrawn | Unknown status
+CHEMBL473,EFO_0000275,4.0,atrial fibrillation,Completed | Withdrawn
+CHEMBL473,EFO_0003911,4.0,atrial flutter,
+CHEMBL473,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL473,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL473417,EFO_0000616,4.0,neoplasm,
+CHEMBL473417,EFO_0004193,4.0,basal cell carcinoma,Completed
+CHEMBL479,EFO_0005407,4.0,psychosis,
+CHEMBL4802223,MONDO_0008315,4.0,prostate cancer,
+CHEMBL4802239,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL4802263,EFO_0001378,4.0,multiple myeloma,
+CHEMBL481,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL48582,MONDO_0005180,4.0,Parkinson disease,Completed
+CHEMBL488,EFO_0000616,4.0,neoplasm,
+CHEMBL49,HP_0000739,4.0,Anxiety,Withdrawn
+CHEMBL490,MONDO_0002009,4.0,major depressive disorder,Unknown status | Completed | Terminated
+CHEMBL490,MONDO_0002050,4.0,depressive disorder,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL49080,HP_0006536,4.0,Airway obstruction,
+CHEMBL494,EFO_0001361,4.0,pulmonary arterial hypertension,Unknown status
+CHEMBL494,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL494,MONDO_0005149,4.0,pulmonary hypertension,Terminated
+CHEMBL495,EFO_0004234,4.0,erectile dysfunction,Withdrawn
+CHEMBL499,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL499,EFO_0004190,4.0,open-angle glaucoma,Completed | Recruiting | Unknown status | Withdrawn
+CHEMBL499,EFO_1001069,4.0,ocular hypertension,Completed
+CHEMBL499,MONDO_0005041,4.0,glaucoma,Completed | Terminated
+CHEMBL500,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL501,EFO_0001073,4.0,obesity,
+CHEMBL501,EFO_0003888,4.0,attention deficit hyperactivity disorder,
+CHEMBL501,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL502,HP_0000726,4.0,Dementia,Completed
+CHEMBL502182,EFO_0001065,4.0,endometriosis,
+CHEMBL503,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL503,EFO_0001645,4.0,coronary artery disease,
+CHEMBL503,EFO_0003914,4.0,atherosclerosis,
+CHEMBL503,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL503,MONDO_0021661,4.0,coronary atherosclerosis,
+CHEMBL505,MONDO_0005271,4.0,allergic disease,
+CHEMBL508102,HP_0000820,4.0,Abnormality of the thyroid gland,
+CHEMBL509,EFO_0005755,4.0,rheumatic disease,
+CHEMBL509,HP_0002829,4.0,Arthralgia,
+CHEMBL509,HP_0003326,4.0,Myalgia,
+CHEMBL5095049,EFO_0002429,4.0,polycythemia vera,
+CHEMBL5095049,EFO_0002430,4.0,primary myelofibrosis,
+CHEMBL511,HP_0000989,4.0,Pruritus,
+CHEMBL511,MONDO_0005271,4.0,allergic disease,
+CHEMBL511142,EFO_0003890,4.0,drug dependence,Completed
+CHEMBL511142,EFO_0005611,4.0,opioid dependence,Completed | Withdrawn
+CHEMBL511142,EFO_0010702,4.0,opioid use disorder,Completed | Enrolling by invitation | Terminated | Withdrawn | Not yet recruiting | Recruiting
+CHEMBL511142,EFO_0020911,4.0,overdose,
+CHEMBL511142,HP_0012531,4.0,Pain,Completed | Not yet recruiting | Recruiting | Terminated
+CHEMBL511142,HP_0012532,4.0,Chronic pain,Suspended
+CHEMBL512351,EFO_0004286,4.0,venous thromboembolism,
+CHEMBL512351,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL513,EFO_0000183,4.0,Hodgkins lymphoma,
+CHEMBL513,EFO_0000272,4.0,astrocytoma,
+CHEMBL513,EFO_0000519,4.0,glioblastoma multiforme,
+CHEMBL513,EFO_0000616,4.0,neoplasm,
+CHEMBL513,EFO_0001378,4.0,multiple myeloma,
+CHEMBL513,EFO_0002939,4.0,medulloblastoma,
+CHEMBL513,EFO_0005543,4.0,glioma,
+CHEMBL515606,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL516,MONDO_0005271,4.0,allergic disease,
+CHEMBL517712,EFO_0008546,4.0,poisoning,Recruiting
+CHEMBL517712,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL517712,HP_0011499,4.0,Mydriasis,
+CHEMBL521606,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL521606,EFO_0000537,4.0,hypertension,
+CHEMBL521606,EFO_0000612,4.0,myocardial infarction,
+CHEMBL521606,EFO_0000712,4.0,stroke,
+CHEMBL521606,EFO_0003913,4.0,angina pectoris,
+CHEMBL522038,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL523299,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed
+CHEMBL523299,EFO_0000464,4.0,emphysema,
+CHEMBL523299,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL523299,HP_0006536,4.0,Airway obstruction,
+CHEMBL524004,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL52440,HP_0012735,4.0,Cough,Terminated | Completed
+CHEMBL525610,EFO_0003854,4.0,postmenopausal osteoporosis,Completed | Unknown status
+CHEMBL525610,EFO_0003882,4.0,osteoporosis,Completed | Enrolling by invitation | Recruiting | Terminated | Unknown status
+CHEMBL5314341,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL5314341,HP_0001943,4.0,Hypoglycemia,
+CHEMBL5314348,EFO_0005672,4.0,acute coronary syndrome,Completed
+CHEMBL5314348,EFO_1000985,4.0,intermediate coronary syndrome,
+CHEMBL5314348,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL5314348,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL5314348,MONDO_0000831,4.0,thrombotic disease,
+CHEMBL5314379,EFO_0005761,4.0,lupus nephritis,
+CHEMBL5314382,EFO_1001485,4.0,acromegaly,
+CHEMBL5314649,EFO_0004192,4.0,alopecia areata,
+CHEMBL5315048,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL5315049,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL5315050,EFO_0003917,4.0,premature birth,
+CHEMBL5315053,EFO_0000588,4.0,mesothelioma,
+CHEMBL5315053,EFO_0003060,4.0,non-small cell lung carcinoma,
+CHEMBL5315054,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL5315055,MONDO_0007079,4.0,alcohol dependence,
+CHEMBL5315064,MONDO_0002775,4.0,anovulation,
+CHEMBL5315069,MONDO_0010602,4.0,hemophilia A,Completed
+CHEMBL5315071,MONDO_0010602,4.0,hemophilia A,
+CHEMBL5315075,MONDO_0010602,4.0,hemophilia A,
+CHEMBL5315076,MONDO_0010604,4.0,hemophilia B,
+CHEMBL5315078,MONDO_0010602,4.0,hemophilia A,
+CHEMBL5315078,MONDO_0010604,4.0,hemophilia B,
+CHEMBL5315087,EFO_0009316,4.0,protein c deficiency,
+CHEMBL5315119,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL5315120,HP_0000989,4.0,Pruritus,
+CHEMBL5315123,HP_0000989,4.0,Pruritus,
+CHEMBL5315125,EFO_0000095,4.0,chronic lymphocytic leukemia,
+CHEMBL5315125,EFO_0000096,4.0,neoplasm of mature B-cells,
+CHEMBL5315125,EFO_0000574,4.0,lymphoma,
+CHEMBL5315125,MONDO_0018906,4.0,follicular lymphoma,
+CHEMBL5315126,EFO_0000545,4.0,infertility,Unknown status | Completed
+CHEMBL533,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL534,EFO_0005751,4.0,eye allergy,
+CHEMBL534,MONDO_0005271,4.0,allergic disease,
+CHEMBL53463,EFO_0000616,4.0,neoplasm,
+CHEMBL535,EFO_0000616,4.0,neoplasm,Completed
+CHEMBL535,EFO_0000681,4.0,renal cell carcinoma,Completed | Terminated
+CHEMBL535,EFO_1001901,4.0,neuroendocrine neoplasm,
+CHEMBL535,MONDO_0011719,4.0,gastrointestinal stromal tumor,Completed
+CHEMBL539423,EFO_0004194,4.0,IGA glomerulonephritis,
+CHEMBL539697,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL54,EFO_0000677,4.0,mental or behavioural disorder,
+CHEMBL54,EFO_0004216,4.0,conduct disorder,
+CHEMBL54,EFO_0004895,4.0,Tourette syndrome,
+CHEMBL54,EFO_0005407,4.0,psychosis,Completed
+CHEMBL54,EFO_0005411,4.0,schizoaffective disorder,Completed
+CHEMBL54,HP_0100033,4.0,Tics,
+CHEMBL54,MONDO_0005090,4.0,schizophrenia,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL546,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL549,MONDO_0002009,4.0,major depressive disorder,Completed | Terminated | Recruiting | Unknown status
+CHEMBL549,MONDO_0002050,4.0,depressive disorder,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL550,EFO_0004190,4.0,open-angle glaucoma,Completed
+CHEMBL550,EFO_0009869,4.0,xerostomia,Unknown status
+CHEMBL550,EFO_1001069,4.0,ocular hypertension,
+CHEMBL550,HP_0000616,4.0,Miosis,
+CHEMBL550,MONDO_0005041,4.0,glaucoma,
+CHEMBL551466,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Recruiting | Withdrawn
+CHEMBL551466,EFO_0000464,4.0,emphysema,
+CHEMBL551466,EFO_0006505,4.0,chronic bronchitis,
+CHEMBL551466,HP_0006536,4.0,Airway obstruction,
+CHEMBL551466,MONDO_0004979,4.0,asthma,
+CHEMBL557555,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL561157,EFO_0001361,4.0,pulmonary arterial hypertension,Completed | Recruiting | Terminated
+CHEMBL561157,MONDO_0005149,4.0,pulmonary hypertension,Completed
+CHEMBL564,EFO_0005407,4.0,psychosis,
+CHEMBL565,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL566315,EFO_0004267,4.0,biliary liver cirrhosis,
+CHEMBL566315,EFO_1001486,4.0,primary biliary cirrhosis,Terminated
+CHEMBL567,EFO_0005407,4.0,psychosis,
+CHEMBL567,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL567,MONDO_0005090,4.0,schizophrenia,Completed | Withdrawn
+CHEMBL569713,EFO_0004888,4.0,post operative nausea and vomiting,Completed
+CHEMBL569713,EFO_0006928,4.0,motion sickness,
+CHEMBL569713,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL570,EFO_0005407,4.0,psychosis,
+CHEMBL571546,EFO_0002496,4.0,actinic keratosis,Completed | Recruiting | Withdrawn
+CHEMBL578,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL58,EFO_0000616,4.0,neoplasm,
+CHEMBL588,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL589586,MONDO_0005301,4.0,multiple sclerosis,
+CHEMBL59,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL594,EFO_0005751,4.0,eye allergy,
+CHEMBL595,EFO_0000400,4.0,diabetes mellitus,Completed | Recruiting | Not yet recruiting | Unknown status
+CHEMBL596,EFO_0801084,4.0,cancer pain,Completed
+CHEMBL596,HP_0012531,4.0,Pain,"Active, not recruiting | Not yet recruiting | Unknown status | Completed | Recruiting | Terminated | Withdrawn"
+CHEMBL596,HP_0012532,4.0,Chronic pain,Suspended | Completed
+CHEMBL596,MONDO_0004992,4.0,cancer,Completed | Terminated
+CHEMBL599,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL599,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL599,EFO_0005755,4.0,rheumatic disease,
+CHEMBL599,MONDO_0005178,4.0,osteoarthritis,Completed
+CHEMBL601719,EFO_0000616,4.0,neoplasm,
+CHEMBL601719,EFO_0003060,4.0,non-small cell lung carcinoma,"Active, not recruiting | Terminated"
+CHEMBL603,HP_0006536,4.0,Airway obstruction,
+CHEMBL603,MONDO_0004979,4.0,asthma,
+CHEMBL605846,HP_0006536,4.0,Airway obstruction,
+CHEMBL606,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL606,MP_0001914,4.0,hemorrhage,Recruiting | Completed | Not yet recruiting | Terminated | Unknown status
+CHEMBL607,HP_0012531,4.0,Pain,Completed | Not yet recruiting | Unknown status
+CHEMBL607400,EFO_0000474,4.0,epilepsy,
+CHEMBL607400,HP_0001250,4.0,Seizure,
+CHEMBL608533,EFO_0000222,4.0,acute myeloid leukemia,
+CHEMBL608533,EFO_0000616,4.0,neoplasm,
+CHEMBL608533,EFO_0007359,4.0,mast-cell leukemia,
+CHEMBL608533,EFO_0009001,4.0,Mastocytosis,
+CHEMBL608533,MONDO_0016586,4.0,systemic mastocytosis,
+CHEMBL61006,HP_0001742,4.0,Nasal congestion,
+CHEMBL612,EFO_0003888,4.0,attention deficit hyperactivity disorder,Completed
+CHEMBL612,EFO_0003890,4.0,drug dependence,
+CHEMBL612,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL61593,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL621,MONDO_0002009,4.0,major depressive disorder,Unknown status
+CHEMBL621,MONDO_0002050,4.0,depressive disorder,Terminated
+CHEMBL622,EFO_0000685,4.0,rheumatoid arthritis,
+CHEMBL622,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL622,EFO_0005755,4.0,rheumatic disease,
+CHEMBL622,HP_0012531,4.0,Pain,
+CHEMBL622,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL623,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL629,MONDO_0002050,4.0,depressive disorder,Unknown status
+CHEMBL631,EFO_0004269,4.0,cardiac arrhythmia,Not yet recruiting
+CHEMBL632,EFO_0005752,4.0,eye inflammation,
+CHEMBL632,EFO_0009552,4.0,hemorrhoid,
+CHEMBL632,HP_0001742,4.0,Nasal congestion,
+CHEMBL632,HP_0006536,4.0,Airway obstruction,
+CHEMBL633,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL633,HP_0004308,4.0,Ventricular arrhythmia,
+CHEMBL635,EFO_0000274,4.0,atopic eczema,
+CHEMBL635,EFO_0000384,4.0,Crohn's disease,Terminated
+CHEMBL635,EFO_0000398,4.0,dermatomyositis,
+CHEMBL635,EFO_0000565,4.0,leukemia,
+CHEMBL635,EFO_0000574,4.0,lymphoma,
+CHEMBL635,EFO_0000676,4.0,psoriasis,
+CHEMBL635,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL635,EFO_0000729,4.0,ulcerative colitis,Recruiting | Completed
+CHEMBL635,EFO_0001379,4.0,endocrine system disease,
+CHEMBL635,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL635,EFO_0003063,4.0,polymyositis,
+CHEMBL635,EFO_0003106,4.0,pneumonia,Unknown status
+CHEMBL635,EFO_0003778,4.0,psoriatic arthritis,
+CHEMBL635,EFO_0003833,4.0,brain neoplasm,
+CHEMBL635,EFO_0003898,4.0,ankylosing spondylitis,
+CHEMBL635,EFO_0003956,4.0,seasonal allergic rhinitis,
+CHEMBL635,EFO_0004255,4.0,nephrotic syndrome,Recruiting | Unknown status
+CHEMBL635,EFO_0004274,4.0,gout,Recruiting
+CHEMBL635,EFO_0004276,4.0,Stevens-Johnson syndrome,
+CHEMBL635,EFO_0004719,4.0,pemphigus vulgaris,
+CHEMBL635,EFO_0005319,4.0,contact dermatitis,
+CHEMBL635,EFO_0005539,4.0,adrenal gland disease,
+CHEMBL635,EFO_0005558,4.0,hemolytic anemia,
+CHEMBL635,EFO_0005854,4.0,allergic rhinitis,
+CHEMBL635,EFO_0007141,4.0,allergic conjunctivitis,
+CHEMBL635,EFO_0007160,4.0,autoimmune thrombocytopenic purpura,Completed
+CHEMBL635,EFO_0007257,4.0,eosinophilic pneumonia,
+CHEMBL635,EFO_0007403,4.0,ophthalmic herpes zoster,
+CHEMBL635,EFO_0007405,4.0,optic neuritis,
+CHEMBL635,EFO_0007520,4.0,trichinosis,
+CHEMBL635,EFO_0008997,4.0,synovitis,
+CHEMBL635,EFO_0009449,4.0,keratitis,
+CHEMBL635,EFO_0009456,4.0,exfoliative dermatitis,
+CHEMBL635,EFO_0009609,4.0,myocarditis,
+CHEMBL635,EFO_1000039,4.0,meningeal tuberculosis,
+CHEMBL635,EFO_1000049,4.0,pulmonary tuberculosis,
+CHEMBL635,EFO_1000684,4.0,dermatitis herpetiformis,
+CHEMBL635,EFO_1000694,4.0,erythema multiforme,
+CHEMBL635,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL635,EFO_1000941,4.0,frozen shoulder,
+CHEMBL635,EFO_1000997,4.0,iritis,
+CHEMBL635,EFO_1001051,4.0,mycosis fungoides,
+CHEMBL635,EFO_1001119,4.0,posterior uveitis,Recruiting
+CHEMBL635,EFO_1001194,4.0,subacute thyroiditis,Completed
+CHEMBL635,EFO_1001205,4.0,sympathetic ophthalmia,
+CHEMBL635,EFO_1001222,4.0,type III hypersensitivity reaction disease,
+CHEMBL635,EFO_1001435,4.0,tenosynovitis,
+CHEMBL635,EFO_1001896,4.0,lateral epicondylitis,
+CHEMBL635,HP_0001094,4.0,Iridocyclitis,
+CHEMBL635,HP_0001873,4.0,Thrombocytopenia,
+CHEMBL635,HP_0001915,4.0,Aplastic anemia,
+CHEMBL635,HP_0003072,4.0,Hypercalcemia,
+CHEMBL635,HP_0004398,4.0,Peptic ulcer,
+CHEMBL635,HP_0012424,4.0,Chorioretinitis,
+CHEMBL635,MONDO_0001280,4.0,choroiditis,
+CHEMBL635,MONDO_0002280,4.0,anemia,
+CHEMBL635,MONDO_0002471,4.0,bursitis,
+CHEMBL635,MONDO_0003937,4.0,spondylitis,
+CHEMBL635,MONDO_0004979,4.0,asthma,Completed | Terminated | Unknown status
+CHEMBL635,MONDO_0004992,4.0,cancer,
+CHEMBL635,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL635,MONDO_0005301,4.0,multiple sclerosis,Terminated | Recruiting
+CHEMBL635,MONDO_0007915,4.0,systemic lupus erythematosus,Recruiting
+CHEMBL635,MONDO_0008728,4.0,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,
+CHEMBL635,MONDO_0015128,4.0,primary adrenal insufficiency,
+CHEMBL635,MONDO_0019338,4.0,sarcoidosis,
+CHEMBL635,MP_0001845,4.0,inflammation,
+CHEMBL637,MONDO_0002009,4.0,major depressive disorder,Recruiting | Unknown status | Withdrawn | Completed | Terminated
+CHEMBL637,MONDO_0002050,4.0,depressive disorder,Completed | Recruiting | Terminated | Unknown status
+CHEMBL639,EFO_0005751,4.0,eye allergy,
+CHEMBL639,HP_0001742,4.0,Nasal congestion,
+CHEMBL639,MONDO_0005271,4.0,allergic disease,
+CHEMBL641,EFO_0003888,4.0,attention deficit hyperactivity disorder,"Active, not recruiting | Completed | Terminated | Recruiting | Unknown status"
+CHEMBL642,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL643,HP_0000989,4.0,Pruritus,
+CHEMBL643,MONDO_0005271,4.0,allergic disease,
+CHEMBL644,MONDO_0002050,4.0,depressive disorder,Unknown status
+CHEMBL645,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL648,MONDO_0005271,4.0,allergic disease,
+CHEMBL650,EFO_0000274,4.0,atopic eczema,Completed
+CHEMBL650,EFO_0000384,4.0,Crohn's disease,Completed | Withdrawn
+CHEMBL650,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL650,EFO_0000729,4.0,ulcerative colitis,Completed | Recruiting
+CHEMBL650,EFO_0001379,4.0,endocrine system disease,
+CHEMBL650,EFO_0002609,4.0,juvenile idiopathic arthritis,
+CHEMBL650,EFO_0003106,4.0,pneumonia,Completed | Unknown status
+CHEMBL650,EFO_0003778,4.0,psoriatic arthritis,Completed
+CHEMBL650,EFO_0003894,4.0,acne,
+CHEMBL650,EFO_1000941,4.0,frozen shoulder,Completed | Recruiting
+CHEMBL650,EFO_1001119,4.0,posterior uveitis,
+CHEMBL650,EFO_1001435,4.0,tenosynovitis,
+CHEMBL650,MONDO_0002471,4.0,bursitis,
+CHEMBL650,MONDO_0004979,4.0,asthma,Completed | Unknown status
+CHEMBL650,MONDO_0005178,4.0,osteoarthritis,Completed
+CHEMBL650,MONDO_0005301,4.0,multiple sclerosis,Completed | Recruiting | Terminated
+CHEMBL650,MP_0001845,4.0,inflammation,Unknown status | Recruiting
+CHEMBL651,EFO_0003890,4.0,drug dependence,
+CHEMBL651,HP_0012531,4.0,Pain,Recruiting | Unknown status | Completed | Terminated
+CHEMBL652,EFO_0004269,4.0,cardiac arrhythmia,
+CHEMBL654,EFO_0004698,4.0,insomnia,
+CHEMBL654,MONDO_0002009,4.0,major depressive disorder,Completed | Terminated | Unknown status
+CHEMBL654,MONDO_0002050,4.0,depressive disorder,Completed | Not yet recruiting | Terminated | Unknown status
+CHEMBL656,EFO_0003890,4.0,drug dependence,Completed
+CHEMBL656,HP_0012531,4.0,Pain,"Active, not recruiting | Enrolling by invitation | Not yet recruiting | Withdrawn | Completed | Recruiting | Terminated | Unknown status"
+CHEMBL656,HP_0012532,4.0,Chronic pain,Terminated | Withdrawn | Completed | Suspended
+CHEMBL657,HP_0000989,4.0,Pruritus,
+CHEMBL657,MONDO_0005271,4.0,allergic disease,
+CHEMBL659,HP_0000726,4.0,Dementia,Completed
+CHEMBL660,MONDO_0005180,4.0,Parkinson disease,Completed | Unknown status
+CHEMBL667,MONDO_0005041,4.0,glaucoma,
+CHEMBL672,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL672,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL672,HP_0003119,4.0,Abnormal circulating lipid concentration,
+CHEMBL672,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL672,MONDO_0005148,4.0,type 2 diabetes mellitus,Completed
+CHEMBL675,EFO_0003854,4.0,postmenopausal osteoporosis,Completed
+CHEMBL675,EFO_0003882,4.0,osteoporosis,
+CHEMBL675,EFO_0004261,4.0,osteitis deformans,
+CHEMBL688,HP_0012531,4.0,Pain,Completed | Unknown status | Withdrawn
+CHEMBL688,MONDO_0004992,4.0,cancer,Terminated
+CHEMBL688,MONDO_0005277,4.0,migraine disorder,
+CHEMBL690,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL690,EFO_0000612,4.0,myocardial infarction,
+CHEMBL690,EFO_0001645,4.0,coronary artery disease,
+CHEMBL690,EFO_0003914,4.0,atherosclerosis,
+CHEMBL690,EFO_0004911,4.0,familial hypercholesterolemia,
+CHEMBL690,HP_0003124,4.0,Hypercholesterolemia,Completed
+CHEMBL690,MONDO_0021661,4.0,coronary atherosclerosis,
+CHEMBL691,EFO_0000616,4.0,neoplasm,
+CHEMBL691,EFO_0003894,4.0,acne,Completed
+CHEMBL6995,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL70,HP_0012531,4.0,Pain,Recruiting | Withdrawn | Completed | Terminated | Unknown status
+CHEMBL704,EFO_0000729,4.0,ulcerative colitis,Completed | Recruiting | Unknown status
+CHEMBL704,EFO_0005628,4.0,proctitis,
+CHEMBL708,EFO_0005407,4.0,psychosis,Completed | Terminated
+CHEMBL708,EFO_0005411,4.0,schizoaffective disorder,Completed
+CHEMBL71,EFO_0000677,4.0,mental or behavioural disorder,
+CHEMBL71,EFO_0004216,4.0,conduct disorder,
+CHEMBL71,EFO_0005407,4.0,psychosis,
+CHEMBL71,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL71,MONDO_0005090,4.0,schizophrenia,Completed | Terminated
+CHEMBL710,EFO_0000284,4.0,benign prostatic hyperplasia,Completed | Unknown status
+CHEMBL710,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL710,EFO_0004191,4.0,androgenetic alopecia,Withdrawn
+CHEMBL711,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL714,EFO_0000341,4.0,chronic obstructive pulmonary disease,Completed | Terminated | Recruiting
+CHEMBL714,HP_0006536,4.0,Airway obstruction,
+CHEMBL714,MONDO_0004979,4.0,asthma,"Active, not recruiting | Recruiting | Terminated | Completed | Unknown status | Withdrawn"
+CHEMBL715,EFO_0000677,4.0,mental or behavioural disorder,Completed
+CHEMBL715,EFO_0005407,4.0,psychosis,
+CHEMBL715,EFO_0005411,4.0,schizoaffective disorder,Completed | Withdrawn
+CHEMBL715,EFO_0009963,4.0,bipolar I disorder,Completed
+CHEMBL715,HP_0000713,4.0,Agitation,Terminated
+CHEMBL715,MONDO_0002009,4.0,major depressive disorder,
+CHEMBL715,MONDO_0004985,4.0,bipolar disorder,Completed | Terminated | Unknown status | Withdrawn
+CHEMBL715,MONDO_0005090,4.0,schizophrenia,"Active, not recruiting | Completed | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL716,EFO_0005407,4.0,psychosis,Terminated | Unknown status
+CHEMBL716,EFO_0005411,4.0,schizoaffective disorder,Completed | Terminated
+CHEMBL717,EFO_0000536,4.0,hyperplasia,
+CHEMBL717,EFO_0000616,4.0,neoplasm,
+CHEMBL717,EFO_0001065,4.0,endometriosis,Completed
+CHEMBL717,MP_0001914,4.0,hemorrhage,Completed | Terminated
+CHEMBL72,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL72,MONDO_0002050,4.0,depressive disorder,Completed
+CHEMBL726,EFO_0005407,4.0,psychosis,
+CHEMBL728,EFO_0005407,4.0,psychosis,
+CHEMBL728,EFO_0006788,4.0,anxiety disorder,
+CHEMBL728,HP_0002017,4.0,Nausea and vomiting,
+CHEMBL728,MONDO_0005090,4.0,schizophrenia,
+CHEMBL73451,MONDO_0005271,4.0,allergic disease,
+CHEMBL748,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL748,EFO_0008546,4.0,poisoning,
+CHEMBL75753,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL76370,HP_0002019,4.0,Constipation,Completed | Withdrawn
+CHEMBL765,EFO_0000537,4.0,hypertension,
+CHEMBL765,MONDO_0005041,4.0,glaucoma,
+CHEMBL768,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL770,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL772,EFO_0000537,4.0,hypertension,
+CHEMBL779,EFO_0000284,4.0,benign prostatic hyperplasia,Completed
+CHEMBL779,EFO_0001361,4.0,pulmonary arterial hypertension,Terminated | Completed | Unknown status
+CHEMBL779,EFO_0004234,4.0,erectile dysfunction,Completed | Unknown status
+CHEMBL779,HP_0000802,4.0,Impotence,Completed
+CHEMBL779,MONDO_0005149,4.0,pulmonary hypertension,
+CHEMBL786,MONDO_0007254,4.0,breast cancer,Completed | Recruiting
+CHEMBL787,EFO_0003956,4.0,seasonal allergic rhinitis,Unknown status | Completed
+CHEMBL787,EFO_0005854,4.0,allergic rhinitis,Completed | Recruiting
+CHEMBL787,HP_0006536,4.0,Airway obstruction,
+CHEMBL787,MONDO_0004979,4.0,asthma,Terminated | Unknown status | Completed
+CHEMBL796,EFO_0003888,4.0,attention deficit hyperactivity disorder,"Active, not recruiting | Completed | Enrolling by invitation | Recruiting | Terminated | Unknown status | Withdrawn"
+CHEMBL796,MONDO_0016158,4.0,narcolepsy-cataplexy syndrome,
+CHEMBL799,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL806,EFO_0000313,4.0,carcinoma,
+CHEMBL806,EFO_0000616,4.0,neoplasm,
+CHEMBL806,EFO_0000673,4.0,prostate adenocarcinoma,Recruiting
+CHEMBL806,EFO_0001663,4.0,prostate carcinoma,
+CHEMBL809,MONDO_0002009,4.0,major depressive disorder,Completed | Terminated | Unknown status | Recruiting | Withdrawn
+CHEMBL809,MONDO_0002050,4.0,depressive disorder,Terminated | Unknown status | Completed | Recruiting
+CHEMBL811,MONDO_0005271,4.0,allergic disease,
+CHEMBL812,EFO_0004991,4.0,Myasthenia gravis,
+CHEMBL813,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL814,MONDO_0002009,4.0,major depressive disorder,Unknown status | Completed
+CHEMBL814,MONDO_0002050,4.0,depressive disorder,Unknown status | Completed
+CHEMBL827,EFO_0003888,4.0,attention deficit hyperactivity disorder,"Active, not recruiting | Completed | Recruiting"
+CHEMBL829,MONDO_0005271,4.0,allergic disease,
+CHEMBL83,EFO_0000616,4.0,neoplasm,
+CHEMBL831,EFO_0005407,4.0,psychosis,
+CHEMBL831,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL831,HP_0000713,4.0,Agitation,Terminated
+CHEMBL831,MONDO_0004985,4.0,bipolar disorder,
+CHEMBL831,MONDO_0005090,4.0,schizophrenia,
+CHEMBL832,EFO_0004274,4.0,gout,
+CHEMBL833,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL834,EFO_0004260,4.0,bone disease,Completed
+CHEMBL838,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL842,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL842,EFO_0000373,4.0,congestive heart failure,
+CHEMBL842,EFO_0000537,4.0,hypertension,
+CHEMBL842,EFO_0000668,4.0,preeclampsia,
+CHEMBL842,EFO_0003144,4.0,heart failure,Withdrawn | Completed | Terminated
+CHEMBL842,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL842,EFO_0004255,4.0,nephrotic syndrome,
+CHEMBL842,EFO_0009373,4.0,edema,
+CHEMBL842,MONDO_0002462,4.0,glomerulonephritis,
+CHEMBL843,EFO_0000400,4.0,diabetes mellitus,
+CHEMBL843,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL846,EFO_0000676,4.0,psoriasis,Completed
+CHEMBL846,EFO_0003884,4.0,chronic kidney disease,Unknown status | Completed | Terminated
+CHEMBL846,EFO_0009451,4.0,hypoparathyroidism,
+CHEMBL846,EFO_1001494,4.0,psoriasis vulgaris,Completed
+CHEMBL846,HP_0002901,4.0,Hypocalcemia,
+CHEMBL85,EFO_0003015,4.0,aggressive behavior,Completed
+CHEMBL85,EFO_0003758,4.0,autism,Completed
+CHEMBL85,EFO_0005407,4.0,psychosis,Terminated
+CHEMBL85,EFO_0005411,4.0,schizoaffective disorder,Completed | Terminated
+CHEMBL85,EFO_0009963,4.0,bipolar I disorder,
+CHEMBL85,MONDO_0004985,4.0,bipolar disorder,Completed | Unknown status
+CHEMBL85,MONDO_0005090,4.0,schizophrenia,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL855,MONDO_0005271,4.0,allergic disease,
+CHEMBL86,EFO_0010282,4.0,gastrointestinal disease,
+CHEMBL864,MONDO_0005271,4.0,allergic disease,
+CHEMBL865,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL865,EFO_0005755,4.0,rheumatic disease,
+CHEMBL865,HP_0100607,4.0,Dysmenorrhea,Completed
+CHEMBL865,MONDO_0005178,4.0,osteoarthritis,
+CHEMBL86715,MONDO_0005180,4.0,Parkinson disease,
+CHEMBL870,EFO_0004260,4.0,bone disease,
+CHEMBL87493,EFO_0000474,4.0,epilepsy,
+CHEMBL87493,EFO_0001073,4.0,obesity,
+CHEMBL877,HP_0000132,4.0,Menorrhagia,Completed
+CHEMBL877,MONDO_0010602,4.0,hemophilia A,Completed
+CHEMBL877,MP_0001914,4.0,hemorrhage,Recruiting | Unknown status | Completed | Not yet recruiting | Terminated | Withdrawn
+CHEMBL878,EFO_0000319,4.0,cardiovascular disease,
+CHEMBL878,EFO_0000373,4.0,congestive heart failure,Unknown status | Completed
+CHEMBL878,EFO_0000537,4.0,hypertension,
+CHEMBL878,EFO_0000668,4.0,preeclampsia,
+CHEMBL878,EFO_0003144,4.0,heart failure,Completed | Terminated
+CHEMBL88055,HP_0006536,4.0,Airway obstruction,
+CHEMBL887,MONDO_0005180,4.0,Parkinson disease,Completed | Terminated | Unknown status
+CHEMBL894,MONDO_0002009,4.0,major depressive disorder,Completed | Not yet recruiting | Recruiting | Terminated | Unknown status | Withdrawn
+CHEMBL894,MONDO_0002050,4.0,depressive disorder,"Active, not recruiting | Completed | Terminated | Unknown status"
+CHEMBL89598,EFO_0000474,4.0,epilepsy,Unknown status
+CHEMBL89598,MONDO_0018097,4.0,infantile spasms,Withdrawn
+CHEMBL896,HP_0000739,4.0,Anxiety,Terminated
+CHEMBL897,EFO_0004274,4.0,gout,
+CHEMBL902,EFO_0003948,4.0,gastroesophageal reflux disease,
+CHEMBL902,EFO_0004607,4.0,duodenal ulcer,
+CHEMBL902,EFO_0009454,4.0,gastric ulcer,Terminated
+CHEMBL902,HP_0004398,4.0,Peptic ulcer,Completed
+CHEMBL902,HP_0100633,4.0,Esophagitis,
+CHEMBL902,MONDO_0043839,4.0,ulcer disease,Completed
+CHEMBL904,EFO_0003888,4.0,attention deficit hyperactivity disorder,Completed
+CHEMBL905,MONDO_0005277,4.0,migraine disorder,Not yet recruiting | Completed
+CHEMBL908,EFO_0005407,4.0,psychosis,
+CHEMBL91397,MONDO_0005271,4.0,allergic disease,Unknown status
+CHEMBL914,MONDO_0005271,4.0,allergic disease,Completed
+CHEMBL917,EFO_0000616,4.0,neoplasm,
+CHEMBL923,EFO_0004260,4.0,bone disease,
+CHEMBL926,EFO_0000319,4.0,cardiovascular disease,Unknown status
+CHEMBL928,HP_0001945,4.0,Fever,
+CHEMBL93,MONDO_0004979,4.0,asthma,Terminated | Completed
+CHEMBL932,EFO_0000712,4.0,stroke,Completed
+CHEMBL932,EFO_0001645,4.0,coronary artery disease,Completed
+CHEMBL932,HP_0004419,4.0,Recurrent thrombophlebitis,
+CHEMBL93645,EFO_0000685,4.0,rheumatoid arthritis,Completed
+CHEMBL93645,EFO_0005755,4.0,rheumatic disease,
+CHEMBL93645,HP_0002829,4.0,Arthralgia,
+CHEMBL93645,HP_0003326,4.0,Myalgia,
+CHEMBL93645,MONDO_0003937,4.0,spondylitis,
+CHEMBL93645,MONDO_0005178,4.0,osteoarthritis,Completed
+CHEMBL939,EFO_0000616,4.0,neoplasm,
+CHEMBL939,EFO_0003060,4.0,non-small cell lung carcinoma,Terminated | Unknown status | Completed | Not yet recruiting | Recruiting
+CHEMBL94,MONDO_0005041,4.0,glaucoma,
+CHEMBL94081,EFO_0005755,4.0,rheumatic disease,
+CHEMBL94454,MONDO_0005271,4.0,allergic disease,
+CHEMBL946,MONDO_0005271,4.0,allergic disease,
+CHEMBL953,MONDO_0005180,4.0,Parkinson disease,Recruiting | Terminated | Withdrawn | Completed
+CHEMBL960,EFO_0000685,4.0,rheumatoid arthritis,Recruiting | Completed | Terminated | Unknown status
+CHEMBL960,EFO_0003778,4.0,psoriatic arthritis,Completed | Recruiting
+CHEMBL962,EFO_0001361,4.0,pulmonary arterial hypertension,Completed
+CHEMBL964,EFO_0001067,4.0,parasitic infection,
+CHEMBL964,MONDO_0007079,4.0,alcohol dependence,Completed | Unknown status
+CHEMBL972,MONDO_0002009,4.0,major depressive disorder,Completed
+CHEMBL972,MONDO_0005180,4.0,Parkinson disease,Completed
+CHEMBL973,EFO_0003929,4.0,relapsing-remitting multiple sclerosis,
+CHEMBL973,MONDO_0005301,4.0,multiple sclerosis,Completed
+CHEMBL98,EFO_0000616,4.0,neoplasm,
+CHEMBL98,EFO_0002913,4.0,Cutaneous T-cell lymphoma,
+CHEMBL98,MONDO_0015760,4.0,T-cell non-Hodgkin lymphoma,
+CHEMBL981,HP_0003124,4.0,Hypercholesterolemia,
+CHEMBL981,MONDO_0005148,4.0,type 2 diabetes mellitus,
+CHEMBL982,MONDO_0007079,4.0,alcohol dependence,Completed | Terminated
+CHEMBL989,EFO_0000274,4.0,atopic eczema,
+CHEMBL989,EFO_0000676,4.0,psoriasis,
+CHEMBL989,EFO_0000701,4.0,skin disease,
+CHEMBL989,EFO_0003963,4.0,freckles,Completed | Terminated
+CHEMBL989,EFO_0005741,4.0,infectious disease,
+CHEMBL989,EFO_0005752,4.0,eye inflammation,
+CHEMBL989,EFO_0009552,4.0,hemorrhoid,
+CHEMBL989,EFO_1000764,4.0,seborrheic dermatitis,
+CHEMBL989,EFO_1001231,4.0,uveitis,Completed
+CHEMBL989,MONDO_0003005,4.0,macular retinal edema,
+CHEMBL995,EFO_0000537,4.0,hypertension,Completed | Unknown status
+CHEMBL995,EFO_0000712,4.0,stroke,
+CHEMBL995,EFO_0003086,4.0,kidney disease,Completed | Recruiting
+CHEMBL995,EFO_0003884,4.0,chronic kidney disease,
+CHEMBL995,HP_0000093,4.0,Proteinuria,Unknown status
+CHEMBL9967,HP_0004398,4.0,Peptic ulcer,
+CHEMBL998,EFO_0003956,4.0,seasonal allergic rhinitis,Completed
+CHEMBL998,EFO_0005531,4.0,urticaria,
+CHEMBL998,EFO_0005854,4.0,allergic rhinitis,Completed | Recruiting
+CHEMBL998,EFO_1001417,4.0,"Rhinitis, Allergic, Perennial",Completed
+CHEMBL998,HP_0000989,4.0,Pruritus,
+CHEMBL998,MONDO_0005271,4.0,allergic disease,
+CHEMBL99946,MONDO_0002009,4.0,major depressive disorder,Completed

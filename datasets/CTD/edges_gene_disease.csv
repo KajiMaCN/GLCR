@@ -1,0 +1,2128 @@
+geneId,diseaseId,geneSymbol,diseaseName,recordCount,pubmedCount,directEvidence,inferenceChemicalCount
+2,MESH:D000544,A2M,Alzheimer Disease,1,3,marker/mechanism,0
+2,MESH:D008175,A2M,Lung Neoplasms,1,2,marker/mechanism,0
+5243,MESH:D001172,ABCB1,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+5243,MESH:D015179,ABCB1,Colorectal Neoplasms,1,2,marker/mechanism,0
+5243,MESH:D064420,ABCB1,Drug-Related Side Effects and Adverse Reactions,1,4,marker/mechanism,0
+5243,MESH:D004827,ABCB1,Epilepsy,1,2,marker/mechanism,0
+5243,MESH:D009422,ABCB1,Nervous System Diseases,1,2,marker/mechanism,0
+5243,MESH:D009503,ABCB1,Neutropenia,1,2,marker/mechanism,0
+8647,MESH:D002779,ABCB11,Cholestasis,1,3,marker/mechanism,0
+5244,MESH:D004195,ABCB4,"Disease Models, Animal",1,2,marker/mechanism,0
+5244,MESH:D008103,ABCB4,Liver Cirrhosis,1,2,marker/mechanism,0
+1244,MESH:D056486,ABCC2,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+1244,MESH:D002779,ABCC2,Cholestasis,1,3,marker/mechanism,0
+1244,MESH:D064420,ABCC2,Drug-Related Side Effects and Adverse Reactions,1,4,marker/mechanism,0
+6833,MESH:D003924,ABCC8,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+9429,MESH:D015179,ABCG2,Colorectal Neoplasms,1,2,marker/mechanism,0
+9429,MESH:D064420,ABCG2,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+9429,MESH:D006073,ABCG2,Gout,1,2,marker/mechanism,0
+25,MESH:D015464,ABL1,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,4,marker/mechanism,0
+25,MESH:D054198,ABL1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1,2,marker/mechanism,0
+1636,MESH:D000544,ACE,Alzheimer Disease,1,5,marker/mechanism,0
+1636,MESH:D002318,ACE,Cardiovascular Diseases,1,3,marker/mechanism,0
+1636,MESH:D003371,ACE,Cough,1,2,marker/mechanism,0
+1636,MESH:D003928,ACE,Diabetic Nephropathies,1,5,marker/mechanism,0
+1636,MESH:D006973,ACE,Hypertension,1,4,marker/mechanism,0
+1636,MESH:D007248,ACE,"Infertility, Male",1,2,marker/mechanism,0
+1636,MESH:D007676,ACE,"Kidney Failure, Chronic",1,2,marker/mechanism,0
+1636,MESH:D055370,ACE,Lung Injury,1,2,marker/mechanism|therapeutic,0
+1636,MESH:D009203,ACE,Myocardial Infarction,1,2,marker/mechanism,0
+59272,MESH:D000086382,ACE2,COVID-19,1,15,marker/mechanism|therapeutic,0
+59272,MESH:D003928,ACE2,Diabetic Nephropathies,1,3,marker/mechanism|therapeutic,0
+59272,MESH:D006973,ACE2,Hypertension,1,7,marker/mechanism|therapeutic,0
+59272,MESH:D055370,ACE2,Lung Injury,1,4,marker/mechanism|therapeutic,0
+59272,MESH:D011658,ACE2,Pulmonary Fibrosis,1,2,marker/mechanism|therapeutic,0
+43,MESH:D000544,ACHE,Alzheimer Disease,1,2,marker/mechanism,0
+43,MESH:D062025,ACHE,Organophosphate Poisoning,1,3,marker/mechanism|therapeutic,0
+43,MESH:D012640,ACHE,Seizures,1,2,marker/mechanism|therapeutic,0
+59,MESH:D007674,ACTA2,Kidney Diseases,1,2,marker/mechanism,0
+59,MESH:D008103,ACTA2,Liver Cirrhosis,1,4,marker/mechanism,0
+59,MESH:D008106,ACTA2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+60,MESH:D006528,ACTB,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+100,MESH:D006940,ADA,Hyperemia,1,2,therapeutic,0
+125,MESH:D000437,ADH1B,Alcoholism,1,3,marker/mechanism,0
+9370,MESH:D003924,ADIPOQ,"Diabetes Mellitus, Type 2",1,3,marker/mechanism,0
+9370,MESH:D006333,ADIPOQ,Heart Failure,1,2,marker/mechanism|therapeutic,0
+9370,MESH:D007333,ADIPOQ,Insulin Resistance,1,2,therapeutic,0
+9370,MESH:D024821,ADIPOQ,Metabolic Syndrome,1,4,marker/mechanism,0
+9370,MESH:D009765,ADIPOQ,Obesity,1,2,marker/mechanism|therapeutic,0
+133,MESH:D005921,ADM,Glomerulonephritis,1,2,marker/mechanism,0
+133,MESH:D008106,ADM,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+23394,MESH:D001321,ADNP,Autistic Disorder,1,2,marker/mechanism,0
+134,MESH:D007022,ADORA1,Hypotension,1,2,marker/mechanism,0
+135,MESH:D001008,ADORA2A,Anxiety Disorders,1,4,marker/mechanism,0
+135,MESH:D007022,ADORA2A,Hypotension,1,3,marker/mechanism,0
+135,MESH:D013375,ADORA2A,Substance Withdrawal Syndrome,1,3,marker/mechanism,0
+147,MESH:D006332,ADRA1B,Cardiomegaly,1,2,marker/mechanism,0
+150,MESH:D007022,ADRA2A,Hypotension,1,2,marker/mechanism,0
+153,MESH:D006333,ADRB1,Heart Failure,1,5,marker/mechanism,0
+153,MESH:D006973,ADRB1,Hypertension,1,2,marker/mechanism,0
+154,MESH:D007008,ADRB2,Hypokalemia,1,3,marker/mechanism,0
+154,MESH:D014202,ADRB2,Tremor,1,4,marker/mechanism|therapeutic,0
+155,MESH:D006333,ADRB3,Heart Failure,1,2,marker/mechanism,0
+174,MESH:D006528,AFP,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+174,MESH:D008114,AFP,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+177,MESH:D050197,AGER,Atherosclerosis,1,2,marker/mechanism,0
+177,MESH:D007249,AGER,Inflammation,1,2,marker/mechanism,0
+10551,MESH:D011471,AGR2,Prostatic Neoplasms,1,2,marker/mechanism,0
+183,MESH:D000419,AGT,Albuminuria,1,3,marker/mechanism,0
+183,MESH:D001145,AGT,"Arrhythmias, Cardiac",1,2,marker/mechanism|therapeutic,0
+183,MESH:D050197,AGT,Atherosclerosis,1,2,marker/mechanism,0
+183,MESH:D006332,AGT,Cardiomegaly,1,23,marker/mechanism|therapeutic,0
+183,MESH:D009202,AGT,Cardiomyopathies,1,2,marker/mechanism,0
+183,MESH:D003921,AGT,"Diabetes Mellitus, Experimental",1,3,marker/mechanism,0
+183,MESH:D003928,AGT,Diabetic Nephropathies,1,2,therapeutic,0
+183,MESH:D004719,AGT,Endomyocardial Fibrosis,1,4,marker/mechanism,0
+183,MESH:D005355,AGT,Fibrosis,1,9,marker/mechanism,0
+183,MESH:D006333,AGT,Heart Failure,1,3,marker/mechanism,0
+183,MESH:D006973,AGT,Hypertension,1,85,marker/mechanism,0
+183,MESH:D006974,AGT,"Hypertension, Malignant",1,2,marker/mechanism,0
+183,MESH:D006984,AGT,Hypertrophy,1,8,marker/mechanism,0
+183,MESH:D017379,AGT,"Hypertrophy, Left Ventricular",1,6,marker/mechanism,0
+183,MESH:D007022,AGT,Hypotension,1,4,therapeutic,0
+183,MESH:D007249,AGT,Inflammation,1,4,marker/mechanism,0
+183,MESH:D007674,AGT,Kidney Diseases,1,6,marker/mechanism,0
+183,MESH:D009203,AGT,Myocardial Infarction,1,2,marker/mechanism,0
+183,MESH:D015428,AGT,Myocardial Reperfusion Injury,1,2,marker/mechanism|therapeutic,0
+183,MESH:D009336,AGT,Necrosis,1,2,marker/mechanism,0
+183,MESH:D058426,AGT,Neointima,1,2,marker/mechanism,0
+183,MESH:D011507,AGT,Proteinuria,1,6,marker/mechanism|therapeutic,0
+183,MESH:D011658,AGT,Pulmonary Fibrosis,1,2,therapeutic,0
+183,MESH:D013927,AGT,Thrombosis,1,2,marker/mechanism|therapeutic,0
+183,MESH:D018487,AGT,"Ventricular Dysfunction, Left",1,3,marker/mechanism,0
+185,MESH:D006333,AGTR1,Heart Failure,1,3,marker/mechanism,0
+185,MESH:D006973,AGTR1,Hypertension,1,4,marker/mechanism,0
+196,MESH:D001284,AHR,Atrophy,1,2,marker/mechanism,0
+196,MESH:D001943,AHR,Breast Neoplasms,1,2,marker/mechanism,0
+196,MESH:D056486,AHR,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism|therapeutic,0
+196,MESH:D006529,AHR,Hepatomegaly,1,4,marker/mechanism|therapeutic,0
+196,MESH:D017379,AHR,"Hypertrophy, Left Ventricular",1,2,marker/mechanism,0
+196,MESH:D007249,AHR,Inflammation,1,2,marker/mechanism,0
+196,MESH:D008107,AHR,Liver Diseases,1,2,marker/mechanism,0
+196,MESH:D008113,AHR,Liver Neoplasms,1,2,marker/mechanism,0
+196,MESH:D009361,AHR,Neoplasm Invasiveness,1,2,therapeutic,0
+196,MESH:D009765,AHR,Obesity,1,3,marker/mechanism,0
+196,MESH:D010190,AHR,Pancreatic Neoplasms,1,2,therapeutic,0
+196,MESH:D015430,AHR,Weight Gain,1,4,marker/mechanism,0
+8644,MESH:D004715,AKR1C3,Endometriosis,1,2,marker/mechanism,0
+8644,MESH:D011085,AKR1C3,Polycystic Ovary Syndrome,1,3,marker/mechanism,0
+8644,MESH:D011471,AKR1C3,Prostatic Neoplasms,1,2,marker/mechanism,0
+207,MESH:D004195,AKT1,"Disease Models, Animal",1,2,marker/mechanism,0
+207,MESH:D007249,AKT1,Inflammation,1,2,marker/mechanism,0
+207,MESH:D008175,AKT1,Lung Neoplasms,1,3,marker/mechanism|therapeutic,0
+207,MESH:D010051,AKT1,Ovarian Neoplasms,1,2,marker/mechanism,0
+207,MESH:D011471,AKT1,Prostatic Neoplasms,1,3,marker/mechanism,0
+207,MESH:D012559,AKT1,Schizophrenia,1,4,marker/mechanism,0
+210,MESH:D007674,ALAD,Kidney Diseases,1,2,marker/mechanism,0
+210,MESH:D007855,ALAD,Lead Poisoning,1,3,marker/mechanism,0
+213,MESH:D058186,ALB,Acute Kidney Injury,1,4,marker/mechanism|therapeutic,0
+213,MESH:D001930,ALB,Brain Injuries,1,2,marker/mechanism,0
+213,MESH:D056486,ALB,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+213,MESH:D004195,ALB,"Disease Models, Animal",1,2,marker/mechanism,0
+213,MESH:D064420,ALB,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+213,MESH:D004827,ALB,Epilepsy,1,2,marker/mechanism,0
+213,MESH:D005921,ALB,Glomerulonephritis,1,8,marker/mechanism,0
+213,MESH:D015433,ALB,"Glomerulonephritis, Membranous",1,6,marker/mechanism,0
+213,MESH:D007022,ALB,Hypotension,1,2,marker/mechanism,0
+213,MESH:D007674,ALB,Kidney Diseases,1,8,marker/mechanism,0
+213,MESH:D008103,ALB,Liver Cirrhosis,1,2,marker/mechanism,0
+213,MESH:D008106,ALB,"Liver Cirrhosis, Experimental",1,3,marker/mechanism,0
+213,MESH:D017114,ALB,"Liver Failure, Acute",1,2,marker/mechanism|therapeutic,0
+213,MESH:D008582,ALB,"Meningitis, Aseptic",1,3,marker/mechanism,0
+213,MESH:D009393,ALB,Nephritis,1,6,marker/mechanism,0
+213,MESH:D009395,ALB,"Nephritis, Interstitial",1,4,marker/mechanism,0
+213,MESH:D009404,ALB,Nephrotic Syndrome,1,2,marker/mechanism,0
+213,MESH:D011507,ALB,Proteinuria,1,9,marker/mechanism,0
+213,MESH:D020521,ALB,Stroke,1,4,marker/mechanism|therapeutic,0
+216,MESH:D002471,ALDH1A1,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+217,MESH:D000437,ALDH2,Alcoholism,1,2,marker/mechanism,0
+217,MESH:D001249,ALDH2,Asthma,1,2,marker/mechanism,0
+217,MESH:D000077277,ALDH2,Esophageal Squamous Cell Carcinoma,1,2,marker/mechanism,0
+238,MESH:D000077192,ALK,Adenocarcinoma of Lung,1,8,marker/mechanism,0
+238,MESH:D002289,ALK,"Carcinoma, Non-Small-Cell Lung",1,28,marker/mechanism,0
+238,MESH:D002471,ALK,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+238,MESH:D017728,ALK,"Lymphoma, Large-Cell, Anaplastic",1,6,marker/mechanism,0
+238,MESH:D009362,ALK,Neoplasm Metastasis,1,2,marker/mechanism,0
+238,MESH:D009447,ALK,Neuroblastoma,1,12,marker/mechanism,0
+240,MESH:D003110,ALOX5,Colonic Neoplasms,1,3,marker/mechanism,0
+240,MESH:D015464,ALOX5,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2,therapeutic,0
+249,MESH:D012640,ALPL,Seizures,1,2,marker/mechanism|therapeutic,0
+284,MESH:D005355,ANGPT1,Fibrosis,1,2,marker/mechanism,0
+288,MESH:D001714,ANK3,Bipolar Disorder,1,3,marker/mechanism,0
+29123,MESH:D000067877,ANKRD11,Autism Spectrum Disorder,1,2,marker/mechanism,0
+301,MESH:D002277,ANXA1,Carcinoma,1,2,marker/mechanism,0
+301,MESH:D015674,ANXA1,"Mammary Neoplasms, Animal",1,3,marker/mechanism,0
+301,MESH:D008325,ANXA1,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+84909,MESH:D001281,AOPEP,Atrial Fibrillation,1,3,marker/mechanism,0
+317,MESH:D019465,APAF1,Craniofacial Abnormalities,1,2,marker/mechanism,0
+324,MESH:D000230,APC,Adenocarcinoma,1,2,marker/mechanism,0
+324,MESH:D000236,APC,Adenoma,1,5,marker/mechanism,0
+324,MESH:D001321,APC,Autistic Disorder,1,2,marker/mechanism,0
+324,MESH:D002471,APC,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+324,MESH:D003110,APC,Colonic Neoplasms,1,9,marker/mechanism,0
+324,MESH:D015179,APC,Colorectal Neoplasms,1,7,marker/mechanism,0
+324,MESH:D007414,APC,Intestinal Neoplasms,1,6,marker/mechanism,0
+324,MESH:D007417,APC,Intestinal Polyps,1,7,marker/mechanism,0
+324,MESH:D011471,APC,Prostatic Neoplasms,1,2,marker/mechanism,0
+324,MESH:D015431,APC,Weight Loss,1,2,marker/mechanism,0
+328,MESH:D011471,APEX1,Prostatic Neoplasms,1,2,marker/mechanism,0
+335,MESH:D013274,APOA1,Stomach Neoplasms,1,2,marker/mechanism,0
+338,MESH:D002318,APOB,Cardiovascular Diseases,1,2,marker/mechanism,0
+338,MESH:D005234,APOB,Fatty Liver,1,2,marker/mechanism,0
+9582,MESH:D001943,APOBEC3B,Breast Neoplasms,1,4,marker/mechanism,0
+9582,MESH:D001749,APOBEC3B,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+348,MESH:D000544,APOE,Alzheimer Disease,1,9,marker/mechanism,0
+348,MESH:D050197,APOE,Atherosclerosis,1,32,marker/mechanism,0
+348,MESH:D050171,APOE,Dyslipidemias,1,3,marker/mechanism,0
+348,MESH:D006937,APOE,Hypercholesterolemia,1,4,marker/mechanism,0
+348,MESH:D006949,APOE,Hyperlipidemias,1,4,marker/mechanism,0
+348,MESH:D006973,APOE,Hypertension,1,2,marker/mechanism,0
+348,MESH:D008175,APOE,Lung Neoplasms,1,2,marker/mechanism,0
+348,MESH:D058226,APOE,"Plaque, Atherosclerotic",1,17,marker/mechanism,0
+351,MESH:D000544,APP,Alzheimer Disease,1,36,marker/mechanism,0
+351,MESH:D003072,APP,Cognition Disorders,1,6,marker/mechanism,0
+351,MESH:D004195,APP,"Disease Models, Animal",1,5,marker/mechanism,0
+351,MESH:D007859,APP,Learning Disabilities,1,9,marker/mechanism,0
+351,MESH:D008569,APP,Memory Disorders,1,18,marker/mechanism,0
+351,MESH:D009410,APP,Nerve Degeneration,1,12,marker/mechanism,0
+351,MESH:D019636,APP,Neurodegenerative Diseases,1,2,marker/mechanism,0
+351,MESH:D020078,APP,Neurogenic Inflammation,1,2,marker/mechanism,0
+351,MESH:D010243,APP,Paralysis,1,8,marker/mechanism,0
+367,MESH:D001943,AR,Breast Neoplasms,1,2,marker/mechanism,0
+367,MESH:D007248,AR,"Infertility, Male",1,3,marker/mechanism,0
+367,MESH:D011471,AR,Prostatic Neoplasms,1,21,marker/mechanism|therapeutic,0
+367,MESH:D064129,AR,"Prostatic Neoplasms, Castration-Resistant",1,4,marker/mechanism,0
+374,MESH:D002289,AREG,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+374,MESH:D013274,AREG,Stomach Neoplasms,1,3,marker/mechanism|therapeutic,0
+8289,MESH:D006528,ARID1A,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+8289,MESH:D011471,ARID1A,Prostatic Neoplasms,1,2,marker/mechanism,0
+8289,MESH:D013274,ARID1A,Stomach Neoplasms,1,3,marker/mechanism,0
+84159,MESH:D001172,ARID5B,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+84159,MESH:D054198,ARID5B,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1,2,marker/mechanism,0
+57412,MESH:D020261,AS3MT,Arsenic Poisoning,1,3,marker/mechanism|therapeutic,0
+57412,MESH:D001749,AS3MT,Urinary Bladder Neoplasms,1,4,marker/mechanism,0
+467,MESH:D009422,ATF3,Nervous System Diseases,1,2,marker/mechanism,0
+472,MESH:D010190,ATM,Pancreatic Neoplasms,1,2,marker/mechanism,0
+472,MESH:D011471,ATM,Prostatic Neoplasms,1,4,marker/mechanism,0
+93974,MESH:D002277,ATP5IF1,Carcinoma,1,2,marker/mechanism,0
+93974,MESH:D015674,ATP5IF1,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+93974,MESH:D008325,ATP5IF1,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+538,MESH:D007706,ATP7A,Menkes Kinky Hair Syndrome,1,28,marker/mechanism,0
+540,MESH:D002277,ATP7B,Carcinoma,1,2,marker/mechanism,0
+540,MESH:D004195,ATP7B,"Disease Models, Animal",1,4,marker/mechanism,0
+540,MESH:D018450,ATP7B,Disease Progression,1,3,marker/mechanism,0
+540,MESH:D006527,ATP7B,Hepatolenticular Degeneration,1,52,marker/mechanism,0
+546,MESH:D005910,ATRX,Glioma,1,2,marker/mechanism,0
+546,MESH:D009447,ATRX,Neuroblastoma,1,2,marker/mechanism,0
+567,MESH:D058186,B2M,Acute Kidney Injury,1,3,marker/mechanism,0
+567,MESH:D007674,B2M,Kidney Diseases,1,3,marker/mechanism,0
+572,MESH:D011471,BAD,Prostatic Neoplasms,1,2,marker/mechanism,0
+581,MESH:D009203,BAX,Myocardial Infarction,1,2,marker/mechanism,0
+590,MESH:D001049,BCHE,Apnea,1,31,marker/mechanism|therapeutic,0
+590,MESH:C537417,BCHE,Butyrylcholinesterase deficiency,1,5,marker/mechanism,0
+590,MESH:D019970,BCHE,Cocaine-Related Disorders,1,8,therapeutic,0
+590,MESH:D003072,BCHE,Cognition Disorders,1,2,marker/mechanism|therapeutic,0
+590,MESH:D009765,BCHE,Obesity,1,4,marker/mechanism|therapeutic,0
+590,MESH:D062025,BCHE,Organophosphate Poisoning,1,8,marker/mechanism|therapeutic,0
+590,MESH:D010243,BCHE,Paralysis,1,10,marker/mechanism,0
+590,MESH:D011041,BCHE,Poisoning,1,5,therapeutic,0
+590,MESH:D012640,BCHE,Seizures,1,3,therapeutic,0
+596,MESH:D000236,BCL2,Adenoma,1,2,marker/mechanism,0
+596,MESH:D001321,BCL2,Autistic Disorder,1,2,marker/mechanism,0
+596,MESH:D001943,BCL2,Breast Neoplasms,1,3,marker/mechanism,0
+596,MESH:D002471,BCL2,"Cell Transformation, Neoplastic",1,3,marker/mechanism,0
+596,MESH:D003110,BCL2,Colonic Neoplasms,1,3,marker/mechanism,0
+596,MESH:D003921,BCL2,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+596,MESH:D003924,BCL2,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+596,MESH:D018450,BCL2,Disease Progression,1,2,marker/mechanism,0
+596,MESH:D015451,BCL2,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2,marker/mechanism,0
+596,MESH:D008114,BCL2,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+596,MESH:D008228,BCL2,"Lymphoma, Non-Hodgkin",1,2,marker/mechanism,0
+596,MESH:D009336,BCL2,Necrosis,1,2,therapeutic,0
+596,MESH:D009410,BCL2,Nerve Degeneration,1,2,marker/mechanism|therapeutic,0
+597,MESH:D001943,BCL2A1,Breast Neoplasms,1,2,marker/mechanism,0
+598,MESH:D006528,BCL2L1,"Carcinoma, Hepatocellular",1,2,marker/mechanism|therapeutic,0
+598,MESH:D008114,BCL2L1,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+613,MESH:D015464,BCR,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,4,marker/mechanism,0
+624,MESH:D006930,BDKRB2,Hyperalgesia,1,3,marker/mechanism,0
+624,MESH:D007022,BDKRB2,Hypotension,1,2,marker/mechanism,0
+627,MESH:D001321,BDNF,Autistic Disorder,1,2,marker/mechanism,0
+627,MESH:D001714,BDNF,Bipolar Disorder,1,2,marker/mechanism,0
+627,MESH:D001835,BDNF,Body Weight,1,2,marker/mechanism,0
+627,MESH:D001930,BDNF,Brain Injuries,1,2,marker/mechanism|therapeutic,0
+627,MESH:D019970,BDNF,Cocaine-Related Disorders,1,7,marker/mechanism|therapeutic,0
+627,MESH:D003638,BDNF,Deafness,1,2,therapeutic,0
+627,MESH:D003866,BDNF,Depressive Disorder,1,2,marker/mechanism|therapeutic,0
+627,MESH:D009410,BDNF,Nerve Degeneration,1,5,marker/mechanism|therapeutic,0
+627,MESH:D012559,BDNF,Schizophrenia,1,4,marker/mechanism,0
+627,MESH:D012640,BDNF,Seizures,1,3,marker/mechanism|therapeutic,0
+627,MESH:D013226,BDNF,Status Epilepticus,1,2,marker/mechanism,0
+8678,MESH:D008175,BECN1,Lung Neoplasms,1,2,therapeutic,0
+332,MESH:D001943,BIRC5,Breast Neoplasms,1,2,marker/mechanism,0
+332,MESH:D006528,BIRC5,"Carcinoma, Hepatocellular",1,2,marker/mechanism|therapeutic,0
+332,MESH:D003110,BIRC5,Colonic Neoplasms,1,2,marker/mechanism|therapeutic,0
+332,MESH:D008175,BIRC5,Lung Neoplasms,1,2,marker/mechanism|therapeutic,0
+332,MESH:D010051,BIRC5,Ovarian Neoplasms,1,4,marker/mechanism|therapeutic,0
+655,MESH:D011471,BMP7,Prostatic Neoplasms,1,2,marker/mechanism,0
+655,MESH:D011658,BMP7,Pulmonary Fibrosis,1,2,therapeutic,0
+673,MESH:D000077192,BRAF,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+673,MESH:D015179,BRAF,Colorectal Neoplasms,1,4,marker/mechanism,0
+673,MESH:D008545,BRAF,Melanoma,1,24,marker/mechanism,0
+673,MESH:D011471,BRAF,Prostatic Neoplasms,1,2,marker/mechanism,0
+673,MESH:D013964,BRAF,Thyroid Neoplasms,1,6,marker/mechanism,0
+672,MESH:D001943,BRCA1,Breast Neoplasms,1,12,marker/mechanism,0
+672,MESH:D008325,BRCA1,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+672,MESH:D010051,BRCA1,Ovarian Neoplasms,1,5,marker/mechanism,0
+675,MESH:D001943,BRCA2,Breast Neoplasms,1,3,marker/mechanism,0
+675,MESH:D010190,BRCA2,Pancreatic Neoplasms,1,2,marker/mechanism,0
+727,MESH:D010538,C5,Peritonitis,1,2,marker/mechanism,0
+776,MESH:D000236,CACNA1D,Adenoma,1,2,marker/mechanism,0
+793,MESH:D007674,CALB1,Kidney Diseases,1,2,marker/mechanism,0
+796,MESH:D016535,CALCA,Bronchial Hyperreactivity,1,2,marker/mechanism,0
+796,MESH:D002375,CALCA,Catalepsy,1,3,marker/mechanism,0
+796,MESH:D006930,CALCA,Hyperalgesia,1,4,marker/mechanism|therapeutic,0
+796,MESH:D006934,CALCA,Hypercalcemia,1,2,therapeutic,0
+796,MESH:D006948,CALCA,Hyperkinesis,1,2,therapeutic,0
+796,MESH:D006973,CALCA,Hypertension,1,2,therapeutic,0
+836,MESH:D002545,CASP3,Brain Ischemia,1,2,marker/mechanism,0
+836,MESH:D018805,CASP3,Sepsis,1,2,marker/mechanism,0
+836,MESH:D013226,CASP3,Status Epilepticus,1,2,marker/mechanism,0
+841,MESH:D001943,CASP8,Breast Neoplasms,1,4,marker/mechanism,0
+841,MESH:D004938,CASP8,Esophageal Neoplasms,1,2,marker/mechanism,0
+841,MESH:D008545,CASP8,Melanoma,1,2,marker/mechanism,0
+847,MESH:D000014,CAT,"Abnormalities, Drug-Induced",1,2,therapeutic,0
+847,MESH:D002471,CAT,"Cell Transformation, Neoplastic",1,6,therapeutic,0
+847,MESH:D056486,CAT,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+847,MESH:D003921,CAT,"Diabetes Mellitus, Experimental",1,3,marker/mechanism|therapeutic,0
+847,MESH:D003924,CAT,"Diabetes Mellitus, Type 2",1,2,marker/mechanism|therapeutic,0
+847,MESH:D018450,CAT,Disease Progression,1,3,marker/mechanism|therapeutic,0
+847,MESH:D006973,CAT,Hypertension,1,4,marker/mechanism,0
+847,MESH:D007676,CAT,"Kidney Failure, Chronic",1,2,marker/mechanism,0
+847,MESH:D009336,CAT,Necrosis,1,2,therapeutic,0
+847,MESH:D009361,CAT,Neoplasm Invasiveness,1,2,therapeutic,0
+847,MESH:D009362,CAT,Neoplasm Metastasis,1,3,therapeutic,0
+847,MESH:D015427,CAT,Reperfusion Injury,1,4,marker/mechanism|therapeutic,0
+847,MESH:D012640,CAT,Seizures,1,3,marker/mechanism|therapeutic,0
+847,MESH:D013226,CAT,Status Epilepticus,1,4,marker/mechanism|therapeutic,0
+857,MESH:D001281,CAV1,Atrial Fibrillation,1,3,marker/mechanism,0
+857,MESH:D001943,CAV1,Breast Neoplasms,1,4,marker/mechanism,0
+857,MESH:D011471,CAV1,Prostatic Neoplasms,1,2,marker/mechanism,0
+885,MESH:D000855,CCK,Anorexia,1,2,marker/mechanism,0
+885,MESH:D002375,CCK,Catalepsy,1,2,therapeutic,0
+885,MESH:D006948,CCK,Hyperkinesis,1,2,therapeutic,0
+885,MESH:D010195,CCK,Pancreatitis,1,2,marker/mechanism,0
+885,MESH:D013276,CCK,Stomach Ulcer,1,6,marker/mechanism|therapeutic,0
+887,MESH:D013375,CCKBR,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+6356,MESH:D011658,CCL11,Pulmonary Fibrosis,1,2,marker/mechanism,0
+6347,MESH:D050197,CCL2,Atherosclerosis,1,3,marker/mechanism,0
+6347,MESH:D002545,CCL2,Brain Ischemia,1,2,marker/mechanism,0
+6347,MESH:D003324,CCL2,Coronary Artery Disease,1,2,marker/mechanism,0
+6347,MESH:D006967,CCL2,Hypersensitivity,1,2,marker/mechanism,0
+6347,MESH:D006973,CCL2,Hypertension,1,2,marker/mechanism,0
+6347,MESH:D006976,CCL2,"Hypertension, Pulmonary",1,2,marker/mechanism,0
+6347,MESH:D020244,CCL2,"Infarction, Middle Cerebral Artery",1,3,marker/mechanism|therapeutic,0
+6347,MESH:D007249,CCL2,Inflammation,1,3,marker/mechanism,0
+6347,MESH:D007676,CCL2,"Kidney Failure, Chronic",1,2,marker/mechanism,0
+6347,MESH:D024821,CCL2,Metabolic Syndrome,1,2,marker/mechanism,0
+6347,MESH:D009361,CCL2,Neoplasm Invasiveness,1,2,marker/mechanism,0
+6347,MESH:D011658,CCL2,Pulmonary Fibrosis,1,3,marker/mechanism,0
+6347,MESH:D015427,CCL2,Reperfusion Injury,1,2,marker/mechanism,0
+6347,MESH:D013226,CCL2,Status Epilepticus,1,2,marker/mechanism,0
+6348,MESH:D002545,CCL3,Brain Ischemia,1,2,marker/mechanism,0
+6348,MESH:D006967,CCL3,Hypersensitivity,1,2,marker/mechanism,0
+6348,MESH:D011658,CCL3,Pulmonary Fibrosis,1,2,marker/mechanism,0
+6351,MESH:D006967,CCL4,Hypersensitivity,1,2,marker/mechanism,0
+1490,MESH:D008103,CCN2,Liver Cirrhosis,1,3,marker/mechanism,0
+1490,MESH:D008171,CCN2,Lung Diseases,1,2,marker/mechanism,0
+1490,MESH:D011658,CCN2,Pulmonary Fibrosis,1,4,marker/mechanism,0
+595,MESH:D001932,CCND1,Brain Neoplasms,1,2,marker/mechanism,0
+595,MESH:D001943,CCND1,Breast Neoplasms,1,6,marker/mechanism,0
+595,MESH:D002277,CCND1,Carcinoma,1,4,marker/mechanism,0
+595,MESH:D006528,CCND1,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+595,MESH:D002471,CCND1,"Cell Transformation, Neoplastic",1,2,marker/mechanism|therapeutic,0
+595,MESH:D003110,CCND1,Colonic Neoplasms,1,4,marker/mechanism,0
+595,MESH:D006965,CCND1,Hyperplasia,1,2,marker/mechanism,0
+595,MESH:D008175,CCND1,Lung Neoplasms,1,2,marker/mechanism,0
+595,MESH:D020522,CCND1,"Lymphoma, Mantle-Cell",1,2,marker/mechanism,0
+595,MESH:D015674,CCND1,"Mammary Neoplasms, Animal",1,4,marker/mechanism,0
+595,MESH:D008325,CCND1,"Mammary Neoplasms, Experimental",1,3,marker/mechanism,0
+595,MESH:D000077195,CCND1,Squamous Cell Carcinoma of Head and Neck,1,2,marker/mechanism,0
+898,MESH:D001943,CCNE1,Breast Neoplasms,1,2,marker/mechanism,0
+898,MESH:D006528,CCNE1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+898,MESH:D001749,CCNE1,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+958,MESH:D001172,CD40,"Arthritis, Rheumatoid",1,3,marker/mechanism,0
+960,MESH:D015473,CD44,"Leukemia, Promyelocytic, Acute",1,2,marker/mechanism|therapeutic,0
+999,MESH:D001943,CDH1,Breast Neoplasms,1,4,marker/mechanism|therapeutic,0
+999,MESH:D002277,CDH1,Carcinoma,1,3,marker/mechanism,0
+999,MESH:D018270,CDH1,"Carcinoma, Ductal, Breast",1,2,marker/mechanism,0
+999,MESH:D015179,CDH1,Colorectal Neoplasms,1,2,marker/mechanism,0
+999,MESH:D008114,CDH1,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+999,MESH:D009361,CDH1,Neoplasm Invasiveness,1,2,marker/mechanism|therapeutic,0
+999,MESH:D009362,CDH1,Neoplasm Metastasis,1,2,marker/mechanism,0
+999,MESH:D011471,CDH1,Prostatic Neoplasms,1,4,marker/mechanism,0
+999,MESH:D013274,CDH1,Stomach Neoplasms,1,7,marker/mechanism,0
+999,MESH:D001749,CDH1,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+1012,MESH:D006528,CDH13,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+1012,MESH:D011471,CDH13,Prostatic Neoplasms,1,2,marker/mechanism,0
+1019,MESH:D002277,CDK4,Carcinoma,1,2,marker/mechanism,0
+1019,MESH:D008080,CDK4,Liposarcoma,1,2,marker/mechanism|therapeutic,0
+1019,MESH:D015674,CDK4,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+1019,MESH:D008325,CDK4,"Mammary Neoplasms, Experimental",1,3,marker/mechanism,0
+1021,MESH:D001281,CDK6,Atrial Fibrillation,1,2,marker/mechanism,0
+1021,MESH:D008527,CDK6,Medulloblastoma,1,2,marker/mechanism,0
+1026,MESH:D002295,CDKN1A,"Carcinoma, Transitional Cell",1,2,marker/mechanism,0
+1026,MESH:D007414,CDKN1A,Intestinal Neoplasms,1,2,marker/mechanism|therapeutic,0
+1026,MESH:D008175,CDKN1A,Lung Neoplasms,1,2,marker/mechanism,0
+1026,MESH:D011471,CDKN1A,Prostatic Neoplasms,1,2,marker/mechanism,0
+1027,MESH:D008175,CDKN1B,Lung Neoplasms,1,3,marker/mechanism,0
+1027,MESH:D011471,CDKN1B,Prostatic Neoplasms,1,3,marker/mechanism|therapeutic,0
+1028,MESH:D008175,CDKN1C,Lung Neoplasms,1,2,marker/mechanism,0
+1029,MESH:D001932,CDKN2A,Brain Neoplasms,1,2,marker/mechanism,0
+1029,MESH:D006528,CDKN2A,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+1029,MESH:D002289,CDKN2A,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+1029,MESH:D005910,CDKN2A,Glioma,1,2,marker/mechanism,0
+1029,MESH:D008113,CDKN2A,Liver Neoplasms,1,4,marker/mechanism,0
+1029,MESH:D008175,CDKN2A,Lung Neoplasms,1,4,marker/mechanism,0
+1029,MESH:D008545,CDKN2A,Melanoma,1,2,marker/mechanism,0
+1029,MESH:D000086002,CDKN2A,"Mesothelioma, Malignant",1,4,marker/mechanism,0
+1029,MESH:D009369,CDKN2A,Neoplasms,1,2,marker/mechanism,0
+1029,MESH:D010190,CDKN2A,Pancreatic Neoplasms,1,2,marker/mechanism,0
+1029,MESH:D000077195,CDKN2A,Squamous Cell Carcinoma of Head and Neck,1,3,marker/mechanism,0
+1029,MESH:D001749,CDKN2A,Urinary Bladder Neoplasms,1,2,marker/mechanism|therapeutic,0
+1030,MESH:D003324,CDKN2B,Coronary Artery Disease,1,2,marker/mechanism,0
+1030,MESH:D005910,CDKN2B,Glioma,1,2,marker/mechanism,0
+1050,MESH:D006528,CEBPA,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+1050,MESH:D002294,CEBPA,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+1050,MESH:D015470,CEBPA,"Leukemia, Myeloid, Acute",1,3,marker/mechanism,0
+1050,MESH:D015473,CEBPA,"Leukemia, Promyelocytic, Acute",1,2,marker/mechanism|therapeutic,0
+1066,MESH:D019970,CES1,Cocaine-Related Disorders,1,2,therapeutic,0
+1066,MESH:D008175,CES1,Lung Neoplasms,1,2,marker/mechanism,0
+1071,MESH:D006951,CETP,Hyperlipoproteinemias,1,2,marker/mechanism,0
+1080,MESH:D003550,CFTR,Cystic Fibrosis,1,16,marker/mechanism,0
+1080,MESH:D007248,CFTR,"Infertility, Male",1,2,marker/mechanism,0
+1080,MESH:D010195,CFTR,Pancreatitis,1,2,marker/mechanism,0
+1082,MESH:D007006,CGB3,Hypogonadism,1,2,therapeutic,0
+1106,MESH:D004827,CHD2,Epilepsy,1,2,marker/mechanism,0
+11200,MESH:D001943,CHEK2,Breast Neoplasms,1,4,marker/mechanism,0
+10752,MESH:D012559,CHL1,Schizophrenia,1,2,marker/mechanism,0
+1128,MESH:D012640,CHRM1,Seizures,1,5,marker/mechanism,0
+1136,OMIM:188890,CHRNA3,"TOBACCO ADDICTION, SUSCEPTIBILITY TO",1,2,marker/mechanism,0
+1136,MESH:D014029,CHRNA3,Tobacco Use Disorder,1,2,marker/mechanism,0
+1137,MESH:D012640,CHRNA4,Seizures,1,2,marker/mechanism,0
+1138,MESH:D001008,CHRNA5,Anxiety Disorders,1,2,marker/mechanism,0
+1138,MESH:D012640,CHRNA5,Seizures,1,2,marker/mechanism,0
+1138,MESH:D014029,CHRNA5,Tobacco Use Disorder,1,3,marker/mechanism,0
+1139,MESH:D012640,CHRNA7,Seizures,1,5,marker/mechanism,0
+1143,MESH:D012640,CHRNB4,Seizures,1,2,marker/mechanism,0
+9076,MESH:D001943,CLDN1,Breast Neoplasms,1,2,marker/mechanism,0
+1191,MESH:D058186,CLU,Acute Kidney Injury,1,6,marker/mechanism,0
+1191,MESH:D000544,CLU,Alzheimer Disease,1,3,marker/mechanism,0
+1191,MESH:D064420,CLU,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+1191,MESH:D007674,CLU,Kidney Diseases,1,3,marker/mechanism,0
+1191,MESH:D010003,CLU,Osteoarthritis,1,2,marker/mechanism,0
+1268,MESH:D001008,CNR1,Anxiety Disorders,1,2,marker/mechanism,0
+1268,MESH:D002375,CNR1,Catalepsy,1,4,marker/mechanism|therapeutic,0
+1268,MESH:D019970,CNR1,Cocaine-Related Disorders,1,3,marker/mechanism,0
+1268,MESH:D016889,CNR1,Endometrial Neoplasms,1,2,marker/mechanism,0
+1268,MESH:D007035,CNR1,Hypothermia,1,4,marker/mechanism|therapeutic,0
+1268,MESH:D008103,CNR1,Liver Cirrhosis,1,2,marker/mechanism,0
+1268,MESH:D009410,CNR1,Nerve Degeneration,1,2,marker/mechanism|therapeutic,0
+1268,MESH:D012640,CNR1,Seizures,1,2,marker/mechanism|therapeutic,0
+1268,MESH:D019966,CNR1,Substance-Related Disorders,1,3,marker/mechanism,0
+1268,MESH:D015431,CNR1,Weight Loss,1,2,marker/mechanism,0
+1269,MESH:D006930,CNR2,Hyperalgesia,1,2,marker/mechanism|therapeutic,0
+1269,MESH:D015431,CNR2,Weight Loss,1,2,marker/mechanism|therapeutic,0
+26047,MESH:D000067877,CNTNAP2,Autism Spectrum Disorder,1,4,marker/mechanism,0
+26047,MESH:D001321,CNTNAP2,Autistic Disorder,1,4,marker/mechanism,0
+26047,MESH:D004827,CNTNAP2,Epilepsy,1,2,marker/mechanism,0
+1277,MESH:D008103,COL1A1,Liver Cirrhosis,1,5,marker/mechanism,0
+1277,MESH:D008106,COL1A1,"Liver Cirrhosis, Experimental",1,3,marker/mechanism,0
+1280,MESH:D001169,COL2A1,"Arthritis, Experimental",1,10,marker/mechanism,0
+1280,MESH:D001172,COL2A1,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+1280,MESH:D019465,COL2A1,Craniofacial Abnormalities,1,2,marker/mechanism,0
+1280,MESH:D004487,COL2A1,Edema,1,4,marker/mechanism,0
+1280,MESH:D004890,COL2A1,Erythema,1,2,marker/mechanism,0
+1280,MESH:D007249,COL2A1,Inflammation,1,2,marker/mechanism,0
+1280,MESH:D010003,COL2A1,Osteoarthritis,1,2,marker/mechanism,0
+1280,MESH:D015431,COL2A1,Weight Loss,1,2,marker/mechanism,0
+1281,MESH:D008103,COL3A1,Liver Cirrhosis,1,5,marker/mechanism,0
+1281,MESH:D008106,COL3A1,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+1312,MESH:D001943,COMT,Breast Neoplasms,1,3,marker/mechanism,0
+1312,MESH:D012559,COMT,Schizophrenia,1,4,marker/mechanism,0
+1356,MESH:D006527,CP,Hepatolenticular Degeneration,1,3,marker/mechanism,0
+1356,MESH:D007511,CP,Ischemia,1,2,marker/mechanism,0
+1356,MESH:D008103,CP,Liver Cirrhosis,1,2,marker/mechanism,0
+1356,MESH:D010300,CP,Parkinson Disease,1,2,marker/mechanism,0
+1363,MESH:D009765,CPE,Obesity,1,2,marker/mechanism,0
+1373,MESH:D022124,CPS1,Hyperammonemia,1,2,marker/mechanism,0
+1385,MESH:D019970,CREB1,Cocaine-Related Disorders,1,3,marker/mechanism,0
+1387,MESH:D011471,CREBBP,Prostatic Neoplasms,1,2,marker/mechanism,0
+1392,MESH:D001008,CRH,Anxiety Disorders,1,11,marker/mechanism,0
+1392,MESH:D019970,CRH,Cocaine-Related Disorders,1,5,marker/mechanism,0
+1392,MESH:D003866,CRH,Depressive Disorder,1,2,marker/mechanism,0
+1392,MESH:D007022,CRH,Hypotension,1,2,marker/mechanism,0
+1392,MESH:D012640,CRH,Seizures,1,6,marker/mechanism,0
+1392,MESH:D013375,CRH,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+1401,MESH:D054058,CRP,Acute Coronary Syndrome,1,2,marker/mechanism,0
+1401,MESH:D002318,CRP,Cardiovascular Diseases,1,3,marker/mechanism,0
+1401,MESH:D006973,CRP,Hypertension,1,4,marker/mechanism,0
+1401,MESH:D007249,CRP,Inflammation,1,3,marker/mechanism,0
+1437,MESH:D000740,CSF2,Anemia,1,2,marker/mechanism,0
+1437,MESH:D008228,CSF2,"Lymphoma, Non-Hodgkin",1,3,therapeutic,0
+1437,MESH:D009101,CSF2,Multiple Myeloma,1,3,therapeutic,0
+1437,MESH:D009503,CSF2,Neutropenia,1,2,therapeutic,0
+1440,MESH:D000740,CSF3,Anemia,1,3,marker/mechanism,0
+1440,MESH:D001943,CSF3,Breast Neoplasms,1,8,marker/mechanism|therapeutic,0
+1440,MESH:D002295,CSF3,"Carcinoma, Transitional Cell",1,2,therapeutic,0
+1440,MESH:D056486,CSF3,Chemical and Drug Induced Liver Injury,1,2,therapeutic,0
+1440,MESH:D064420,CSF3,Drug-Related Side Effects and Adverse Reactions,1,3,marker/mechanism|therapeutic,0
+1440,MESH:D005355,CSF3,Fibrosis,1,2,therapeutic,0
+1440,MESH:D007970,CSF3,Leukopenia,1,4,marker/mechanism|therapeutic,0
+1440,MESH:D008545,CSF3,Melanoma,1,2,therapeutic,0
+1440,MESH:D009101,CSF3,Multiple Myeloma,1,2,therapeutic,0
+1440,MESH:D009362,CSF3,Neoplasm Metastasis,1,2,therapeutic,0
+1440,MESH:D009503,CSF3,Neutropenia,1,13,marker/mechanism|therapeutic,0
+1440,MESH:D010146,CSF3,Pain,1,3,marker/mechanism,0
+1440,MESH:D013921,CSF3,Thrombocytopenia,1,2,marker/mechanism,0
+1440,MESH:D001749,CSF3,Urinary Bladder Neoplasms,1,2,therapeutic,0
+1440,MESH:D018487,CSF3,"Ventricular Dysfunction, Left",1,2,marker/mechanism|therapeutic,0
+1471,MESH:D058186,CST3,Acute Kidney Injury,1,2,marker/mechanism,0
+1471,MESH:D000544,CST3,Alzheimer Disease,1,2,marker/mechanism|therapeutic,0
+1471,MESH:D007674,CST3,Kidney Diseases,1,2,marker/mechanism,0
+1475,MESH:D018450,CSTA,Disease Progression,1,2,marker/mechanism,0
+1489,MESH:D006332,CTF1,Cardiomegaly,1,2,marker/mechanism,0
+1499,MESH:D000230,CTNNB1,Adenocarcinoma,1,3,marker/mechanism,0
+1499,MESH:D000236,CTNNB1,Adenoma,1,2,marker/mechanism,0
+1499,MESH:D001943,CTNNB1,Breast Neoplasms,1,2,marker/mechanism,0
+1499,MESH:D006528,CTNNB1,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+1499,MESH:D003110,CTNNB1,Colonic Neoplasms,1,9,marker/mechanism,0
+1499,MESH:D015179,CTNNB1,Colorectal Neoplasms,1,4,marker/mechanism,0
+1499,MESH:D018450,CTNNB1,Disease Progression,1,3,marker/mechanism,0
+1499,MESH:D008113,CTNNB1,Liver Neoplasms,1,2,marker/mechanism,0
+1499,MESH:D008114,CTNNB1,"Liver Neoplasms, Experimental",1,3,marker/mechanism,0
+1499,MESH:D009361,CTNNB1,Neoplasm Invasiveness,1,2,marker/mechanism,0
+1499,MESH:D011471,CTNNB1,Prostatic Neoplasms,1,2,marker/mechanism,0
+1499,MESH:D009396,CTNNB1,Wilms Tumor,1,2,marker/mechanism,0
+1508,MESH:D009361,CTSB,Neoplasm Invasiveness,1,2,marker/mechanism,0
+6387,MESH:D006528,CXCL12,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+6387,MESH:D009361,CXCL12,Neoplasm Invasiveness,1,3,marker/mechanism,0
+6387,MESH:D009362,CXCL12,Neoplasm Metastasis,1,2,marker/mechanism,0
+3576,MESH:D001172,CXCL8,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+3576,MESH:D001943,CXCL8,Breast Neoplasms,1,2,marker/mechanism,0
+3576,MESH:D006528,CXCL8,"Carcinoma, Hepatocellular",1,2,marker/mechanism|therapeutic,0
+3576,MESH:D003093,CXCL8,"Colitis, Ulcerative",1,2,marker/mechanism,0
+3576,MESH:D005921,CXCL8,Glomerulonephritis,1,2,marker/mechanism,0
+3576,MESH:D006930,CXCL8,Hyperalgesia,1,2,marker/mechanism,0
+3576,MESH:D007249,CXCL8,Inflammation,1,2,marker/mechanism,0
+3576,MESH:D000086002,CXCL8,"Mesothelioma, Malignant",1,2,marker/mechanism,0
+3576,MESH:D010051,CXCL8,Ovarian Neoplasms,1,2,marker/mechanism,0
+3576,MESH:D011471,CXCL8,Prostatic Neoplasms,1,2,marker/mechanism,0
+3576,MESH:D029424,CXCL8,"Pulmonary Disease, Chronic Obstructive",1,3,marker/mechanism,0
+3576,MESH:D011658,CXCL8,Pulmonary Fibrosis,1,2,marker/mechanism,0
+3576,MESH:D013274,CXCL8,Stomach Neoplasms,1,2,marker/mechanism|therapeutic,0
+7852,MESH:D009362,CXCR4,Neoplasm Metastasis,1,2,marker/mechanism,0
+1535,MESH:D003921,CYBA,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+1535,MESH:D006973,CYBA,Hypertension,1,4,marker/mechanism,0
+1536,MESH:D006973,CYBB,Hypertension,1,6,marker/mechanism,0
+1586,MESH:D001943,CYP17A1,Breast Neoplasms,1,2,marker/mechanism,0
+1586,MESH:D011471,CYP17A1,Prostatic Neoplasms,1,5,marker/mechanism,0
+1588,MESH:D001943,CYP19A1,Breast Neoplasms,1,6,marker/mechanism,0
+1588,MESH:D004715,CYP19A1,Endometriosis,1,2,marker/mechanism,0
+1588,MESH:D011085,CYP19A1,Polycystic Ovary Syndrome,1,4,marker/mechanism,0
+1588,MESH:D011471,CYP19A1,Prostatic Neoplasms,1,2,marker/mechanism,0
+1543,MESH:D000022,CYP1A1,"Abortion, Spontaneous",1,2,marker/mechanism,0
+1543,MESH:D017449,CYP1A1,"Dermatitis, Allergic Contact",1,2,marker/mechanism,0
+1543,MESH:D006973,CYP1A1,Hypertension,1,2,marker/mechanism,0
+1543,MESH:D055370,CYP1A1,Lung Injury,1,2,marker/mechanism,0
+1543,MESH:D048629,CYP1A1,"Micronuclei, Chromosome-Defective",1,2,marker/mechanism,0
+1543,MESH:D011471,CYP1A1,Prostatic Neoplasms,1,2,marker/mechanism,0
+1544,MESH:D008114,CYP1A2,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+1545,MESH:D001943,CYP1B1,Breast Neoplasms,1,2,marker/mechanism,0
+1593,MESH:D050197,CYP27A1,Atherosclerosis,1,2,marker/mechanism,0
+1548,MESH:D008175,CYP2A6,Lung Neoplasms,1,6,marker/mechanism,0
+1548,MESH:D013274,CYP2A6,Stomach Neoplasms,1,2,marker/mechanism,0
+1548,OMIM:188890,CYP2A6,"TOBACCO ADDICTION, SUSCEPTIBILITY TO",1,2,marker/mechanism|therapeutic,0
+1548,MESH:D014029,CYP2A6,Tobacco Use Disorder,1,5,marker/mechanism,0
+1555,MESH:D056486,CYP2B6,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+1555,MESH:D018316,CYP2B6,Gliosarcoma,1,2,therapeutic,0
+1557,MESH:D056486,CYP2C19,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+1559,MESH:D056486,CYP2C9,Chemical and Drug Induced Liver Injury,1,4,marker/mechanism,0
+1559,MESH:C563039,CYP2C9,Coumarin Resistance,1,3,marker/mechanism,0
+1559,MESH:D064420,CYP2C9,Drug-Related Side Effects and Adverse Reactions,1,3,marker/mechanism,0
+1559,MESH:D006470,CYP2C9,Hemorrhage,1,5,marker/mechanism,0
+1565,MESH:D010300,CYP2D6,Parkinson Disease,1,2,marker/mechanism,0
+1565,MESH:D020018,CYP2D6,"Sexual Dysfunctions, Psychological",1,2,marker/mechanism,0
+1571,MESH:D056486,CYP2E1,Chemical and Drug Induced Liver Injury,1,4,marker/mechanism,0
+1571,MESH:D008175,CYP2E1,Lung Neoplasms,1,2,marker/mechanism,0
+1571,MESH:D009336,CYP2E1,Necrosis,1,2,marker/mechanism,0
+1577,MESH:D007674,CYP3A5,Kidney Diseases,1,2,marker/mechanism,0
+1581,MESH:D002779,CYP7A1,Cholestasis,1,2,marker/mechanism,0
+10800,MESH:D055963,CYSLTR1,"Asthma, Aspirin-Induced",1,3,marker/mechanism,0
+1644,MESH:D010300,DDC,Parkinson Disease,1,2,therapeutic,0
+7913,MESH:D009361,DEK,Neoplasm Invasiveness,1,2,marker/mechanism,0
+1717,MESH:D019082,DHCR7,Smith-Lemli-Opitz Syndrome,1,11,marker/mechanism,0
+1719,MESH:D000749,DHFR,"Anemia, Megaloblastic",1,2,marker/mechanism,0
+1719,MESH:D001943,DHFR,Breast Neoplasms,1,2,marker/mechanism,0
+1719,MESH:D009422,DHFR,Nervous System Diseases,1,2,marker/mechanism,0
+1756,MESH:D009202,DMD,Cardiomyopathies,1,3,marker/mechanism|therapeutic,0
+1756,MESH:D004195,DMD,"Disease Models, Animal",1,3,marker/mechanism,0
+1756,MESH:D018908,DMD,Muscle Weakness,1,2,marker/mechanism,0
+1786,MESH:D001943,DNMT1,Breast Neoplasms,1,2,marker/mechanism,0
+1786,MESH:D013274,DNMT1,Stomach Neoplasms,1,2,marker/mechanism,0
+1788,MESH:D006130,DNMT3A,Growth Disorders,1,2,marker/mechanism,0
+1789,MESH:D000067877,DNMT3B,Autism Spectrum Disorder,1,2,marker/mechanism,0
+1789,MESH:D001943,DNMT3B,Breast Neoplasms,1,2,marker/mechanism,0
+1806,MESH:D000067877,DPYD,Autism Spectrum Disorder,1,2,marker/mechanism,0
+1806,MESH:D015179,DPYD,Colorectal Neoplasms,1,5,marker/mechanism,0
+1806,MESH:D010190,DPYD,Pancreatic Neoplasms,1,2,marker/mechanism,0
+1806,MESH:D012559,DPYD,Schizophrenia,1,2,marker/mechanism,0
+1806,MESH:D013274,DPYD,Stomach Neoplasms,1,3,marker/mechanism,0
+1812,MESH:D019969,DRD1,Amphetamine-Related Disorders,1,2,marker/mechanism,0
+1812,MESH:D002375,DRD1,Catalepsy,1,3,marker/mechanism,0
+1812,MESH:D019970,DRD1,Cocaine-Related Disorders,1,4,marker/mechanism,0
+1812,MESH:D004409,DRD1,"Dyskinesia, Drug-Induced",1,4,marker/mechanism,0
+1812,MESH:D007022,DRD1,Hypotension,1,2,marker/mechanism,0
+1812,MESH:D012640,DRD1,Seizures,1,2,marker/mechanism,0
+1813,MESH:D019969,DRD2,Amphetamine-Related Disorders,1,3,marker/mechanism,0
+1813,MESH:D001008,DRD2,Anxiety Disorders,1,2,marker/mechanism,0
+1813,MESH:D001480,DRD2,Basal Ganglia Diseases,1,5,marker/mechanism,0
+1813,MESH:D001919,DRD2,Bradycardia,1,2,marker/mechanism,0
+1813,MESH:D002375,DRD2,Catalepsy,1,4,marker/mechanism,0
+1813,MESH:D019970,DRD2,Cocaine-Related Disorders,1,10,marker/mechanism|therapeutic,0
+1813,MESH:D007174,DRD2,"Disruptive, Impulse Control, and Conduct Disorders",1,3,marker/mechanism,0
+1813,MESH:D004409,DRD2,"Dyskinesia, Drug-Induced",1,3,marker/mechanism,0
+1813,MESH:D006948,DRD2,Hyperkinesis,1,2,marker/mechanism,0
+1813,MESH:D006966,DRD2,Hyperprolactinemia,1,2,marker/mechanism,0
+1813,MESH:D007022,DRD2,Hypotension,1,4,marker/mechanism,0
+1813,MESH:D020734,DRD2,Parkinsonian Disorders,1,3,marker/mechanism|therapeutic,0
+1813,MESH:D012559,DRD2,Schizophrenia,1,4,marker/mechanism,0
+1813,MESH:D012640,DRD2,Seizures,1,3,marker/mechanism|therapeutic,0
+1813,MESH:D013610,DRD2,Tachycardia,1,2,marker/mechanism,0
+1869,MESH:D006528,E2F1,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+1869,MESH:D008545,E2F1,Melanoma,1,2,marker/mechanism|therapeutic,0
+1889,MESH:D006330,ECE1,"Heart Defects, Congenital",1,2,marker/mechanism,0
+1906,MESH:D001145,EDN1,"Arrhythmias, Cardiac",1,2,marker/mechanism,0
+1906,MESH:D001919,EDN1,Bradycardia,1,2,therapeutic,0
+1906,MESH:D019465,EDN1,Craniofacial Abnormalities,1,4,marker/mechanism,0
+1906,MESH:D003921,EDN1,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+1906,MESH:D006333,EDN1,Heart Failure,1,7,marker/mechanism,0
+1906,MESH:D006548,EDN1,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+1906,MESH:D006973,EDN1,Hypertension,1,14,marker/mechanism,0
+1906,MESH:D006976,EDN1,"Hypertension, Pulmonary",1,5,marker/mechanism,0
+1906,MESH:D006984,EDN1,Hypertrophy,1,2,marker/mechanism,0
+1906,MESH:D017379,EDN1,"Hypertrophy, Left Ventricular",1,2,marker/mechanism,0
+1906,MESH:D007022,EDN1,Hypotension,1,2,therapeutic,0
+1906,MESH:D007674,EDN1,Kidney Diseases,1,3,marker/mechanism,0
+1906,MESH:D017202,EDN1,Myocardial Ischemia,1,3,marker/mechanism,0
+1906,MESH:D015428,EDN1,Myocardial Reperfusion Injury,1,2,marker/mechanism,0
+1906,MESH:D010146,EDN1,Pain,1,2,marker/mechanism,0
+1908,MESH:D007022,EDN3,Hypotension,1,2,marker/mechanism|therapeutic,0
+1909,MESH:D019465,EDNRA,Craniofacial Abnormalities,1,2,marker/mechanism,0
+1909,MESH:D006548,EDNRA,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+1950,MESH:D001943,EGF,Breast Neoplasms,1,3,marker/mechanism,0
+1950,MESH:D002471,EGF,"Cell Transformation, Neoplastic",1,3,marker/mechanism,0
+1950,MESH:D009361,EGF,Neoplasm Invasiveness,1,5,marker/mechanism,0
+1950,MESH:D009362,EGF,Neoplasm Metastasis,1,2,marker/mechanism,0
+1950,MESH:D013276,EGF,Stomach Ulcer,1,2,therapeutic,0
+1956,MESH:D000230,EGFR,Adenocarcinoma,1,5,marker/mechanism,0
+1956,MESH:D000077192,EGFR,Adenocarcinoma of Lung,1,3,marker/mechanism,0
+1956,MESH:D001943,EGFR,Breast Neoplasms,1,6,marker/mechanism,0
+1956,MESH:D002289,EGFR,"Carcinoma, Non-Small-Cell Lung",1,16,marker/mechanism,0
+1956,MESH:D002294,EGFR,"Carcinoma, Squamous Cell",1,3,marker/mechanism,0
+1956,MESH:D003110,EGFR,Colonic Neoplasms,1,2,marker/mechanism,0
+1956,MESH:D015179,EGFR,Colorectal Neoplasms,1,2,marker/mechanism,0
+1956,MESH:D004938,EGFR,Esophageal Neoplasms,1,3,marker/mechanism,0
+1956,MESH:D005909,EGFR,Glioblastoma,1,3,marker/mechanism,0
+1956,MESH:D006258,EGFR,Head and Neck Neoplasms,1,3,marker/mechanism,0
+1956,MESH:D008175,EGFR,Lung Neoplasms,1,7,marker/mechanism,0
+1956,MESH:D008325,EGFR,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+1956,MESH:D009361,EGFR,Neoplasm Invasiveness,1,2,marker/mechanism,0
+1956,MESH:D009362,EGFR,Neoplasm Metastasis,1,3,marker/mechanism,0
+1956,MESH:D009364,EGFR,"Neoplasm Recurrence, Local",1,2,marker/mechanism,0
+1956,MESH:D010051,EGFR,Ovarian Neoplasms,1,2,marker/mechanism,0
+1956,MESH:D011471,EGFR,Prostatic Neoplasms,1,3,marker/mechanism|therapeutic,0
+1956,MESH:D013274,EGFR,Stomach Neoplasms,1,3,marker/mechanism|therapeutic,0
+1956,MESH:D001749,EGFR,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+1956,MESH:D002583,EGFR,Uterine Cervical Neoplasms,1,3,marker/mechanism,0
+1958,MESH:D002780,EGR1,"Cholestasis, Intrahepatic",1,2,marker/mechanism,0
+1958,MESH:D019970,EGR1,Cocaine-Related Disorders,1,3,marker/mechanism|therapeutic,0
+10919,MESH:D009362,EHMT2,Neoplasm Metastasis,1,2,marker/mechanism,0
+27436,MESH:D000077192,EML4,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+27436,MESH:D002289,EML4,"Carcinoma, Non-Small-Cell Lung",1,6,marker/mechanism,0
+27436,MESH:D009362,EML4,Neoplasm Metastasis,1,2,marker/mechanism,0
+2023,MESH:D000077192,ENO1,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+2023,MESH:D056486,ENO1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+2033,MESH:D000077277,EP300,Esophageal Squamous Cell Carcinoma,1,2,marker/mechanism,0
+2034,MESH:D002471,EPAS1,"Cell Transformation, Neoplastic",1,3,marker/mechanism,0
+2034,MESH:D009361,EPAS1,Neoplasm Invasiveness,1,2,marker/mechanism,0
+2052,MESH:D008175,EPHX1,Lung Neoplasms,1,2,marker/mechanism,0
+2052,MESH:D011471,EPHX1,Prostatic Neoplasms,1,3,marker/mechanism,0
+2053,MESH:D000067877,EPHX2,Autism Spectrum Disorder,1,2,marker/mechanism,0
+2056,MESH:D058186,EPO,Acute Kidney Injury,1,2,therapeutic,0
+2056,MESH:D000740,EPO,Anemia,1,64,marker/mechanism|therapeutic,0
+2056,MESH:D000743,EPO,"Anemia, Hemolytic",1,3,therapeutic,0
+2056,MESH:D009202,EPO,Cardiomyopathies,1,4,therapeutic,0
+2056,MESH:D006973,EPO,Hypertension,1,2,marker/mechanism,0
+2056,MESH:D007674,EPO,Kidney Diseases,1,2,therapeutic,0
+2056,MESH:D009190,EPO,Myelodysplastic Syndromes,1,2,therapeutic,0
+2056,MESH:D009410,EPO,Nerve Degeneration,1,4,therapeutic,0
+2056,MESH:D013226,EPO,Status Epilepticus,1,2,therapeutic,0
+2056,MESH:D013927,EPO,Thrombosis,1,2,marker/mechanism,0
+2056,MESH:D020246,EPO,Venous Thrombosis,1,2,marker/mechanism,0
+2064,MESH:D000230,ERBB2,Adenocarcinoma,1,2,marker/mechanism,0
+2064,MESH:D001943,ERBB2,Breast Neoplasms,1,41,marker/mechanism|therapeutic,0
+2064,MESH:D018450,ERBB2,Disease Progression,1,3,marker/mechanism,0
+2064,MESH:D015674,ERBB2,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+2064,MESH:D008325,ERBB2,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+2064,MESH:D010051,ERBB2,Ovarian Neoplasms,1,2,marker/mechanism,0
+2064,MESH:D011471,ERBB2,Prostatic Neoplasms,1,3,marker/mechanism,0
+2064,MESH:D013274,ERBB2,Stomach Neoplasms,1,3,marker/mechanism,0
+2065,MESH:D001943,ERBB3,Breast Neoplasms,1,2,marker/mechanism,0
+2067,MESH:D002289,ERCC1,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+2068,MESH:D001749,ERCC2,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+2072,MESH:D048629,ERCC4,"Micronuclei, Chromosome-Defective",1,2,marker/mechanism,0
+2099,MESH:D000230,ESR1,Adenocarcinoma,1,2,marker/mechanism,0
+2099,MESH:D001943,ESR1,Breast Neoplasms,1,14,marker/mechanism,0
+2099,MESH:D002277,ESR1,Carcinoma,1,2,marker/mechanism,0
+2099,MESH:D006528,ESR1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+2099,MESH:D002471,ESR1,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+2099,MESH:D003324,ESR1,Coronary Artery Disease,1,2,marker/mechanism,0
+2099,MESH:D007248,ESR1,"Infertility, Male",1,2,marker/mechanism,0
+2099,MESH:D008175,ESR1,Lung Neoplasms,1,2,marker/mechanism,0
+2099,MESH:D015674,ESR1,"Mammary Neoplasms, Animal",1,3,marker/mechanism,0
+2099,MESH:D008654,ESR1,Mesothelioma,1,2,marker/mechanism,0
+2099,MESH:D009361,ESR1,Neoplasm Invasiveness,1,3,marker/mechanism|therapeutic,0
+2099,MESH:D009362,ESR1,Neoplasm Metastasis,1,2,marker/mechanism,0
+2099,MESH:D011471,ESR1,Prostatic Neoplasms,1,2,marker/mechanism,0
+2099,MESH:D001749,ESR1,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+2100,MESH:D001943,ESR2,Breast Neoplasms,1,3,marker/mechanism|therapeutic,0
+2100,MESH:D011471,ESR2,Prostatic Neoplasms,1,6,marker/mechanism|therapeutic,0
+2118,MESH:D011471,ETV4,Prostatic Neoplasms,1,2,marker/mechanism,0
+2146,MESH:D006528,EZH2,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+2146,MESH:D011471,EZH2,Prostatic Neoplasms,1,3,marker/mechanism,0
+7430,MESH:D011471,EZR,Prostatic Neoplasms,1,3,marker/mechanism,0
+2147,MESH:D002545,F2,Brain Ischemia,1,2,marker/mechanism,0
+2147,MESH:D009203,F2,Myocardial Infarction,1,3,marker/mechanism,0
+2147,MESH:D013927,F2,Thrombosis,1,4,marker/mechanism,0
+2147,MESH:D020246,F2,Venous Thrombosis,1,3,marker/mechanism,0
+2149,MESH:D005234,F2R,Fatty Liver,1,3,marker/mechanism,0
+2150,MESH:D007249,F2RL1,Inflammation,1,2,marker/mechanism,0
+2152,MESH:D004211,F3,Disseminated Intravascular Coagulation,1,3,marker/mechanism,0
+2152,MESH:D013927,F3,Thrombosis,1,2,marker/mechanism,0
+2155,MESH:D002543,F7,Cerebral Hemorrhage,1,2,therapeutic,0
+2155,MESH:D006470,F7,Hemorrhage,1,3,therapeutic,0
+2155,MESH:D020300,F7,Intracranial Hemorrhages,1,5,therapeutic,0
+2166,MESH:D009765,FAAH,Obesity,1,2,marker/mechanism,0
+2166,MESH:D019966,FAAH,Substance-Related Disorders,1,2,marker/mechanism,0
+2166,MESH:D013375,FAAH,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+2173,MESH:D008106,FABP7,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+355,MESH:D001327,FAS,Autoimmune Diseases,1,3,marker/mechanism,0
+355,MESH:D009202,FAS,Cardiomyopathies,1,3,marker/mechanism,0
+355,MESH:D004195,FAS,"Disease Models, Animal",1,2,marker/mechanism,0
+355,MESH:D005921,FAS,Glomerulonephritis,1,2,marker/mechanism,0
+355,MESH:D008181,FAS,Lupus Nephritis,1,2,marker/mechanism,0
+355,MESH:D011507,FAS,Proteinuria,1,3,marker/mechanism,0
+355,MESH:D013163,FAS,Splenomegaly,1,2,marker/mechanism,0
+356,MESH:D009202,FASLG,Cardiomyopathies,1,2,marker/mechanism,0
+2194,MESH:D001943,FASN,Breast Neoplasms,1,2,marker/mechanism,0
+2194,MESH:D006528,FASN,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+2194,MESH:D008545,FASN,Melanoma,1,3,marker/mechanism,0
+2205,MESH:D004342,FCER1A,Drug Hypersensitivity,1,2,marker/mechanism,0
+2205,MESH:D014581,FCER1A,Urticaria,1,2,marker/mechanism,0
+2243,MESH:D007674,FGA,Kidney Diseases,1,2,marker/mechanism,0
+2247,MESH:D017202,FGF2,Myocardial Ischemia,1,2,therapeutic,0
+2260,MESH:D001943,FGFR1,Breast Neoplasms,1,2,marker/mechanism,0
+2260,MESH:D002289,FGFR1,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+2260,MESH:D002294,FGFR1,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+2263,MESH:D001943,FGFR2,Breast Neoplasms,1,4,marker/mechanism,0
+2263,MESH:D018281,FGFR2,Cholangiocarcinoma,1,4,marker/mechanism,0
+2263,MESH:D002972,FGFR2,Cleft Palate,1,2,marker/mechanism,0
+2263,MESH:D019465,FGFR2,Craniofacial Abnormalities,1,3,marker/mechanism,0
+2263,MESH:D013274,FGFR2,Stomach Neoplasms,1,3,marker/mechanism,0
+2261,MESH:D001749,FGFR3,Urinary Bladder Neoplasms,1,5,marker/mechanism,0
+2272,MESH:D008175,FHIT,Lung Neoplasms,1,2,marker/mechanism,0
+2272,MESH:D008654,FHIT,Mesothelioma,1,2,marker/mechanism,0
+2321,MESH:D001943,FLT1,Breast Neoplasms,1,2,marker/mechanism,0
+2322,MESH:D015470,FLT3,"Leukemia, Myeloid, Acute",1,13,marker/mechanism,0
+2322,MESH:D015473,FLT3,"Leukemia, Promyelocytic, Acute",1,3,marker/mechanism,0
+2322,MESH:D007964,FLT3,Leukocytosis,1,2,marker/mechanism,0
+2335,MESH:D006973,FN1,Hypertension,1,2,marker/mechanism,0
+2353,MESH:D006528,FOS,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+2353,MESH:D019970,FOS,Cocaine-Related Disorders,1,3,marker/mechanism,0
+2353,MESH:D006973,FOS,Hypertension,1,2,marker/mechanism,0
+2353,MESH:D012640,FOS,Seizures,1,4,marker/mechanism,0
+2353,MESH:D013226,FOS,Status Epilepticus,1,4,marker/mechanism,0
+2353,MESH:D013375,FOS,Substance Withdrawal Syndrome,1,3,marker/mechanism,0
+3169,MESH:D011471,FOXA1,Prostatic Neoplasms,1,5,marker/mechanism,0
+2305,MESH:D006528,FOXM1,"Carcinoma, Hepatocellular",1,3,marker/mechanism,0
+2305,MESH:D002289,FOXM1,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+2305,MESH:D008175,FOXM1,Lung Neoplasms,1,2,marker/mechanism,0
+2309,MESH:D003921,FOXO3,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+93986,MESH:D001321,FOXP2,Autistic Disorder,1,2,marker/mechanism,0
+50943,MESH:D001249,FOXP3,Asthma,1,2,marker/mechanism,0
+2488,MESH:D007006,FSHB,Hypogonadism,1,3,marker/mechanism|therapeutic,0
+10468,MESH:D006528,FST,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+79068,MESH:D001835,FTO,Body Weight,1,2,marker/mechanism,0
+79068,MESH:D009765,FTO,Obesity,1,6,marker/mechanism,0
+2395,MESH:D005621,FXN,Friedreich Ataxia,1,11,marker/mechanism,0
+2539,MESH:D058186,G6PD,Acute Kidney Injury,1,3,marker/mechanism,0
+2539,MESH:D000743,G6PD,"Anemia, Hemolytic",1,3,marker/mechanism,0
+2555,MESH:D019970,GABRA2,Cocaine-Related Disorders,1,2,marker/mechanism,0
+2560,MESH:D001321,GABRB1,Autistic Disorder,1,2,marker/mechanism,0
+2562,MESH:D001321,GABRB3,Autistic Disorder,1,2,marker/mechanism,0
+2562,MESH:D004827,GABRB3,Epilepsy,1,2,marker/mechanism,0
+2571,MESH:D012559,GAD1,Schizophrenia,1,4,marker/mechanism,0
+2572,MESH:D012559,GAD2,Schizophrenia,1,2,marker/mechanism,0
+2572,MESH:D012640,GAD2,Seizures,1,2,marker/mechanism,0
+2597,MESH:D006528,GAPDH,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+2624,MESH:D015470,GATA2,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+2624,MESH:D009190,GATA2,Myelodysplastic Syndromes,1,3,marker/mechanism,0
+2626,MESH:D006332,GATA4,Cardiomegaly,1,2,marker/mechanism,0
+2628,MESH:D006333,GATM,Heart Failure,1,2,marker/mechanism,0
+2730,MESH:D009203,GCLM,Myocardial Infarction,1,2,marker/mechanism,0
+9518,MESH:D011471,GDF15,Prostatic Neoplasms,1,2,marker/mechanism,0
+2668,MESH:D019970,GDNF,Cocaine-Related Disorders,1,2,therapeutic,0
+2668,MESH:D010300,GDNF,Parkinson Disease,1,2,therapeutic,0
+2668,MESH:D020734,GDNF,Parkinsonian Disorders,1,2,therapeutic,0
+2668,MESH:D013226,GDNF,Status Epilepticus,1,2,marker/mechanism,0
+2688,MESH:D000172,GH1,Acromegaly,1,7,marker/mechanism,0
+2688,MESH:D049912,GH1,Growth Hormone-Secreting Pituitary Adenoma,1,2,marker/mechanism,0
+2688,MESH:D008325,GH1,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+2697,MESH:D001145,GJA1,"Arrhythmias, Cardiac",1,2,marker/mechanism,0
+2697,MESH:D006548,GJA1,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+2697,MESH:D006973,GJA1,Hypertension,1,2,marker/mechanism|therapeutic,0
+2697,MESH:D008175,GJA1,Lung Neoplasms,1,2,marker/mechanism,0
+2705,MESH:D008175,GJB1,Lung Neoplasms,1,2,marker/mechanism,0
+2752,MESH:D008114,GLUL,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+2778,MESH:D004700,GNAS,Endocrine System Diseases,1,2,marker/mechanism,0
+2778,MESH:D011629,GNAS,"Puberty, Precocious",1,2,marker/mechanism,0
+27232,MESH:D006528,GNMT,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+2875,MESH:D056486,GPT,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+2876,MESH:D003924,GPX1,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+2876,MESH:D006946,GPX1,Hyperinsulinism,1,2,marker/mechanism,0
+2876,MESH:D001749,GPX1,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+2878,MESH:D004715,GPX3,Endometriosis,1,2,marker/mechanism,0
+2878,MESH:D008175,GPX3,Lung Neoplasms,1,2,marker/mechanism,0
+2878,MESH:D009765,GPX3,Obesity,1,2,marker/mechanism,0
+2879,MESH:D007248,GPX4,"Infertility, Male",1,2,marker/mechanism,0
+2890,MESH:D019970,GRIA1,Cocaine-Related Disorders,1,5,marker/mechanism|therapeutic,0
+2890,MESH:D006948,GRIA1,Hyperkinesis,1,2,marker/mechanism,0
+2890,MESH:D013375,GRIA1,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+2903,MESH:D004827,GRIN2A,Epilepsy,1,2,marker/mechanism,0
+2896,MESH:D003704,GRN,Dementia,1,2,marker/mechanism,0
+2932,MESH:D058186,GSK3B,Acute Kidney Injury,1,2,marker/mechanism|therapeutic,0
+2932,MESH:D000544,GSK3B,Alzheimer Disease,1,2,marker/mechanism,0
+2932,MESH:D003866,GSK3B,Depressive Disorder,1,2,marker/mechanism,0
+2932,MESH:D011471,GSK3B,Prostatic Neoplasms,1,2,marker/mechanism,0
+2932,MESH:D012559,GSK3B,Schizophrenia,1,2,marker/mechanism,0
+2936,MESH:D056486,GSR,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+2944,MESH:D001249,GSTM1,Asthma,1,2,marker/mechanism,0
+2944,MESH:D002292,GSTM1,"Carcinoma, Renal Cell",1,2,marker/mechanism,0
+2944,MESH:D056486,GSTM1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+2944,MESH:D002869,GSTM1,Chromosome Aberrations,1,2,marker/mechanism,0
+2944,MESH:D004198,GSTM1,Disease Susceptibility,1,2,marker/mechanism,0
+2944,MESH:D007938,GSTM1,Leukemia,1,2,marker/mechanism,0
+2944,MESH:D008175,GSTM1,Lung Neoplasms,1,4,marker/mechanism,0
+2944,MESH:D011471,GSTM1,Prostatic Neoplasms,1,3,marker/mechanism,0
+2944,MESH:D001749,GSTM1,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+2950,MESH:D001249,GSTP1,Asthma,1,5,marker/mechanism,0
+2950,MESH:D056486,GSTP1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+2950,MESH:D008114,GSTP1,"Liver Neoplasms, Experimental",1,4,marker/mechanism,0
+2950,MESH:D010300,GSTP1,Parkinson Disease,1,2,marker/mechanism,0
+2950,MESH:D011230,GSTP1,Precancerous Conditions,1,6,marker/mechanism,0
+2950,MESH:D011471,GSTP1,Prostatic Neoplasms,1,5,marker/mechanism,0
+2950,MESH:D013274,GSTP1,Stomach Neoplasms,1,2,marker/mechanism,0
+2950,MESH:D001749,GSTP1,Urinary Bladder Neoplasms,1,3,marker/mechanism,0
+2952,MESH:D019969,GSTT1,Amphetamine-Related Disorders,1,2,marker/mechanism,0
+2952,MESH:D002292,GSTT1,"Carcinoma, Renal Cell",1,2,marker/mechanism,0
+2952,MESH:D056486,GSTT1,Chemical and Drug Induced Liver Injury,1,3,marker/mechanism,0
+2952,MESH:D002869,GSTT1,Chromosome Aberrations,1,3,marker/mechanism,0
+2952,MESH:D008175,GSTT1,Lung Neoplasms,1,2,marker/mechanism,0
+2952,MESH:D011471,GSTT1,Prostatic Neoplasms,1,4,marker/mechanism,0
+3014,MESH:D001943,H2AX,Breast Neoplasms,1,2,marker/mechanism,0
+3043,MESH:D000755,HBB,"Anemia, Sickle Cell",1,3,marker/mechanism,0
+3043,MESH:D004195,HBB,"Disease Models, Animal",1,2,marker/mechanism,0
+3280,MESH:D001943,HES1,Breast Neoplasms,1,2,marker/mechanism,0
+3077,MESH:D000544,HFE,Alzheimer Disease,1,2,marker/mechanism,0
+3077,MESH:D006432,HFE,Hemochromatosis,1,14,marker/mechanism,0
+3082,MESH:D006528,HGF,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3082,MESH:D009202,HGF,Cardiomyopathies,1,2,therapeutic,0
+3082,MESH:D008106,HGF,"Liver Cirrhosis, Experimental",1,7,therapeutic,0
+3082,MESH:D009361,HGF,Neoplasm Invasiveness,1,2,marker/mechanism,0
+3091,MESH:D015428,HIF1A,Myocardial Reperfusion Injury,1,2,marker/mechanism,0
+3091,MESH:D009361,HIF1A,Neoplasm Invasiveness,1,2,marker/mechanism,0
+3105,MESH:D056486,HLA-A,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3106,MESH:D003875,HLA-B,Drug Eruptions,1,2,marker/mechanism,0
+3106,MESH:D004342,HLA-B,Drug Hypersensitivity,1,4,marker/mechanism,0
+3106,MESH:D064420,HLA-B,Drug-Related Side Effects and Adverse Reactions,1,6,marker/mechanism,0
+3106,MESH:D011507,HLA-B,Proteinuria,1,4,marker/mechanism,0
+3106,MESH:D013262,HLA-B,Stevens-Johnson Syndrome,1,10,marker/mechanism,0
+3115,MESH:D001172,HLA-DPB1,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+3115,MESH:D001249,HLA-DPB1,Asthma,1,2,marker/mechanism,0
+3115,MESH:D001607,HLA-DPB1,Berylliosis,1,6,marker/mechanism,0
+3146,MESH:D007249,HMGB1,Inflammation,1,5,marker/mechanism,0
+3146,MESH:D009336,HMGB1,Necrosis,1,2,marker/mechanism,0
+3146,MESH:D018805,HMGB1,Sepsis,1,2,marker/mechanism,0
+3156,MESH:D006528,HMGCR,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3162,MESH:D056486,HMOX1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism|therapeutic,0
+3162,MESH:D003092,HMOX1,Colitis,1,2,therapeutic,0
+3162,MESH:D003921,HMOX1,"Diabetes Mellitus, Experimental",1,4,marker/mechanism|therapeutic,0
+3162,MESH:D003924,HMOX1,"Diabetes Mellitus, Type 2",1,3,marker/mechanism|therapeutic,0
+3162,MESH:D006973,HMOX1,Hypertension,1,3,marker/mechanism|therapeutic,0
+3162,MESH:D007249,HMOX1,Inflammation,1,4,marker/mechanism,0
+3162,MESH:D007333,HMOX1,Insulin Resistance,1,2,marker/mechanism|therapeutic,0
+3162,MESH:D007511,HMOX1,Ischemia,1,2,therapeutic,0
+3162,MESH:D008106,HMOX1,"Liver Cirrhosis, Experimental",1,4,marker/mechanism|therapeutic,0
+3162,MESH:D008107,HMOX1,Liver Diseases,1,3,marker/mechanism|therapeutic,0
+3162,MESH:D008175,HMOX1,Lung Neoplasms,1,3,marker/mechanism,0
+3162,MESH:D019636,HMOX1,Neurodegenerative Diseases,1,3,marker/mechanism,0
+3162,MESH:D009765,HMOX1,Obesity,1,3,marker/mechanism,0
+3162,MESH:D015427,HMOX1,Reperfusion Injury,1,5,marker/mechanism|therapeutic,0
+3162,MESH:D013274,HMOX1,Stomach Neoplasms,1,2,marker/mechanism,0
+3172,MESH:D003924,HNF4A,"Diabetes Mellitus, Type 2",1,3,marker/mechanism,0
+3240,MESH:D009203,HP,Myocardial Infarction,1,3,marker/mechanism,0
+3242,MESH:D056486,HPD,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3265,MESH:D001943,HRAS,Breast Neoplasms,1,5,marker/mechanism,0
+3265,MESH:D006528,HRAS,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+3265,MESH:D002294,HRAS,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+3265,MESH:D002471,HRAS,"Cell Transformation, Neoplastic",1,5,marker/mechanism,0
+3265,MESH:D018450,HRAS,Disease Progression,1,2,marker/mechanism,0
+3265,MESH:D008113,HRAS,Liver Neoplasms,1,5,marker/mechanism,0
+3265,MESH:D008114,HRAS,"Liver Neoplasms, Experimental",1,4,marker/mechanism,0
+3265,MESH:D008175,HRAS,Lung Neoplasms,1,5,marker/mechanism,0
+3265,MESH:D008325,HRAS,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+3265,MESH:D009374,HRAS,"Neoplasms, Experimental",1,3,marker/mechanism,0
+3265,MESH:D009447,HRAS,Neuroblastoma,1,2,marker/mechanism,0
+3265,MESH:D012878,HRAS,Skin Neoplasms,1,7,marker/mechanism,0
+3265,MESH:D013274,HRAS,Stomach Neoplasms,1,2,marker/mechanism,0
+3265,MESH:D001749,HRAS,Urinary Bladder Neoplasms,1,3,marker/mechanism,0
+3269,MESH:D010146,HRH1,Pain,1,2,marker/mechanism,0
+3290,MESH:D006973,HSD11B1,Hypertension,1,3,marker/mechanism,0
+3290,MESH:D009765,HSD11B1,Obesity,1,2,marker/mechanism,0
+3291,MESH:D006973,HSD11B2,Hypertension,1,4,marker/mechanism,0
+3294,MESH:D004715,HSD17B2,Endometriosis,1,2,marker/mechanism,0
+3294,MESH:D008106,HSD17B2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3303,MESH:D058186,HSPA1A,Acute Kidney Injury,1,2,marker/mechanism,0
+3309,MESH:D006528,HSPA5,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3350,MESH:D012640,HTR1A,Seizures,1,3,marker/mechanism|therapeutic,0
+3356,MESH:D019970,HTR2A,Cocaine-Related Disorders,1,3,marker/mechanism,0
+3356,MESH:D006930,HTR2A,Hyperalgesia,1,2,marker/mechanism,0
+3356,MESH:D006948,HTR2A,Hyperkinesis,1,2,marker/mechanism,0
+3356,MESH:D012559,HTR2A,Schizophrenia,1,2,marker/mechanism,0
+3357,MESH:D006332,HTR2B,Cardiomegaly,1,3,marker/mechanism,0
+3357,MESH:D006349,HTR2B,Heart Valve Diseases,1,4,marker/mechanism,0
+3358,MESH:D024821,HTR2C,Metabolic Syndrome,1,3,marker/mechanism,0
+3358,MESH:D009765,HTR2C,Obesity,1,2,marker/mechanism,0
+3358,MESH:D015430,HTR2C,Weight Gain,1,2,marker/mechanism,0
+3383,MESH:D055371,ICAM1,Acute Lung Injury,1,2,marker/mechanism,0
+3383,MESH:D001249,ICAM1,Asthma,1,2,marker/mechanism,0
+3383,MESH:D002545,ICAM1,Brain Ischemia,1,2,marker/mechanism,0
+3383,MESH:D002318,ICAM1,Cardiovascular Diseases,1,2,marker/mechanism,0
+3383,MESH:D003110,ICAM1,Colonic Neoplasms,1,2,marker/mechanism,0
+3383,MESH:D003921,ICAM1,"Diabetes Mellitus, Experimental",1,3,marker/mechanism,0
+3383,MESH:D006548,ICAM1,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+3383,MESH:D006689,ICAM1,Hodgkin Disease,1,2,marker/mechanism,0
+3383,MESH:D006973,ICAM1,Hypertension,1,2,marker/mechanism,0
+3383,MESH:D007249,ICAM1,Inflammation,1,2,marker/mechanism,0
+3383,MESH:D015427,ICAM1,Reperfusion Injury,1,2,marker/mechanism,0
+3417,MESH:D005910,IDH1,Glioma,1,5,marker/mechanism,0
+3417,MESH:D015470,IDH1,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+3418,MESH:D015470,IDH2,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+3439,MESH:D006528,IFNA1,"Carcinoma, Hepatocellular",1,3,therapeutic,0
+3439,MESH:D008106,IFNA1,"Liver Cirrhosis, Experimental",1,3,therapeutic,0
+3439,MESH:D008545,IFNA1,Melanoma,1,7,therapeutic,0
+3439,MESH:D010190,IFNA1,Pancreatic Neoplasms,1,2,therapeutic,0
+3458,MESH:D001169,IFNG,"Arthritis, Experimental",1,2,marker/mechanism,0
+3458,MESH:D001327,IFNG,Autoimmune Diseases,1,2,marker/mechanism,0
+3458,MESH:D056486,IFNG,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3458,MESH:D017449,IFNG,"Dermatitis, Allergic Contact",1,3,marker/mechanism,0
+3458,MESH:D003876,IFNG,"Dermatitis, Atopic",1,2,marker/mechanism,0
+3458,MESH:D005334,IFNG,Fever,1,2,marker/mechanism|therapeutic,0
+3458,MESH:D006333,IFNG,Heart Failure,1,2,marker/mechanism,0
+3458,MESH:D006967,IFNG,Hypersensitivity,1,2,marker/mechanism|therapeutic,0
+3458,MESH:D007249,IFNG,Inflammation,1,3,marker/mechanism|therapeutic,0
+3458,MESH:D007896,IFNG,Leishmaniasis,1,2,marker/mechanism,0
+3458,MESH:D007898,IFNG,"Leishmaniasis, Visceral",1,2,therapeutic,0
+3458,MESH:D008106,IFNG,"Liver Cirrhosis, Experimental",1,4,therapeutic,0
+3458,MESH:D009336,IFNG,Necrosis,1,2,marker/mechanism,0
+3458,MESH:D009410,IFNG,Nerve Degeneration,1,3,marker/mechanism,0
+3458,MESH:D011507,IFNG,Proteinuria,1,2,marker/mechanism,0
+3458,MESH:D051437,IFNG,Renal Insufficiency,1,2,marker/mechanism,0
+3479,MESH:D000172,IGF1,Acromegaly,1,4,marker/mechanism,0
+3479,MESH:D001943,IGF1,Breast Neoplasms,1,2,marker/mechanism,0
+3479,MESH:D056486,IGF1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3479,MESH:D006973,IGF1,Hypertension,1,2,marker/mechanism|therapeutic,0
+3479,MESH:D008106,IGF1,"Liver Cirrhosis, Experimental",1,2,therapeutic,0
+3479,MESH:D008325,IGF1,"Mammary Neoplasms, Experimental",1,3,marker/mechanism,0
+3479,MESH:D009410,IGF1,Nerve Degeneration,1,2,therapeutic,0
+3479,MESH:D010523,IGF1,Peripheral Nervous System Diseases,1,2,therapeutic,0
+3479,MESH:D011471,IGF1,Prostatic Neoplasms,1,3,marker/mechanism,0
+3480,MESH:D001281,IGF1R,Atrial Fibrillation,1,2,marker/mechanism,0
+3480,MESH:D006528,IGF1R,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3480,MESH:D008171,IGF1R,Lung Diseases,1,2,marker/mechanism,0
+3481,MESH:D018268,IGF2,Adrenocortical Carcinoma,1,2,marker/mechanism,0
+3481,MESH:D006528,IGF2,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3481,MESH:D005317,IGF2,Fetal Growth Retardation,1,2,marker/mechanism,0
+3482,MESH:D004719,IGF2R,Endomyocardial Fibrosis,1,2,marker/mechanism,0
+3482,MESH:D008171,IGF2R,Lung Diseases,1,2,marker/mechanism,0
+3484,MESH:D008106,IGFBP1,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3485,MESH:D008106,IGFBP2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3486,MESH:D011471,IGFBP3,Prostatic Neoplasms,1,3,marker/mechanism|therapeutic,0
+3551,MESH:D006973,IKBKB,Hypertension,1,2,marker/mechanism,0
+3586,MESH:D001169,IL10,"Arthritis, Experimental",1,2,marker/mechanism|therapeutic,0
+3586,MESH:D003092,IL10,Colitis,1,4,marker/mechanism|therapeutic,0
+3586,MESH:D003093,IL10,"Colitis, Ulcerative",1,2,marker/mechanism,0
+3586,MESH:D000086382,IL10,COVID-19,1,2,marker/mechanism,0
+3586,MESH:D004195,IL10,"Disease Models, Animal",1,2,marker/mechanism,0
+3586,MESH:D004342,IL10,Drug Hypersensitivity,1,2,marker/mechanism,0
+3586,MESH:D006930,IL10,Hyperalgesia,1,2,marker/mechanism|therapeutic,0
+3586,MESH:D015212,IL10,Inflammatory Bowel Diseases,1,3,marker/mechanism,0
+3586,MESH:D007896,IL10,Leishmaniasis,1,2,marker/mechanism,0
+3586,MESH:D007898,IL10,"Leishmaniasis, Visceral",1,3,marker/mechanism,0
+3586,MESH:D008106,IL10,"Liver Cirrhosis, Experimental",1,9,therapeutic,0
+3586,MESH:D009203,IL10,Myocardial Infarction,1,2,marker/mechanism,0
+3586,MESH:D011471,IL10,Prostatic Neoplasms,1,3,marker/mechanism,0
+3586,MESH:D015431,IL10,Weight Loss,1,2,marker/mechanism|therapeutic,0
+3596,MESH:D016535,IL13,Bronchial Hyperreactivity,1,2,marker/mechanism,0
+3596,MESH:D003876,IL13,"Dermatitis, Atopic",1,2,marker/mechanism,0
+3596,MESH:D011565,IL13,Psoriasis,1,2,marker/mechanism,0
+3605,MESH:D056486,IL17A,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3552,MESH:D007249,IL1A,Inflammation,1,2,marker/mechanism,0
+3552,MESH:D012871,IL1A,Skin Diseases,1,2,marker/mechanism,0
+3553,MESH:D000855,IL1B,Anorexia,1,2,marker/mechanism,0
+3553,MESH:D001169,IL1B,"Arthritis, Experimental",1,4,marker/mechanism,0
+3553,MESH:D001172,IL1B,"Arthritis, Rheumatoid",1,3,marker/mechanism,0
+3553,MESH:D001930,IL1B,Brain Injuries,1,2,marker/mechanism,0
+3553,MESH:D002545,IL1B,Brain Ischemia,1,4,marker/mechanism,0
+3553,MESH:D001943,IL1B,Breast Neoplasms,1,3,marker/mechanism,0
+3553,MESH:D056486,IL1B,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism|therapeutic,0
+3553,MESH:D003092,IL1B,Colitis,1,2,marker/mechanism,0
+3553,MESH:D003093,IL1B,"Colitis, Ulcerative",1,4,marker/mechanism,0
+3553,MESH:D003110,IL1B,Colonic Neoplasms,1,3,marker/mechanism,0
+3553,MESH:D005334,IL1B,Fever,1,5,marker/mechanism,0
+3553,MESH:D005921,IL1B,Glomerulonephritis,1,2,marker/mechanism,0
+3553,MESH:D006930,IL1B,Hyperalgesia,1,6,marker/mechanism,0
+3553,MESH:D006973,IL1B,Hypertension,1,5,marker/mechanism,0
+3553,MESH:D007022,IL1B,Hypotension,1,2,marker/mechanism,0
+3553,MESH:D007249,IL1B,Inflammation,1,9,marker/mechanism,0
+3553,MESH:D008175,IL1B,Lung Neoplasms,1,2,marker/mechanism,0
+3553,MESH:D009103,IL1B,Multiple Sclerosis,1,2,marker/mechanism|therapeutic,0
+3553,MESH:D009203,IL1B,Myocardial Infarction,1,3,marker/mechanism,0
+3553,MESH:D009336,IL1B,Necrosis,1,3,marker/mechanism,0
+3553,MESH:D010003,IL1B,Osteoarthritis,1,2,marker/mechanism,0
+3553,MESH:D011658,IL1B,Pulmonary Fibrosis,1,2,marker/mechanism,0
+3553,MESH:D015427,IL1B,Reperfusion Injury,1,5,marker/mechanism,0
+3553,MESH:D012559,IL1B,Schizophrenia,1,2,marker/mechanism,0
+3553,MESH:D012871,IL1B,Skin Diseases,1,2,marker/mechanism,0
+3553,MESH:D013274,IL1B,Stomach Neoplasms,1,3,marker/mechanism,0
+11141,MESH:D001321,IL1RAPL1,Autistic Disorder,1,2,marker/mechanism,0
+9173,MESH:D001249,IL1RL1,Asthma,1,5,marker/mechanism,0
+3557,MESH:D001172,IL1RN,"Arthritis, Rheumatoid",1,2,marker/mechanism|therapeutic,0
+3557,MESH:D006930,IL1RN,Hyperalgesia,1,4,marker/mechanism|therapeutic,0
+3557,MESH:D009203,IL1RN,Myocardial Infarction,1,2,therapeutic,0
+3557,MESH:D009336,IL1RN,Necrosis,1,2,therapeutic,0
+3557,MESH:D011471,IL1RN,Prostatic Neoplasms,1,2,marker/mechanism,0
+3557,MESH:D012871,IL1RN,Skin Diseases,1,2,marker/mechanism,0
+3558,MESH:D001321,IL2,Autistic Disorder,1,2,marker/mechanism,0
+3558,MESH:D017449,IL2,"Dermatitis, Allergic Contact",1,2,marker/mechanism,0
+3558,MESH:D005921,IL2,Glomerulonephritis,1,2,marker/mechanism,0
+3558,MESH:D007680,IL2,Kidney Neoplasms,1,4,therapeutic,0
+3558,MESH:D008175,IL2,Lung Neoplasms,1,3,therapeutic,0
+3558,MESH:D008545,IL2,Melanoma,1,22,therapeutic,0
+3558,MESH:D009374,IL2,"Neoplasms, Experimental",1,3,therapeutic,0
+3558,MESH:D001749,IL2,Urinary Bladder Neoplasms,1,2,therapeutic,0
+11009,MESH:D001943,IL24,Breast Neoplasms,1,2,marker/mechanism|therapeutic,0
+11009,MESH:D008175,IL24,Lung Neoplasms,1,2,therapeutic,0
+11009,MESH:D011471,IL24,Prostatic Neoplasms,1,2,therapeutic,0
+90865,MESH:D001249,IL33,Asthma,1,5,marker/mechanism,0
+3565,MESH:D001249,IL4,Asthma,1,2,marker/mechanism,0
+3565,MESH:D001327,IL4,Autoimmune Diseases,1,3,marker/mechanism,0
+3565,MESH:D056486,IL4,Chemical and Drug Induced Liver Injury,1,3,marker/mechanism|therapeutic,0
+3565,MESH:D017449,IL4,"Dermatitis, Allergic Contact",1,2,marker/mechanism,0
+3565,MESH:D003876,IL4,"Dermatitis, Atopic",1,3,marker/mechanism,0
+3565,MESH:D004342,IL4,Drug Hypersensitivity,1,2,marker/mechanism,0
+3565,MESH:D006967,IL4,Hypersensitivity,1,2,marker/mechanism,0
+3565,MESH:D047928,IL4,Premature Birth,1,2,marker/mechanism,0
+3565,MESH:D011658,IL4,Pulmonary Fibrosis,1,2,marker/mechanism,0
+3567,MESH:D001249,IL5,Asthma,1,2,marker/mechanism,0
+3567,MESH:D003876,IL5,"Dermatitis, Atopic",1,3,marker/mechanism,0
+3567,MESH:D004802,IL5,Eosinophilia,1,2,marker/mechanism,0
+3569,MESH:D001169,IL6,"Arthritis, Experimental",1,3,marker/mechanism,0
+3569,MESH:D001172,IL6,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+3569,MESH:D001930,IL6,Brain Injuries,1,3,marker/mechanism,0
+3569,MESH:D002545,IL6,Brain Ischemia,1,2,marker/mechanism,0
+3569,MESH:D001943,IL6,Breast Neoplasms,1,4,marker/mechanism,0
+3569,MESH:D006528,IL6,"Carcinoma, Hepatocellular",1,4,marker/mechanism,0
+3569,MESH:D002471,IL6,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+3569,MESH:D056486,IL6,Chemical and Drug Induced Liver Injury,1,2,therapeutic,0
+3569,MESH:D003092,IL6,Colitis,1,2,marker/mechanism,0
+3569,MESH:D000086382,IL6,COVID-19,1,4,marker/mechanism,0
+3569,MESH:D003424,IL6,Crohn Disease,1,2,marker/mechanism,0
+3569,MESH:D005334,IL6,Fever,1,3,marker/mechanism,0
+3569,MESH:D006333,IL6,Heart Failure,1,2,marker/mechanism,0
+3569,MESH:D006930,IL6,Hyperalgesia,1,3,marker/mechanism,0
+3569,MESH:D006973,IL6,Hypertension,1,5,marker/mechanism,0
+3569,MESH:D007022,IL6,Hypotension,1,2,marker/mechanism,0
+3569,MESH:D020244,IL6,"Infarction, Middle Cerebral Artery",1,3,marker/mechanism,0
+3569,MESH:D007249,IL6,Inflammation,1,11,marker/mechanism,0
+3569,MESH:D007898,IL6,"Leishmaniasis, Visceral",1,3,marker/mechanism,0
+3569,MESH:D008103,IL6,Liver Cirrhosis,1,2,marker/mechanism,0
+3569,MESH:D009101,IL6,Multiple Myeloma,1,3,marker/mechanism,0
+3569,MESH:D009203,IL6,Myocardial Infarction,1,2,marker/mechanism,0
+3569,MESH:D009361,IL6,Neoplasm Invasiveness,1,2,marker/mechanism,0
+3569,MESH:D009362,IL6,Neoplasm Metastasis,1,2,marker/mechanism,0
+3569,MESH:D009765,IL6,Obesity,1,2,marker/mechanism,0
+3569,MESH:D007752,IL6,"Obstetric Labor, Premature",1,2,marker/mechanism,0
+3569,MESH:D011471,IL6,Prostatic Neoplasms,1,5,marker/mechanism|therapeutic,0
+3569,MESH:D029424,IL6,"Pulmonary Disease, Chronic Obstructive",1,3,marker/mechanism,0
+3569,MESH:D011658,IL6,Pulmonary Fibrosis,1,2,marker/mechanism,0
+3569,MESH:D015427,IL6,Reperfusion Injury,1,5,marker/mechanism,0
+3570,MESH:D001172,IL6R,"Arthritis, Rheumatoid",1,2,marker/mechanism|therapeutic,0
+3572,MESH:D011471,IL6ST,Prostatic Neoplasms,1,2,marker/mechanism,0
+83729,MESH:D008106,INHBE,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3630,MESH:D000544,INS,Alzheimer Disease,1,2,marker/mechanism,0
+3630,MESH:D003920,INS,Diabetes Mellitus,1,8,marker/mechanism|therapeutic,0
+3630,MESH:D003924,INS,"Diabetes Mellitus, Type 2",1,10,marker/mechanism|therapeutic,0
+3630,MESH:D003928,INS,Diabetic Nephropathies,1,3,marker/mechanism|therapeutic,0
+3630,MESH:D006943,INS,Hyperglycemia,1,2,marker/mechanism|therapeutic,0
+3630,MESH:D006946,INS,Hyperinsulinism,1,5,marker/mechanism,0
+3630,MESH:D006947,INS,Hyperkalemia,1,3,marker/mechanism|therapeutic,0
+3630,MESH:D006973,INS,Hypertension,1,2,marker/mechanism|therapeutic,0
+3630,MESH:D007003,INS,Hypoglycemia,1,7,marker/mechanism,0
+3630,MESH:D007022,INS,Hypotension,1,3,marker/mechanism|therapeutic,0
+3630,MESH:D007333,INS,Insulin Resistance,1,4,marker/mechanism,0
+3630,MESH:D024821,INS,Metabolic Syndrome,1,2,marker/mechanism,0
+3630,MESH:D048629,INS,"Micronuclei, Chromosome-Defective",1,2,marker/mechanism,0
+3630,MESH:D009765,INS,Obesity,1,4,marker/mechanism,0
+3630,MESH:D011085,INS,Polycystic Ovary Syndrome,1,3,marker/mechanism,0
+3630,MESH:D051437,INS,Renal Insufficiency,1,2,marker/mechanism,0
+3630,MESH:D012640,INS,Seizures,1,2,marker/mechanism,0
+16333,MESH:D003921,INS1,"Diabetes Mellitus, Experimental",1,2,therapeutic,0
+16333,MESH:D006943,INS1,Hyperglycemia,1,4,therapeutic,0
+16333,MESH:D007003,INS1,Hypoglycemia,1,4,marker/mechanism,0
+16333,MESH:D012640,INS1,Seizures,1,3,marker/mechanism,0
+16333,MESH:D015431,INS1,Weight Loss,1,2,therapeutic,0
+51141,MESH:D015430,INSIG2,Weight Gain,1,2,marker/mechanism,0
+3643,MESH:D003921,INSR,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+3643,MESH:D006946,INSR,Hyperinsulinism,1,2,marker/mechanism,0
+3643,MESH:D007333,INSR,Insulin Resistance,1,2,marker/mechanism,0
+3643,MESH:D008171,INSR,Lung Diseases,1,2,marker/mechanism,0
+3664,MESH:D002971,IRF6,Cleft Lip,1,3,marker/mechanism,0
+3667,MESH:D006528,IRS1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3667,MESH:D003924,IRS1,"Diabetes Mellitus, Type 2",1,7,marker/mechanism,0
+8660,MESH:D006943,IRS2,Hyperglycemia,1,2,marker/mechanism,0
+3710,MESH:D000067877,ITPR3,Autism Spectrum Disorder,1,2,marker/mechanism,0
+3710,MESH:D004195,ITPR3,"Disease Models, Animal",1,2,marker/mechanism,0
+182,MESH:D005124,JAG1,Eye Abnormalities,1,3,marker/mechanism,0
+3717,MESH:D003093,JAK2,"Colitis, Ulcerative",1,2,marker/mechanism,0
+3717,MESH:D017202,JAK2,Myocardial Ischemia,1,2,marker/mechanism,0
+3725,MESH:D002471,JUN,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+3725,MESH:D003110,JUN,Colonic Neoplasms,1,2,marker/mechanism,0
+3725,MESH:D008113,JUN,Liver Neoplasms,1,2,marker/mechanism,0
+3726,MESH:D008175,JUNB,Lung Neoplasms,1,2,marker/mechanism,0
+284058,MESH:D019465,KANSL1,Craniofacial Abnormalities,1,2,marker/mechanism,0
+3757,MESH:D001145,KCNH2,"Arrhythmias, Cardiac",1,3,marker/mechanism,0
+3757,MESH:D001281,KCNH2,Atrial Fibrillation,1,2,marker/mechanism,0
+3757,MESH:D008133,KCNH2,Long QT Syndrome,1,19,marker/mechanism,0
+3757,MESH:D016171,KCNH2,Torsades de Pointes,1,3,marker/mechanism,0
+3759,MESH:D001145,KCNJ2,"Arrhythmias, Cardiac",1,2,marker/mechanism,0
+3784,MESH:D003924,KCNQ1,"Diabetes Mellitus, Type 2",1,3,marker/mechanism,0
+3784,MESH:D008133,KCNQ1,Long QT Syndrome,1,7,marker/mechanism,0
+3791,MESH:D001943,KDR,Breast Neoplasms,1,2,marker/mechanism,0
+3791,MESH:D015179,KDR,Colorectal Neoplasms,1,2,marker/mechanism|therapeutic,0
+3791,MESH:D004938,KDR,Esophageal Neoplasms,1,2,marker/mechanism,0
+9817,MESH:D011471,KEAP1,Prostatic Neoplasms,1,2,marker/mechanism,0
+3815,MESH:D046152,KIT,Gastrointestinal Stromal Tumors,1,3,marker/mechanism,0
+3817,MESH:D011471,KLK2,Prostatic Neoplasms,1,2,marker/mechanism,0
+354,MESH:D011471,KLK3,Prostatic Neoplasms,1,11,marker/mechanism,0
+4297,MESH:D007938,KMT2A,Leukemia,1,2,marker/mechanism,0
+4297,MESH:D015470,KMT2A,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+4297,MESH:D054198,KMT2A,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1,2,marker/mechanism,0
+3845,MESH:D000230,KRAS,Adenocarcinoma,1,3,marker/mechanism,0
+3845,MESH:D000077192,KRAS,Adenocarcinoma of Lung,1,7,marker/mechanism,0
+3845,MESH:D000236,KRAS,Adenoma,1,4,marker/mechanism,0
+3845,MESH:D002277,KRAS,Carcinoma,1,2,marker/mechanism,0
+3845,MESH:D006528,KRAS,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+3845,MESH:D002289,KRAS,"Carcinoma, Non-Small-Cell Lung",1,7,marker/mechanism,0
+3845,MESH:D002294,KRAS,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+3845,MESH:D018281,KRAS,Cholangiocarcinoma,1,2,marker/mechanism,0
+3845,MESH:D003110,KRAS,Colonic Neoplasms,1,6,marker/mechanism,0
+3845,MESH:D015179,KRAS,Colorectal Neoplasms,1,3,marker/mechanism,0
+3845,MESH:D004195,KRAS,"Disease Models, Animal",1,3,marker/mechanism,0
+3845,MESH:D006394,KRAS,Hemangiosarcoma,1,4,marker/mechanism,0
+3845,MESH:D008113,KRAS,Liver Neoplasms,1,2,marker/mechanism,0
+3845,MESH:D008175,KRAS,Lung Neoplasms,1,34,marker/mechanism,0
+3845,MESH:D009369,KRAS,Neoplasms,1,2,marker/mechanism,0
+3845,MESH:D009374,KRAS,"Neoplasms, Experimental",1,5,marker/mechanism,0
+3845,MESH:D010190,KRAS,Pancreatic Neoplasms,1,6,marker/mechanism,0
+3845,MESH:D013274,KRAS,Stomach Neoplasms,1,2,marker/mechanism,0
+3875,MESH:D001943,KRT18,Breast Neoplasms,1,2,marker/mechanism,0
+3875,MESH:D056486,KRT18,Chemical and Drug Induced Liver Injury,1,3,marker/mechanism,0
+3875,MESH:D008106,KRT18,"Liver Cirrhosis, Experimental",1,4,marker/mechanism,0
+3875,MESH:D008113,KRT18,Liver Neoplasms,1,2,marker/mechanism,0
+3856,MESH:D008106,KRT8,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3856,MESH:D008113,KRT8,Liver Neoplasms,1,2,marker/mechanism,0
+3908,MESH:D012559,LAMA2,Schizophrenia,1,2,marker/mechanism,0
+3934,MESH:D058186,LCN2,Acute Kidney Injury,1,5,marker/mechanism,0
+3934,MESH:D056486,LCN2,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+3934,MESH:D007674,LCN2,Kidney Diseases,1,4,marker/mechanism,0
+3934,MESH:D008106,LCN2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+3949,MESH:D050197,LDLR,Atherosclerosis,1,7,marker/mechanism|therapeutic,0
+3949,MESH:D003324,LDLR,Coronary Artery Disease,1,2,marker/mechanism,0
+3949,MESH:D050171,LDLR,Dyslipidemias,1,2,marker/mechanism,0
+3949,MESH:D005234,LDLR,Fatty Liver,1,2,marker/mechanism,0
+3949,MESH:D006937,LDLR,Hypercholesterolemia,1,4,marker/mechanism,0
+3949,MESH:D006949,LDLR,Hyperlipidemias,1,2,marker/mechanism,0
+3949,MESH:D006938,LDLR,Hyperlipoproteinemia Type II,1,7,marker/mechanism,0
+3949,MESH:D065626,LDLR,Non-alcoholic Fatty Liver Disease,1,3,marker/mechanism,0
+3952,MESH:D001943,LEP,Breast Neoplasms,1,2,marker/mechanism,0
+3952,MESH:D003921,LEP,"Diabetes Mellitus, Experimental",1,3,marker/mechanism,0
+3952,MESH:D005234,LEP,Fatty Liver,1,6,marker/mechanism,0
+3952,MESH:D018149,LEP,Glucose Intolerance,1,3,marker/mechanism,0
+3952,MESH:D006529,LEP,Hepatomegaly,1,3,marker/mechanism,0
+3952,MESH:D006943,LEP,Hyperglycemia,1,5,marker/mechanism,0
+3952,MESH:D006963,LEP,Hyperphagia,1,4,marker/mechanism|therapeutic,0
+3952,MESH:D006973,LEP,Hypertension,1,4,marker/mechanism,0
+3952,MESH:D007006,LEP,Hypogonadism,1,2,marker/mechanism|therapeutic,0
+3952,MESH:D007249,LEP,Inflammation,1,2,marker/mechanism|therapeutic,0
+3952,MESH:D007333,LEP,Insulin Resistance,1,4,marker/mechanism|therapeutic,0
+3952,MESH:D008106,LEP,"Liver Cirrhosis, Experimental",1,3,marker/mechanism,0
+3952,MESH:D024821,LEP,Metabolic Syndrome,1,2,marker/mechanism,0
+3952,MESH:D065626,LEP,Non-alcoholic Fatty Liver Disease,1,2,marker/mechanism,0
+3952,MESH:D009765,LEP,Obesity,1,15,marker/mechanism|therapeutic,0
+3952,MESH:D013276,LEP,Stomach Ulcer,1,6,therapeutic,0
+3952,MESH:D015430,LEP,Weight Gain,1,9,marker/mechanism|therapeutic,0
+3972,MESH:D007006,LHB,Hypogonadism,1,4,marker/mechanism|therapeutic,0
+3972,MESH:D007248,LHB,"Infertility, Male",1,3,marker/mechanism,0
+3972,MESH:D011085,LHB,Polycystic Ovary Syndrome,1,2,marker/mechanism,0
+3990,MESH:D003924,LIPC,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+4017,MESH:D001943,LOXL2,Breast Neoplasms,1,2,marker/mechanism,0
+4018,MESH:D050197,LPA,Atherosclerosis,1,3,marker/mechanism,0
+4018,MESH:D003324,LPA,Coronary Artery Disease,1,2,marker/mechanism,0
+4023,MESH:D015228,LPL,Hypertriglyceridemia,1,2,marker/mechanism|therapeutic,0
+120892,MESH:D010300,LRRK2,Parkinson Disease,1,11,marker/mechanism,0
+120892,MESH:D020734,LRRK2,Parkinsonian Disorders,1,3,marker/mechanism,0
+4046,MESH:D001943,LSP1,Breast Neoplasms,1,2,marker/mechanism,0
+4056,MESH:D055963,LTC4S,"Asthma, Aspirin-Induced",1,4,marker/mechanism,0
+378938,MESH:D001943,MALAT1,Breast Neoplasms,1,2,marker/mechanism|therapeutic,0
+378938,MESH:D009361,MALAT1,Neoplasm Invasiveness,1,2,marker/mechanism,0
+378938,MESH:D009362,MALAT1,Neoplasm Metastasis,1,3,marker/mechanism|therapeutic,0
+4128,MESH:D001321,MAOA,Autistic Disorder,1,3,marker/mechanism,0
+4128,MESH:D006501,MAOA,Hepatic Encephalopathy,1,3,marker/mechanism,0
+5594,MESH:D019970,MAPK1,Cocaine-Related Disorders,1,2,marker/mechanism,0
+5594,MESH:D006930,MAPK1,Hyperalgesia,1,2,marker/mechanism,0
+5594,MESH:D008175,MAPK1,Lung Neoplasms,1,2,marker/mechanism,0
+5595,MESH:D006930,MAPK3,Hyperalgesia,1,2,marker/mechanism,0
+5595,MESH:D008175,MAPK3,Lung Neoplasms,1,2,marker/mechanism,0
+5601,MESH:D015427,MAPK9,Reperfusion Injury,1,2,marker/mechanism,0
+4137,MESH:D000544,MAPT,Alzheimer Disease,1,7,marker/mechanism,0
+4137,MESH:D003072,MAPT,Cognition Disorders,1,2,marker/mechanism,0
+4137,MESH:D003704,MAPT,Dementia,1,2,marker/mechanism,0
+4137,MESH:D008569,MAPT,Memory Disorders,1,4,marker/mechanism,0
+4137,MESH:D010300,MAPT,Parkinson Disease,1,2,marker/mechanism,0
+4137,MESH:D020734,MAPT,Parkinsonian Disorders,1,2,marker/mechanism,0
+4170,MESH:D008175,MCL1,Lung Neoplasms,1,2,marker/mechanism,0
+4193,MESH:D002289,MDM2,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+4204,MESH:D001321,MECP2,Autistic Disorder,1,3,marker/mechanism,0
+4204,MESH:D004195,MECP2,"Disease Models, Animal",1,2,marker/mechanism,0
+4233,MESH:D000230,MET,Adenocarcinoma,1,2,marker/mechanism,0
+4233,MESH:D001321,MET,Autistic Disorder,1,2,marker/mechanism,0
+4233,MESH:D002289,MET,"Carcinoma, Non-Small-Cell Lung",1,4,marker/mechanism,0
+4233,MESH:D009362,MET,Neoplasm Metastasis,1,2,marker/mechanism,0
+4233,MESH:D013274,MET,Stomach Neoplasms,1,2,marker/mechanism,0
+4255,MESH:D005909,MGMT,Glioblastoma,1,2,marker/mechanism,0
+4255,MESH:D005910,MGMT,Glioma,1,3,marker/mechanism,0
+4256,MESH:D002277,MGP,Carcinoma,1,2,marker/mechanism,0
+4256,MESH:D015674,MGP,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+4256,MESH:D008325,MGP,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+406906,MESH:D056486,MIR122,Chemical and Drug Induced Liver Injury,1,8,marker/mechanism,0
+406933,MESH:D056486,MIR141,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+406935,MESH:D009374,MIR143,"Neoplasms, Experimental",1,2,therapeutic,0
+406947,MESH:D008175,MIR155,Lung Neoplasms,1,2,marker/mechanism,0
+406947,MESH:D009362,MIR155,Neoplasm Metastasis,1,2,marker/mechanism,0
+406966,MESH:D002471,MIR191,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+406967,MESH:D056486,MIR192,Chemical and Drug Induced Liver Injury,1,4,marker/mechanism,0
+406985,MESH:D001943,MIR200C,Breast Neoplasms,1,2,marker/mechanism|therapeutic,0
+406985,MESH:D011658,MIR200C,Pulmonary Fibrosis,1,2,marker/mechanism|therapeutic,0
+406991,MESH:D002471,MIR21,"Cell Transformation, Neoplastic",1,5,marker/mechanism|therapeutic,0
+406991,MESH:D009361,MIR21,Neoplasm Invasiveness,1,2,marker/mechanism,0
+407004,MESH:D056486,MIR22,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+407007,MESH:D003924,MIR222,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+407019,MESH:D056486,MIR27B,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+4288,MESH:D001943,MKI67,Breast Neoplasms,1,3,marker/mechanism,0
+4292,MESH:D015179,MLH1,Colorectal Neoplasms,1,3,marker/mechanism,0
+4312,MESH:D009362,MMP1,Neoplasm Metastasis,1,4,marker/mechanism,0
+4313,MESH:D001943,MMP2,Breast Neoplasms,1,2,marker/mechanism,0
+4313,MESH:D015179,MMP2,Colorectal Neoplasms,1,2,marker/mechanism,0
+4313,MESH:D019465,MMP2,Craniofacial Abnormalities,1,2,marker/mechanism,0
+4313,MESH:D008103,MMP2,Liver Cirrhosis,1,2,marker/mechanism,0
+4313,MESH:D008106,MMP2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+4313,MESH:D009203,MMP2,Myocardial Infarction,1,2,marker/mechanism,0
+4313,MESH:D009361,MMP2,Neoplasm Invasiveness,1,5,marker/mechanism,0
+4313,MESH:D009362,MMP2,Neoplasm Metastasis,1,6,marker/mechanism,0
+4314,MESH:D009361,MMP3,Neoplasm Invasiveness,1,2,marker/mechanism,0
+4318,MESH:D001249,MMP9,Asthma,1,2,marker/mechanism,0
+4318,MESH:D002471,MMP9,"Cell Transformation, Neoplastic",1,4,marker/mechanism,0
+4318,MESH:D002543,MMP9,Cerebral Hemorrhage,1,5,marker/mechanism|therapeutic,0
+4318,MESH:D003921,MMP9,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+4318,MESH:D007249,MMP9,Inflammation,1,2,marker/mechanism,0
+4318,MESH:D009203,MMP9,Myocardial Infarction,1,2,marker/mechanism,0
+4318,MESH:D009361,MMP9,Neoplasm Invasiveness,1,7,marker/mechanism,0
+4318,MESH:D009362,MMP9,Neoplasm Metastasis,1,6,marker/mechanism,0
+4318,MESH:D010518,MMP9,Periodontitis,1,2,marker/mechanism,0
+4353,MESH:D001172,MPO,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+4353,MESH:D003093,MPO,"Colitis, Ulcerative",1,3,marker/mechanism,0
+4353,MESH:D007249,MPO,Inflammation,1,5,marker/mechanism,0
+4353,MESH:D015427,MPO,Reperfusion Injury,1,6,marker/mechanism,0
+4477,MESH:D011471,MSMB,Prostatic Neoplasms,1,3,marker/mechanism,0
+4487,MESH:D002972,MSX1,Cleft Palate,1,3,marker/mechanism,0
+4487,MESH:D019465,MSX1,Craniofacial Abnormalities,1,4,marker/mechanism,0
+4489,MESH:D006528,MT1A,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+4489,MESH:D008106,MT1A,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+4502,MESH:D006528,MT2A,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+4502,MESH:D011471,MT2A,Prostatic Neoplasms,1,2,marker/mechanism|therapeutic,0
+4502,MESH:D001749,MT2A,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+4522,MESH:D009436,MTHFD1,Neural Tube Defects,1,2,marker/mechanism,0
+4524,MESH:D000740,MTHFR,Anemia,1,2,marker/mechanism,0
+4524,MESH:D001943,MTHFR,Breast Neoplasms,1,3,marker/mechanism,0
+4524,MESH:D002318,MTHFR,Cardiovascular Diseases,1,2,marker/mechanism,0
+4524,MESH:D056486,MTHFR,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+4524,MESH:D015179,MTHFR,Colorectal Neoplasms,1,9,marker/mechanism,0
+4524,MESH:D064420,MTHFR,Drug-Related Side Effects and Adverse Reactions,1,12,marker/mechanism,0
+4524,MESH:D020138,MTHFR,Hyperhomocysteinemia,1,11,marker/mechanism|therapeutic,0
+4524,MESH:D012559,MTHFR,Schizophrenia,1,3,marker/mechanism,0
+4524,MESH:D013274,MTHFR,Stomach Neoplasms,1,2,marker/mechanism,0
+4524,MESH:D020521,MTHFR,Stroke,1,3,marker/mechanism,0
+2475,MESH:D000230,MTOR,Adenocarcinoma,1,2,marker/mechanism,0
+2475,MESH:D010051,MTOR,Ovarian Neoplasms,1,2,marker/mechanism,0
+4548,MESH:D064420,MTR,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+4609,MESH:D000077192,MYC,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+4609,MESH:D006528,MYC,"Carcinoma, Hepatocellular",1,4,marker/mechanism,0
+4609,MESH:D002471,MYC,"Cell Transformation, Neoplastic",1,4,marker/mechanism,0
+4609,MESH:D003110,MYC,Colonic Neoplasms,1,4,marker/mechanism,0
+4609,MESH:D018450,MYC,Disease Progression,1,4,marker/mechanism,0
+4609,MESH:D008113,MYC,Liver Neoplasms,1,2,marker/mechanism,0
+4609,MESH:D008114,MYC,"Liver Neoplasms, Experimental",1,3,marker/mechanism,0
+4609,MESH:D008175,MYC,Lung Neoplasms,1,2,marker/mechanism,0
+4609,MESH:D008527,MYC,Medulloblastoma,1,2,marker/mechanism,0
+4609,MESH:D009447,MYC,Neuroblastoma,1,2,marker/mechanism,0
+4609,MESH:D012516,MYC,Osteosarcoma,1,2,marker/mechanism,0
+4609,MESH:D010051,MYC,Ovarian Neoplasms,1,2,marker/mechanism,0
+4609,MESH:D011471,MYC,Prostatic Neoplasms,1,4,marker/mechanism,0
+4609,MESH:D013274,MYC,Stomach Neoplasms,1,2,marker/mechanism,0
+4613,MESH:D009447,MYCN,Neuroblastoma,1,15,marker/mechanism,0
+4638,MESH:D009361,MYLK,Neoplasm Invasiveness,1,2,marker/mechanism,0
+4638,MESH:D009362,MYLK,Neoplasm Metastasis,1,2,marker/mechanism,0
+10135,MESH:D015179,NAMPT,Colorectal Neoplasms,1,2,marker/mechanism,0
+10,MESH:D056486,NAT2,Chemical and Drug Induced Liver Injury,1,4,marker/mechanism,0
+10,MESH:D004342,NAT2,Drug Hypersensitivity,1,3,marker/mechanism,0
+10,MESH:D064420,NAT2,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+10,MESH:D011471,NAT2,Prostatic Neoplasms,1,4,marker/mechanism,0
+10,MESH:D001749,NAT2,Urinary Bladder Neoplasms,1,5,marker/mechanism,0
+4683,MESH:D011471,NBN,Prostatic Neoplasms,1,2,marker/mechanism,0
+653361,MESH:D001172,NCF1,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+653361,MESH:D003921,NCF1,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+653361,MESH:D006973,NCF1,Hypertension,1,4,marker/mechanism,0
+8202,MESH:D007938,NCOA3,Leukemia,1,2,marker/mechanism,0
+8202,MESH:D011471,NCOA3,Prostatic Neoplasms,1,2,marker/mechanism,0
+10397,MESH:D009362,NDRG1,Neoplasm Metastasis,1,2,marker/mechanism|therapeutic,0
+23327,MESH:D006973,NEDD4L,Hypertension,1,2,marker/mechanism,0
+4763,MESH:D015470,NF1,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+4763,MESH:D008545,NF1,Melanoma,1,2,marker/mechanism,0
+4780,MESH:D002289,NFE2L2,"Carcinoma, Non-Small-Cell Lung",1,3,marker/mechanism,0
+4780,MESH:D056486,NFE2L2,Chemical and Drug Induced Liver Injury,1,5,therapeutic,0
+4780,MESH:D004195,NFE2L2,"Disease Models, Animal",1,2,marker/mechanism|therapeutic,0
+4780,MESH:D008103,NFE2L2,Liver Cirrhosis,1,2,marker/mechanism|therapeutic,0
+4780,MESH:D008113,NFE2L2,Liver Neoplasms,1,2,marker/mechanism|therapeutic,0
+4780,MESH:D011471,NFE2L2,Prostatic Neoplasms,1,2,marker/mechanism,0
+4780,MESH:D018487,NFE2L2,"Ventricular Dysfunction, Left",1,2,marker/mechanism|therapeutic,0
+4790,MESH:D002471,NFKB1,"Cell Transformation, Neoplastic",1,2,marker/mechanism|therapeutic,0
+4790,MESH:D003110,NFKB1,Colonic Neoplasms,1,2,marker/mechanism,0
+4804,MESH:D011471,NGFR,Prostatic Neoplasms,1,2,marker/mechanism|therapeutic,0
+7080,MESH:D006548,NKX2-1,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+4824,MESH:D011471,NKX3-1,Prostatic Neoplasms,1,5,marker/mechanism,0
+114548,MESH:D055371,NLRP3,Acute Lung Injury,1,2,marker/mechanism,0
+114548,MESH:D007249,NLRP3,Inflammation,1,2,marker/mechanism,0
+4842,MESH:D006501,NOS1,Hepatic Encephalopathy,1,2,marker/mechanism,0
+4842,MESH:D009410,NOS1,Nerve Degeneration,1,2,marker/mechanism,0
+4843,MESH:D002545,NOS2,Brain Ischemia,1,2,marker/mechanism,0
+4843,MESH:D002779,NOS2,Cholestasis,1,2,marker/mechanism,0
+4843,MESH:D003092,NOS2,Colitis,1,2,marker/mechanism,0
+4843,MESH:D003110,NOS2,Colonic Neoplasms,1,2,marker/mechanism,0
+4843,MESH:D003921,NOS2,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+4843,MESH:D006930,NOS2,Hyperalgesia,1,2,marker/mechanism,0
+4843,MESH:D006973,NOS2,Hypertension,1,3,marker/mechanism,0
+4843,MESH:D007249,NOS2,Inflammation,1,2,marker/mechanism,0
+4843,MESH:D008175,NOS2,Lung Neoplasms,1,2,marker/mechanism,0
+4843,MESH:D020149,NOS2,Manganese Poisoning,1,2,marker/mechanism,0
+4843,MESH:D009203,NOS2,Myocardial Infarction,1,2,marker/mechanism,0
+4843,MESH:D015428,NOS2,Myocardial Reperfusion Injury,1,5,marker/mechanism|therapeutic,0
+4843,MESH:D009336,NOS2,Necrosis,1,2,marker/mechanism,0
+4843,MESH:D015427,NOS2,Reperfusion Injury,1,4,marker/mechanism,0
+4843,MESH:D018805,NOS2,Sepsis,1,2,marker/mechanism,0
+4843,MESH:D013276,NOS2,Stomach Ulcer,1,3,marker/mechanism,0
+4846,MESH:D000544,NOS3,Alzheimer Disease,1,2,marker/mechanism,0
+4846,MESH:D050197,NOS3,Atherosclerosis,1,2,marker/mechanism|therapeutic,0
+4846,MESH:D001943,NOS3,Breast Neoplasms,1,2,marker/mechanism,0
+4846,MESH:D006332,NOS3,Cardiomegaly,1,4,marker/mechanism|therapeutic,0
+4846,MESH:D002318,NOS3,Cardiovascular Diseases,1,2,marker/mechanism,0
+4846,MESH:D003324,NOS3,Coronary Artery Disease,1,4,marker/mechanism,0
+4846,MESH:D003921,NOS3,"Diabetes Mellitus, Experimental",1,8,marker/mechanism,0
+4846,MESH:D003924,NOS3,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+4846,MESH:D007172,NOS3,Erectile Dysfunction,1,2,marker/mechanism|therapeutic,0
+4846,MESH:D005317,NOS3,Fetal Growth Retardation,1,2,marker/mechanism,0
+4846,MESH:D006333,NOS3,Heart Failure,1,2,marker/mechanism,0
+4846,MESH:D006548,NOS3,"Hernia, Diaphragmatic",1,2,marker/mechanism,0
+4846,MESH:D006973,NOS3,Hypertension,1,5,marker/mechanism|therapeutic,0
+4846,MESH:D007333,NOS3,Insulin Resistance,1,4,marker/mechanism|therapeutic,0
+4846,MESH:D024821,NOS3,Metabolic Syndrome,1,3,marker/mechanism,0
+4846,MESH:D009203,NOS3,Myocardial Infarction,1,2,marker/mechanism,0
+4846,MESH:D011471,NOS3,Prostatic Neoplasms,1,3,marker/mechanism,0
+4851,MESH:D001943,NOTCH1,Breast Neoplasms,1,2,marker/mechanism,0
+50507,MESH:D006973,NOX4,Hypertension,1,3,marker/mechanism,0
+4869,MESH:D015470,NPM1,"Leukemia, Myeloid, Acute",1,5,marker/mechanism,0
+4869,MESH:D015473,NPM1,"Leukemia, Promyelocytic, Acute",1,2,marker/mechanism,0
+4879,MESH:D006332,NPPB,Cardiomegaly,1,4,marker/mechanism,0
+4879,MESH:D009202,NPPB,Cardiomyopathies,1,2,marker/mechanism,0
+4879,MESH:D002311,NPPB,"Cardiomyopathy, Dilated",1,2,marker/mechanism|therapeutic,0
+4879,MESH:D006333,NPPB,Heart Failure,1,13,marker/mechanism|therapeutic,0
+4879,MESH:D006973,NPPB,Hypertension,1,5,marker/mechanism|therapeutic,0
+4879,MESH:D006976,NPPB,"Hypertension, Pulmonary",1,2,marker/mechanism,0
+4879,MESH:D007022,NPPB,Hypotension,1,2,marker/mechanism,0
+4852,MESH:D000855,NPY,Anorexia,1,3,marker/mechanism,0
+4852,MESH:D003866,NPY,Depressive Disorder,1,2,marker/mechanism|therapeutic,0
+4852,MESH:D004827,NPY,Epilepsy,1,2,therapeutic,0
+4852,MESH:D012640,NPY,Seizures,1,3,marker/mechanism|therapeutic,0
+1728,MESH:D002289,NQO1,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+1728,MESH:D008107,NQO1,Liver Diseases,1,2,marker/mechanism,0
+1728,MESH:D009374,NQO1,"Neoplasms, Experimental",1,2,marker/mechanism|therapeutic,0
+1728,MESH:D009784,NQO1,Occupational Diseases,1,4,marker/mechanism,0
+1728,MESH:D054198,NQO1,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1,2,marker/mechanism,0
+9971,MESH:D006528,NR1H4,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+9971,MESH:D002779,NR1H4,Cholestasis,1,3,marker/mechanism,0
+9971,MESH:D004195,NR1H4,"Disease Models, Animal",1,2,marker/mechanism,0
+9971,MESH:D008113,NR1H4,Liver Neoplasms,1,5,marker/mechanism,0
+9971,MESH:D065626,NR1H4,Non-alcoholic Fatty Liver Disease,1,2,marker/mechanism,0
+8856,MESH:D056486,NR1I2,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism|therapeutic,0
+8856,MESH:D006529,NR1I2,Hepatomegaly,1,4,marker/mechanism|therapeutic,0
+9970,MESH:D056486,NR1I3,Chemical and Drug Induced Liver Injury,1,3,marker/mechanism|therapeutic,0
+9970,MESH:D006529,NR1I3,Hepatomegaly,1,5,marker/mechanism|therapeutic,0
+9970,MESH:D008113,NR1I3,Liver Neoplasms,1,5,marker/mechanism,0
+9970,MESH:D008114,NR1I3,"Liver Neoplasms, Experimental",1,3,marker/mechanism,0
+9970,MESH:D011230,NR1I3,Precancerous Conditions,1,2,marker/mechanism,0
+2908,MESH:D019970,NR3C1,Cocaine-Related Disorders,1,2,marker/mechanism,0
+2908,MESH:D006973,NR3C1,Hypertension,1,2,marker/mechanism,0
+2908,MESH:D012559,NR3C1,Schizophrenia,1,2,marker/mechanism,0
+4306,MESH:D006333,NR3C2,Heart Failure,1,2,marker/mechanism,0
+4306,MESH:D009203,NR3C2,Myocardial Infarction,1,2,marker/mechanism,0
+3084,MESH:D012559,NRG1,Schizophrenia,1,7,marker/mechanism,0
+9378,MESH:D001321,NRXN1,Autistic Disorder,1,4,marker/mechanism,0
+9378,MESH:D012559,NRXN1,Schizophrenia,1,3,marker/mechanism,0
+100506658,MESH:D001943,OCLN,Breast Neoplasms,1,2,marker/mechanism,0
+4953,MESH:D012878,ODC1,Skin Neoplasms,1,2,marker/mechanism,0
+4968,MESH:D008175,OGG1,Lung Neoplasms,1,2,marker/mechanism|therapeutic,0
+4968,MESH:D011471,OGG1,Prostatic Neoplasms,1,2,marker/mechanism,0
+4986,MESH:D019970,OPRK1,Cocaine-Related Disorders,1,2,marker/mechanism,0
+4986,MESH:D012640,OPRK1,Seizures,1,2,marker/mechanism|therapeutic,0
+4986,MESH:D013375,OPRK1,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+4988,MESH:D019970,OPRM1,Cocaine-Related Disorders,1,3,marker/mechanism,0
+4988,MESH:D009437,OPRM1,Neuralgia,1,2,marker/mechanism,0
+4988,MESH:D012640,OPRM1,Seizures,1,2,marker/mechanism,0
+8505,MESH:D002471,PARG,"Cell Transformation, Neoplastic",1,2,marker/mechanism|therapeutic,0
+11315,MESH:D010300,PARK7,Parkinson Disease,1,9,marker/mechanism,0
+11315,MESH:D020734,PARK7,Parkinsonian Disorders,1,2,marker/mechanism,0
+142,MESH:D050197,PARP1,Atherosclerosis,1,2,marker/mechanism,0
+142,MESH:D000070642,PARP1,"Brain Injuries, Traumatic",1,2,marker/mechanism,0
+142,MESH:D007674,PARP1,Kidney Diseases,1,2,marker/mechanism,0
+142,MESH:D058226,PARP1,"Plaque, Atherosclerotic",1,2,marker/mechanism,0
+142,MESH:D015427,PARP1,Reperfusion Injury,1,2,marker/mechanism,0
+5077,MESH:D009436,PAX3,Neural Tube Defects,1,3,marker/mechanism|therapeutic,0
+5077,MESH:D016135,PAX3,Spinal Dysraphism,1,4,marker/mechanism,0
+5080,MESH:D019465,PAX6,Craniofacial Abnormalities,1,3,marker/mechanism,0
+5105,MESH:D006528,PCK1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+5111,MESH:D003110,PCNA,Colonic Neoplasms,1,2,marker/mechanism,0
+27250,MESH:D002471,PDCD4,"Cell Transformation, Neoplastic",1,3,therapeutic,0
+5142,MESH:D012559,PDE4B,Schizophrenia,1,2,marker/mechanism,0
+5144,MESH:D001249,PDE4D,Asthma,1,2,marker/mechanism,0
+5144,MESH:D011471,PDE4D,Prostatic Neoplasms,1,2,marker/mechanism,0
+5154,MESH:D002277,PDGFA,Carcinoma,1,2,marker/mechanism,0
+5154,MESH:D015674,PDGFA,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+5154,MESH:D008325,PDGFA,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+5156,MESH:D017681,PDGFRA,Hypereosinophilic Syndrome,1,3,marker/mechanism,0
+5166,MESH:D056486,PDK4,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism|therapeutic,0
+3651,MESH:D003924,PDX1,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+3651,MESH:D010190,PDX1,Pancreatic Neoplasms,1,3,marker/mechanism,0
+5173,MESH:D000437,PDYN,Alcoholism,1,2,marker/mechanism,0
+5173,MESH:D001919,PDYN,Bradycardia,1,3,marker/mechanism,0
+5173,MESH:D019970,PDYN,Cocaine-Related Disorders,1,4,marker/mechanism,0
+5173,MESH:D004409,PDYN,"Dyskinesia, Drug-Induced",1,2,marker/mechanism,0
+5173,MESH:D007022,PDYN,Hypotension,1,4,marker/mechanism,0
+5173,MESH:D010146,PDYN,Pain,1,2,marker/mechanism,0
+8864,MESH:D013375,PER2,Substance Withdrawal Syndrome,1,2,marker/mechanism,0
+5196,MESH:D013921,PF4,Thrombocytopenia,1,7,marker/mechanism,0
+5196,MESH:D013927,PF4,Thrombosis,1,4,marker/mechanism,0
+5241,MESH:D001943,PGR,Breast Neoplasms,1,2,marker/mechanism,0
+5241,MESH:D004715,PGR,Endometriosis,1,2,marker/mechanism,0
+5290,MESH:D001943,PIK3CA,Breast Neoplasms,1,8,marker/mechanism,0
+5290,MESH:D011471,PIK3CA,Prostatic Neoplasms,1,2,marker/mechanism,0
+5295,MESH:D011471,PIK3R1,Prostatic Neoplasms,1,3,marker/mechanism,0
+65018,MESH:D010300,PINK1,Parkinson Disease,1,6,marker/mechanism,0
+65018,MESH:D020734,PINK1,Parkinsonian Disorders,1,6,marker/mechanism,0
+5308,MESH:D019465,PITX2,Craniofacial Abnormalities,1,2,marker/mechanism,0
+5315,MESH:D009361,PKM,Neoplasm Invasiveness,1,2,marker/mechanism,0
+5327,MESH:D002545,PLAT,Brain Ischemia,1,26,therapeutic,0
+5327,MESH:D002543,PLAT,Cerebral Hemorrhage,1,24,marker/mechanism,0
+5327,MESH:D002544,PLAT,Cerebral Infarction,1,6,marker/mechanism|therapeutic,0
+5327,MESH:D006470,PLAT,Hemorrhage,1,8,marker/mechanism,0
+5327,MESH:D020244,PLAT,"Infarction, Middle Cerebral Artery",1,5,therapeutic,0
+5327,MESH:D020300,PLAT,Intracranial Hemorrhages,1,14,marker/mechanism,0
+5327,MESH:D000083242,PLAT,Ischemic Stroke,1,4,therapeutic,0
+5327,MESH:D009203,PLAT,Myocardial Infarction,1,34,therapeutic,0
+5327,MESH:D011655,PLAT,Pulmonary Embolism,1,9,marker/mechanism|therapeutic,0
+5327,MESH:D020521,PLAT,Stroke,1,60,marker/mechanism|therapeutic,0
+5327,MESH:D013927,PLAT,Thrombosis,1,4,marker/mechanism|therapeutic,0
+5327,MESH:D020301,PLAT,"Vasospasm, Intracranial",1,2,therapeutic,0
+5327,MESH:D020246,PLAT,Venous Thrombosis,1,3,therapeutic,0
+5328,MESH:D002545,PLAU,Brain Ischemia,1,4,therapeutic,0
+5328,MESH:D002543,PLAU,Cerebral Hemorrhage,1,5,marker/mechanism,0
+5328,MESH:D002544,PLAU,Cerebral Infarction,1,2,therapeutic,0
+5328,MESH:D002561,PLAU,Cerebrovascular Disorders,1,2,therapeutic,0
+5328,MESH:D003327,PLAU,Coronary Disease,1,2,therapeutic,0
+5328,MESH:D006470,PLAU,Hemorrhage,1,4,marker/mechanism,0
+5328,MESH:D020244,PLAU,"Infarction, Middle Cerebral Artery",1,3,therapeutic,0
+5328,MESH:D020300,PLAU,Intracranial Hemorrhages,1,4,marker/mechanism,0
+5328,MESH:D007511,PLAU,Ischemia,1,2,therapeutic,0
+5328,MESH:D008103,PLAU,Liver Cirrhosis,1,2,marker/mechanism|therapeutic,0
+5328,MESH:D009203,PLAU,Myocardial Infarction,1,6,marker/mechanism|therapeutic,0
+5328,MESH:D009361,PLAU,Neoplasm Invasiveness,1,2,marker/mechanism,0
+5328,MESH:D011471,PLAU,Prostatic Neoplasms,1,3,marker/mechanism,0
+5328,MESH:D011655,PLAU,Pulmonary Embolism,1,6,marker/mechanism|therapeutic,0
+5328,MESH:D013927,PLAU,Thrombosis,1,6,therapeutic,0
+5328,MESH:D020246,PLAU,Venous Thrombosis,1,4,therapeutic,0
+5371,MESH:D015473,PML,"Leukemia, Promyelocytic, Acute",1,22,marker/mechanism,0
+80339,MESH:D065626,PNPLA3,Non-alcoholic Fatty Liver Disease,1,3,marker/mechanism,0
+5443,MESH:D001714,POMC,Bipolar Disorder,1,2,marker/mechanism,0
+5443,MESH:D001919,POMC,Bradycardia,1,3,marker/mechanism,0
+5443,MESH:D006332,POMC,Cardiomegaly,1,6,marker/mechanism,0
+5443,MESH:D002312,POMC,"Cardiomyopathy, Hypertrophic",1,5,marker/mechanism,0
+5443,MESH:D002375,POMC,Catalepsy,1,2,marker/mechanism|therapeutic,0
+5443,MESH:D019970,POMC,Cocaine-Related Disorders,1,4,marker/mechanism,0
+5443,MESH:D003480,POMC,Cushing Syndrome,1,2,marker/mechanism,0
+5443,MESH:D004487,POMC,Edema,1,3,marker/mechanism,0
+5443,MESH:D005921,POMC,Glomerulonephritis,1,2,marker/mechanism,0
+5443,MESH:D006333,POMC,Heart Failure,1,2,marker/mechanism,0
+5443,MESH:D006417,POMC,Hematuria,1,2,marker/mechanism,0
+5443,MESH:D006470,POMC,Hemorrhage,1,2,marker/mechanism,0
+5443,MESH:D006973,POMC,Hypertension,1,68,marker/mechanism|therapeutic,0
+5443,MESH:D007008,POMC,Hypokalemia,1,9,marker/mechanism,0
+5443,MESH:D007022,POMC,Hypotension,1,4,marker/mechanism,0
+5443,MESH:D000860,POMC,Hypoxia,1,2,marker/mechanism,0
+5443,MESH:D008106,POMC,"Liver Cirrhosis, Experimental",1,2,therapeutic,0
+5443,MESH:D009103,POMC,Multiple Sclerosis,1,2,therapeutic,0
+5443,MESH:D009765,POMC,Obesity,1,2,marker/mechanism,0
+5443,MESH:D010024,POMC,Osteoporosis,1,5,marker/mechanism,0
+5443,MESH:D010146,POMC,Pain,1,3,marker/mechanism|therapeutic,0
+5443,MESH:D012640,POMC,Seizures,1,6,marker/mechanism|therapeutic,0
+5443,MESH:D013036,POMC,"Spasms, Infantile",1,20,marker/mechanism|therapeutic,0
+5443,MESH:D013375,POMC,Substance Withdrawal Syndrome,1,4,marker/mechanism|therapeutic,0
+5443,MESH:D015430,POMC,Weight Gain,1,2,marker/mechanism,0
+5443,MESH:D015431,POMC,Weight Loss,1,2,marker/mechanism,0
+5444,MESH:D000382,PON1,Agricultural Workers' Diseases,1,2,marker/mechanism,0
+5444,MESH:D050197,PON1,Atherosclerosis,1,6,marker/mechanism|therapeutic,0
+5444,MESH:D001321,PON1,Autistic Disorder,1,3,marker/mechanism,0
+5444,MESH:D002318,PON1,Cardiovascular Diseases,1,2,marker/mechanism|therapeutic,0
+5444,MESH:D003324,PON1,Coronary Artery Disease,1,3,marker/mechanism|therapeutic,0
+5444,MESH:D003327,PON1,Coronary Disease,1,2,marker/mechanism,0
+5444,MESH:D003920,PON1,Diabetes Mellitus,1,2,marker/mechanism,0
+5444,MESH:D003930,PON1,Diabetic Retinopathy,1,2,marker/mechanism,0
+5444,MESH:D020138,PON1,Hyperhomocysteinemia,1,2,marker/mechanism,0
+5444,MESH:D006938,PON1,Hyperlipoproteinemia Type II,1,2,marker/mechanism,0
+5444,MESH:D007248,PON1,"Infertility, Male",1,2,marker/mechanism,0
+5444,MESH:D062025,PON1,Organophosphate Poisoning,1,7,marker/mechanism|therapeutic,0
+5444,MESH:D011297,PON1,Prenatal Exposure Delayed Effects,1,2,marker/mechanism,0
+5444,MESH:D011471,PON1,Prostatic Neoplasms,1,3,marker/mechanism,0
+5465,MESH:D056486,PPARA,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+5465,MESH:D003921,PPARA,"Diabetes Mellitus, Experimental",1,3,marker/mechanism,0
+5465,MESH:D003924,PPARA,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+5465,MESH:D006973,PPARA,Hypertension,1,2,marker/mechanism|therapeutic,0
+5465,MESH:D007333,PPARA,Insulin Resistance,1,2,therapeutic,0
+5465,MESH:D008113,PPARA,Liver Neoplasms,1,2,marker/mechanism,0
+5465,MESH:D009765,PPARA,Obesity,1,2,marker/mechanism,0
+5467,MESH:D065626,PPARD,Non-alcoholic Fatty Liver Disease,1,2,marker/mechanism|therapeutic,0
+5467,MESH:D009765,PPARD,Obesity,1,2,therapeutic,0
+5467,MESH:D010523,PPARD,Peripheral Nervous System Diseases,1,2,marker/mechanism,0
+5467,MESH:D012878,PPARD,Skin Neoplasms,1,2,marker/mechanism|therapeutic,0
+5468,MESH:D058186,PPARG,Acute Kidney Injury,1,3,marker/mechanism|therapeutic,0
+5468,MESH:D000544,PPARG,Alzheimer Disease,1,3,marker/mechanism,0
+5468,MESH:D003921,PPARG,"Diabetes Mellitus, Experimental",1,3,marker/mechanism,0
+5468,MESH:D003924,PPARG,"Diabetes Mellitus, Type 2",1,7,marker/mechanism|therapeutic,0
+5468,MESH:D006973,PPARG,Hypertension,1,3,marker/mechanism|therapeutic,0
+5468,MESH:D007249,PPARG,Inflammation,1,2,marker/mechanism|therapeutic,0
+5468,MESH:D007333,PPARG,Insulin Resistance,1,3,therapeutic,0
+5468,MESH:D007511,PPARG,Ischemia,1,2,therapeutic,0
+5468,MESH:D008545,PPARG,Melanoma,1,2,marker/mechanism|therapeutic,0
+5468,MESH:D009765,PPARG,Obesity,1,2,marker/mechanism,0
+5468,MESH:D010190,PPARG,Pancreatic Neoplasms,1,2,marker/mechanism|therapeutic,0
+5468,MESH:D015427,PPARG,Reperfusion Injury,1,3,therapeutic,0
+5468,MESH:D013274,PPARG,Stomach Neoplasms,1,2,marker/mechanism|therapeutic,0
+10891,MESH:D003924,PPARGC1A,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+10891,MESH:D006333,PPARGC1A,Heart Failure,1,2,marker/mechanism,0
+5473,MESH:D006973,PPBP,Hypertension,1,2,marker/mechanism,0
+5580,MESH:D005334,PRKCD,Fever,1,2,therapeutic,0
+5581,MESH:D006930,PRKCE,Hyperalgesia,1,3,marker/mechanism,0
+5591,MESH:D011471,PRKDC,Prostatic Neoplasms,1,2,marker/mechanism,0
+5071,MESH:D008175,PRKN,Lung Neoplasms,1,2,marker/mechanism,0
+5071,MESH:D010300,PRKN,Parkinson Disease,1,13,marker/mechanism,0
+5071,MESH:D020734,PRKN,Parkinsonian Disorders,1,8,marker/mechanism|therapeutic,0
+5617,MESH:D000236,PRL,Adenoma,1,2,marker/mechanism,0
+5617,MESH:D007172,PRL,Erectile Dysfunction,1,5,marker/mechanism,0
+5617,MESH:D006177,PRL,Gynecomastia,1,2,marker/mechanism,0
+5617,MESH:D006966,PRL,Hyperprolactinemia,1,4,marker/mechanism,0
+5617,MESH:D007022,PRL,Hypotension,1,2,marker/mechanism,0
+5617,MESH:D015674,PRL,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+5617,MESH:D010911,PRL,Pituitary Neoplasms,1,3,marker/mechanism|therapeutic,0
+5617,MESH:D015175,PRL,Prolactinoma,1,4,marker/mechanism,0
+5617,MESH:D012735,PRL,"Sexual Dysfunction, Physiological",1,2,marker/mechanism,0
+5617,MESH:D020018,PRL,"Sexual Dysfunctions, Psychological",1,2,marker/mechanism,0
+5618,MESH:D002277,PRLR,Carcinoma,1,2,marker/mechanism,0
+5618,MESH:D015674,PRLR,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+5621,MESH:D012608,PRNP,Scrapie,1,4,marker/mechanism,0
+5624,MESH:D018805,PROC,Sepsis,1,2,therapeutic,0
+5624,MESH:D013927,PROC,Thrombosis,1,4,marker/mechanism,0
+5624,MESH:D054556,PROC,Venous Thromboembolism,1,2,marker/mechanism|therapeutic,0
+5624,MESH:D020246,PROC,Venous Thrombosis,1,2,marker/mechanism,0
+8842,MESH:D005909,PROM1,Glioblastoma,1,3,marker/mechanism,0
+8000,MESH:D013274,PSCA,Stomach Neoplasms,1,2,marker/mechanism,0
+8000,MESH:D001749,PSCA,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+5663,MESH:D000544,PSEN1,Alzheimer Disease,1,15,marker/mechanism,0
+5663,MESH:D004195,PSEN1,"Disease Models, Animal",1,2,marker/mechanism,0
+5663,MESH:D008569,PSEN1,Memory Disorders,1,3,marker/mechanism,0
+5663,MESH:D009410,PSEN1,Nerve Degeneration,1,2,marker/mechanism,0
+5727,MESH:D002280,PTCH1,Basal Cell Carcinoma,1,4,marker/mechanism,0
+5727,MESH:D019465,PTCH1,Craniofacial Abnormalities,1,2,marker/mechanism,0
+5727,MESH:D008527,PTCH1,Medulloblastoma,1,3,marker/mechanism,0
+5728,MESH:D001321,PTEN,Autistic Disorder,1,4,marker/mechanism,0
+5728,MESH:D001943,PTEN,Breast Neoplasms,1,4,marker/mechanism,0
+5728,MESH:D019465,PTEN,Craniofacial Abnormalities,1,6,marker/mechanism,0
+5728,MESH:D002658,PTEN,Developmental Disabilities,1,3,marker/mechanism,0
+5728,MESH:D016889,PTEN,Endometrial Neoplasms,1,4,marker/mechanism,0
+5728,MESH:D008175,PTEN,Lung Neoplasms,1,2,marker/mechanism,0
+5728,MESH:D008545,PTEN,Melanoma,1,3,marker/mechanism,0
+5728,MESH:D019048,PTEN,Prostatic Intraepithelial Neoplasia,1,2,marker/mechanism,0
+5728,MESH:D011471,PTEN,Prostatic Neoplasms,1,17,marker/mechanism,0
+5728,MESH:D000077195,PTEN,Squamous Cell Carcinoma of Head and Neck,1,2,marker/mechanism,0
+5742,MESH:D007417,PTGS1,Intestinal Polyps,1,2,marker/mechanism,0
+5742,MESH:D013276,PTGS1,Stomach Ulcer,1,2,marker/mechanism,0
+5743,MESH:D000230,PTGS2,Adenocarcinoma,1,2,marker/mechanism,0
+5743,MESH:D000690,PTGS2,Amyotrophic Lateral Sclerosis,1,2,marker/mechanism,0
+5743,MESH:D001172,PTGS2,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+5743,MESH:D055963,PTGS2,"Asthma, Aspirin-Induced",1,2,marker/mechanism,0
+5743,MESH:D001930,PTGS2,Brain Injuries,1,3,marker/mechanism,0
+5743,MESH:D002545,PTGS2,Brain Ischemia,1,4,marker/mechanism,0
+5743,MESH:D001943,PTGS2,Breast Neoplasms,1,5,marker/mechanism,0
+5743,MESH:D006528,PTGS2,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+5743,MESH:D002294,PTGS2,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+5743,MESH:D002295,PTGS2,"Carcinoma, Transitional Cell",1,4,marker/mechanism,0
+5743,MESH:D003110,PTGS2,Colonic Neoplasms,1,3,marker/mechanism,0
+5743,MESH:D015179,PTGS2,Colorectal Neoplasms,1,6,marker/mechanism,0
+5743,MESH:D003921,PTGS2,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+5743,MESH:D004938,PTGS2,Esophageal Neoplasms,1,3,marker/mechanism,0
+5743,MESH:D000077277,PTGS2,Esophageal Squamous Cell Carcinoma,1,3,marker/mechanism,0
+5743,MESH:D006930,PTGS2,Hyperalgesia,1,2,marker/mechanism,0
+5743,MESH:D006965,PTGS2,Hyperplasia,1,3,marker/mechanism,0
+5743,MESH:D006973,PTGS2,Hypertension,1,4,marker/mechanism|therapeutic,0
+5743,MESH:D007249,PTGS2,Inflammation,1,3,marker/mechanism,0
+5743,MESH:D007417,PTGS2,Intestinal Polyps,1,3,marker/mechanism,0
+5743,MESH:D008106,PTGS2,"Liver Cirrhosis, Experimental",1,2,marker/mechanism,0
+5743,MESH:D008545,PTGS2,Melanoma,1,3,marker/mechanism,0
+5743,MESH:D009362,PTGS2,Neoplasm Metastasis,1,2,marker/mechanism,0
+5743,MESH:D010190,PTGS2,Pancreatic Neoplasms,1,4,marker/mechanism,0
+5743,MESH:D010212,PTGS2,Papilloma,1,2,marker/mechanism,0
+5743,MESH:D011230,PTGS2,Precancerous Conditions,1,2,marker/mechanism,0
+5743,MESH:D047928,PTGS2,Premature Birth,1,2,marker/mechanism,0
+5743,MESH:D011471,PTGS2,Prostatic Neoplasms,1,5,marker/mechanism,0
+5743,MESH:D015427,PTGS2,Reperfusion Injury,1,6,marker/mechanism,0
+5743,MESH:D012878,PTGS2,Skin Neoplasms,1,3,marker/mechanism,0
+5743,MESH:D013274,PTGS2,Stomach Neoplasms,1,4,marker/mechanism,0
+5743,MESH:D013276,PTGS2,Stomach Ulcer,1,5,marker/mechanism,0
+5743,MESH:D014062,PTGS2,Tongue Neoplasms,1,2,marker/mechanism,0
+5743,MESH:D001749,PTGS2,Urinary Bladder Neoplasms,1,8,marker/mechanism,0
+5741,MESH:D000740,PTH,Anemia,1,2,marker/mechanism,0
+5741,MESH:D006934,PTH,Hypercalcemia,1,6,marker/mechanism,0
+5741,MESH:D006962,PTH,"Hyperparathyroidism, Secondary",1,3,marker/mechanism,0
+5741,MESH:D010024,PTH,Osteoporosis,1,6,therapeutic,0
+5744,MESH:D006934,PTHLH,Hypercalcemia,1,4,marker/mechanism,0
+5747,MESH:D001281,PTK2,Atrial Fibrillation,1,2,marker/mechanism,0
+5747,MESH:D002294,PTK2,"Carcinoma, Squamous Cell",1,2,marker/mechanism|therapeutic,0
+5747,MESH:D009361,PTK2,Neoplasm Invasiveness,1,2,marker/mechanism|therapeutic,0
+5796,MESH:D008545,PTPRK,Melanoma,1,2,marker/mechanism,0
+29108,MESH:D007674,PYCARD,Kidney Diseases,1,2,marker/mechanism|therapeutic,0
+5894,MESH:D002312,RAF1,"Cardiomyopathy, Hypertrophic",1,2,marker/mechanism,0
+5894,MESH:D008175,RAF1,Lung Neoplasms,1,2,marker/mechanism,0
+10743,MESH:D009765,RAI1,Obesity,1,2,marker/mechanism,0
+5901,MESH:D002277,RAN,Carcinoma,1,2,marker/mechanism,0
+5901,MESH:D015674,RAN,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+5901,MESH:D008325,RAN,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+5914,MESH:D015473,RARA,"Leukemia, Promyelocytic, Acute",1,25,marker/mechanism,0
+11186,MESH:D008654,RASSF1,Mesothelioma,1,2,marker/mechanism,0
+5925,MESH:D001943,RB1,Breast Neoplasms,1,3,marker/mechanism,0
+5925,MESH:D006528,RB1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+5925,MESH:D055752,RB1,Small Cell Lung Carcinoma,1,2,marker/mechanism,0
+54715,MESH:D001321,RBFOX1,Autistic Disorder,1,2,marker/mechanism,0
+5947,MESH:D013274,RBP1,Stomach Neoplasms,1,2,marker/mechanism,0
+5970,MESH:D000070642,RELA,"Brain Injuries, Traumatic",1,2,marker/mechanism,0
+5970,MESH:D002471,RELA,"Cell Transformation, Neoplastic",1,2,marker/mechanism,0
+5970,MESH:D018450,RELA,Disease Progression,1,2,marker/mechanism,0
+5970,MESH:D006973,RELA,Hypertension,1,3,marker/mechanism,0
+5970,MESH:D009361,RELA,Neoplasm Invasiveness,1,2,marker/mechanism,0
+5970,MESH:D015427,RELA,Reperfusion Injury,1,2,marker/mechanism,0
+5649,MESH:D000067877,RELN,Autism Spectrum Disorder,1,2,marker/mechanism,0
+5649,MESH:D001321,RELN,Autistic Disorder,1,3,marker/mechanism,0
+5649,MESH:D001714,RELN,Bipolar Disorder,1,3,marker/mechanism,0
+5649,MESH:D012559,RELN,Schizophrenia,1,4,marker/mechanism,0
+5972,MESH:D000419,REN,Albuminuria,1,2,marker/mechanism,0
+5972,MESH:D001477,REN,Bartter Syndrome,1,3,marker/mechanism,0
+5972,MESH:D006332,REN,Cardiomegaly,1,2,marker/mechanism,0
+5972,MESH:D006333,REN,Heart Failure,1,3,marker/mechanism,0
+5972,MESH:D006973,REN,Hypertension,1,18,marker/mechanism,0
+5972,MESH:D017379,REN,"Hypertrophy, Left Ventricular",1,2,marker/mechanism,0
+5972,MESH:D007022,REN,Hypotension,1,3,marker/mechanism|therapeutic,0
+5972,MESH:D007674,REN,Kidney Diseases,1,3,marker/mechanism,0
+5972,MESH:D011507,REN,Proteinuria,1,2,marker/mechanism,0
+6037,MESH:D001249,RNASE3,Asthma,1,3,marker/mechanism,0
+4549,MESH:D003638,RNR1,Deafness,1,4,marker/mechanism,0
+6095,MESH:D001321,RORA,Autistic Disorder,1,2,marker/mechanism,0
+6241,MESH:D006528,RRM2,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+861,MESH:D015470,RUNX1,"Leukemia, Myeloid, Acute",1,3,marker/mechanism,0
+861,MESH:D015452,RUNX1,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,1,2,marker/mechanism,0
+862,MESH:D015470,RUNX1T1,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+6261,MESH:D008305,RYR1,Malignant Hyperthermia,1,9,marker/mechanism,0
+6275,MESH:D009362,S100A4,Neoplasm Metastasis,1,3,marker/mechanism,0
+6285,MESH:D001714,S100B,Bipolar Disorder,1,2,marker/mechanism,0
+6285,MESH:D001930,S100B,Brain Injuries,1,2,marker/mechanism|therapeutic,0
+6285,MESH:D004195,S100B,"Disease Models, Animal",1,2,marker/mechanism,0
+6299,MESH:D017880,SALL1,"Limb Deformities, Congenital",1,2,marker/mechanism,0
+23314,MESH:D002972,SATB2,Cleft Palate,1,2,marker/mechanism,0
+6319,MESH:D002277,SCD,Carcinoma,1,2,marker/mechanism,0
+6319,MESH:D015674,SCD,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+6319,MESH:D008325,SCD,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+6323,MESH:D004831,SCN1A,"Epilepsies, Myoclonic",1,5,marker/mechanism,0
+6323,MESH:D004827,SCN1A,Epilepsy,1,4,marker/mechanism,0
+6323,MESH:D003294,SCN1A,"Seizures, Febrile",1,3,marker/mechanism,0
+6337,MESH:D003550,SCNN1A,Cystic Fibrosis,1,2,marker/mechanism,0
+6337,MESH:D006973,SCNN1A,Hypertension,1,2,marker/mechanism,0
+6337,MESH:D008171,SCNN1A,Lung Diseases,1,2,marker/mechanism,0
+6338,MESH:D003550,SCNN1B,Cystic Fibrosis,1,2,marker/mechanism,0
+6338,MESH:D006973,SCNN1B,Hypertension,1,3,marker/mechanism,0
+6338,MESH:D056929,SCNN1B,Liddle Syndrome,1,2,marker/mechanism,0
+6401,MESH:D002318,SELE,Cardiovascular Diseases,1,2,marker/mechanism,0
+6401,MESH:D015427,SELE,Reperfusion Injury,1,2,marker/mechanism,0
+8991,MESH:D000230,SELENBP1,Adenocarcinoma,1,2,marker/mechanism,0
+8991,MESH:D010051,SELENBP1,Ovarian Neoplasms,1,2,marker/mechanism,0
+8991,MESH:D012559,SELENBP1,Schizophrenia,1,2,marker/mechanism,0
+8991,MESH:D013274,SELENBP1,Stomach Neoplasms,1,2,marker/mechanism,0
+6414,MESH:D002277,SELENOP,Carcinoma,1,2,marker/mechanism,0
+6414,MESH:D015674,SELENOP,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+6414,MESH:D008325,SELENOP,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+6414,MESH:D009422,SELENOP,Nervous System Diseases,1,2,marker/mechanism,0
+5265,MESH:D006528,SERPINA1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+5265,MESH:D008103,SERPINA1,Liver Cirrhosis,1,3,marker/mechanism,0
+5265,MESH:D008107,SERPINA1,Liver Diseases,1,6,marker/mechanism,0
+5265,MESH:D029424,SERPINA1,"Pulmonary Disease, Chronic Obstructive",1,2,marker/mechanism,0
+462,MESH:D004211,SERPINC1,Disseminated Intravascular Coagulation,1,3,marker/mechanism|therapeutic,0
+462,MESH:D013927,SERPINC1,Thrombosis,1,4,marker/mechanism|therapeutic,0
+462,MESH:D020246,SERPINC1,Venous Thrombosis,1,3,marker/mechanism,0
+5054,MESH:D005234,SERPINE1,Fatty Liver,1,2,marker/mechanism,0
+5054,MESH:D006973,SERPINE1,Hypertension,1,2,marker/mechanism,0
+5054,MESH:D013927,SERPINE1,Thrombosis,1,2,marker/mechanism,0
+6441,MESH:D008175,SFTPD,Lung Neoplasms,1,2,marker/mechanism,0
+22941,MESH:D001321,SHANK2,Autistic Disorder,1,2,marker/mechanism,0
+85358,MESH:D000067877,SHANK3,Autism Spectrum Disorder,1,2,marker/mechanism,0
+85358,MESH:D001321,SHANK3,Autistic Disorder,1,3,marker/mechanism,0
+6464,MESH:D056486,SHC1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+10280,MESH:D019970,SIGMAR1,Cocaine-Related Disorders,1,2,marker/mechanism,0
+23411,MESH:D003092,SIRT1,Colitis,1,3,marker/mechanism,0
+23411,MESH:D003921,SIRT1,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+23411,MESH:D005234,SIRT1,Fatty Liver,1,5,marker/mechanism|therapeutic,0
+23411,MESH:D007333,SIRT1,Insulin Resistance,1,5,marker/mechanism|therapeutic,0
+23411,MESH:D019636,SIRT1,Neurodegenerative Diseases,1,2,therapeutic,0
+6573,MESH:D001321,SLC19A1,Autistic Disorder,1,2,marker/mechanism,0
+6505,MESH:D000067877,SLC1A1,Autism Spectrum Disorder,1,2,marker/mechanism,0
+6513,MESH:D002658,SLC2A1,Developmental Disabilities,1,3,marker/mechanism,0
+6513,MESH:D012640,SLC2A1,Seizures,1,3,marker/mechanism,0
+6517,MESH:D003921,SLC2A4,"Diabetes Mellitus, Experimental",1,4,marker/mechanism,0
+6517,MESH:D003924,SLC2A4,"Diabetes Mellitus, Type 2",1,4,marker/mechanism,0
+56606,MESH:D006073,SLC2A9,Gout,1,2,marker/mechanism,0
+55532,MESH:D020149,SLC30A10,Manganese Poisoning,1,2,marker/mechanism,0
+169026,MESH:D003924,SLC30A8,"Diabetes Mellitus, Type 2",1,6,marker/mechanism|therapeutic,0
+27173,MESH:D011471,SLC39A1,Prostatic Neoplasms,1,2,marker/mechanism,0
+55630,MESH:D000169,SLC39A4,Acrodermatitis,1,5,marker/mechanism,0
+55244,MESH:D007674,SLC47A1,Kidney Diseases,1,2,marker/mechanism,0
+123264,MESH:D002779,SLC51B,Cholestasis,1,2,marker/mechanism,0
+6528,MESH:D006528,SLC5A5,"Carcinoma, Hepatocellular",1,2,therapeutic,0
+6528,MESH:D011471,SLC5A5,Prostatic Neoplasms,1,2,therapeutic,0
+6528,MESH:D013964,SLC5A5,Thyroid Neoplasms,1,2,marker/mechanism|therapeutic,0
+6531,MESH:D001289,SLC6A3,Attention Deficit Disorder with Hyperactivity,1,4,marker/mechanism,0
+6531,MESH:D019970,SLC6A3,Cocaine-Related Disorders,1,4,marker/mechanism|therapeutic,0
+6531,MESH:D006948,SLC6A3,Hyperkinesis,1,2,marker/mechanism,0
+6531,MESH:D009410,SLC6A3,Nerve Degeneration,1,2,marker/mechanism,0
+6531,MESH:D010300,SLC6A3,Parkinson Disease,1,4,marker/mechanism,0
+6532,MESH:D000437,SLC6A4,Alcoholism,1,2,marker/mechanism,0
+6532,MESH:D001321,SLC6A4,Autistic Disorder,1,5,marker/mechanism,0
+6532,MESH:D001714,SLC6A4,Bipolar Disorder,1,2,marker/mechanism,0
+6532,MESH:D003866,SLC6A4,Depressive Disorder,1,4,marker/mechanism,0
+6532,MESH:D008569,SLC6A4,Memory Disorders,1,2,marker/mechanism,0
+10599,MESH:D009135,SLCO1B1,Muscular Diseases,1,5,marker/mechanism,0
+28234,MESH:D003110,SLCO1B3,Colonic Neoplasms,1,2,marker/mechanism,0
+28234,MESH:D008175,SLCO1B3,Lung Neoplasms,1,2,marker/mechanism,0
+4087,MESH:D019465,SMAD2,Craniofacial Abnormalities,1,2,marker/mechanism,0
+4088,MESH:D019465,SMAD3,Craniofacial Abnormalities,1,2,marker/mechanism,0
+4088,MESH:D010003,SMAD3,Osteoarthritis,1,2,marker/mechanism,0
+4089,MESH:D015179,SMAD4,Colorectal Neoplasms,1,3,marker/mechanism,0
+6597,MESH:D010051,SMARCA4,Ovarian Neoplasms,1,4,marker/mechanism,0
+6615,MESH:D001943,SNAI1,Breast Neoplasms,1,2,marker/mechanism,0
+6615,MESH:D009361,SNAI1,Neoplasm Invasiveness,1,2,marker/mechanism,0
+6615,MESH:D009362,SNAI1,Neoplasm Metastasis,1,2,marker/mechanism,0
+6622,MESH:D019969,SNCA,Amphetamine-Related Disorders,1,2,marker/mechanism,0
+6622,MESH:D004195,SNCA,"Disease Models, Animal",1,2,marker/mechanism,0
+6622,MESH:D009410,SNCA,Nerve Degeneration,1,5,marker/mechanism|therapeutic,0
+6622,MESH:D019636,SNCA,Neurodegenerative Diseases,1,3,marker/mechanism,0
+6622,MESH:D010300,SNCA,Parkinson Disease,1,29,marker/mechanism,0
+6622,MESH:D020734,SNCA,Parkinsonian Disorders,1,10,marker/mechanism,0
+6647,MESH:D000690,SOD1,Amyotrophic Lateral Sclerosis,1,37,marker/mechanism,0
+6647,MESH:D002471,SOD1,"Cell Transformation, Neoplastic",1,2,therapeutic,0
+6647,MESH:D056486,SOD1,Chemical and Drug Induced Liver Injury,1,2,marker/mechanism,0
+6647,MESH:D004195,SOD1,"Disease Models, Animal",1,11,marker/mechanism,0
+6647,MESH:D005911,SOD1,Gliosis,1,2,marker/mechanism,0
+6647,MESH:D006973,SOD1,Hypertension,1,3,marker/mechanism|therapeutic,0
+6647,MESH:D002546,SOD1,"Ischemic Attack, Transient",1,4,therapeutic,0
+6647,MESH:D018908,SOD1,Muscle Weakness,1,2,marker/mechanism,0
+6647,MESH:D009133,SOD1,Muscular Atrophy,1,2,marker/mechanism,0
+6647,MESH:D009410,SOD1,Nerve Degeneration,1,4,marker/mechanism,0
+6647,MESH:D010300,SOD1,Parkinson Disease,1,2,marker/mechanism|therapeutic,0
+6647,MESH:D015427,SOD1,Reperfusion Injury,1,4,marker/mechanism|therapeutic,0
+6647,MESH:D012162,SOD1,Retinal Degeneration,1,2,marker/mechanism|therapeutic,0
+6647,MESH:D015431,SOD1,Weight Loss,1,2,marker/mechanism,0
+6648,MESH:D001172,SOD2,"Arthritis, Rheumatoid",1,3,marker/mechanism,0
+6648,MESH:D050197,SOD2,Atherosclerosis,1,2,marker/mechanism|therapeutic,0
+6648,MESH:D002545,SOD2,Brain Ischemia,1,3,marker/mechanism,0
+6648,MESH:D001943,SOD2,Breast Neoplasms,1,4,marker/mechanism,0
+6648,MESH:D002277,SOD2,Carcinoma,1,2,marker/mechanism,0
+6648,MESH:D006528,SOD2,"Carcinoma, Hepatocellular",1,5,marker/mechanism,0
+6648,MESH:D002289,SOD2,"Carcinoma, Non-Small-Cell Lung",1,2,marker/mechanism,0
+6648,MESH:D002294,SOD2,"Carcinoma, Squamous Cell",1,2,marker/mechanism|therapeutic,0
+6648,MESH:D002311,SOD2,"Cardiomyopathy, Dilated",1,2,marker/mechanism,0
+6648,MESH:D002471,SOD2,"Cell Transformation, Neoplastic",1,5,marker/mechanism|therapeutic,0
+6648,MESH:D015179,SOD2,Colorectal Neoplasms,1,2,marker/mechanism,0
+6648,MESH:D016640,SOD2,"Diabetes, Gestational",1,3,marker/mechanism,0
+6648,MESH:D003921,SOD2,"Diabetes Mellitus, Experimental",1,2,marker/mechanism|therapeutic,0
+6648,MESH:D018450,SOD2,Disease Progression,1,7,marker/mechanism|therapeutic,0
+6648,MESH:D004938,SOD2,Esophageal Neoplasms,1,2,marker/mechanism,0
+6648,MESH:D000077277,SOD2,Esophageal Squamous Cell Carcinoma,1,2,marker/mechanism,0
+6648,MESH:D006333,SOD2,Heart Failure,1,5,marker/mechanism,0
+6648,MESH:D006973,SOD2,Hypertension,1,3,marker/mechanism,0
+6648,MESH:D000860,SOD2,Hypoxia,1,2,marker/mechanism,0
+6648,MESH:D007511,SOD2,Ischemia,1,2,therapeutic,0
+6648,MESH:D007674,SOD2,Kidney Diseases,1,2,marker/mechanism,0
+6648,MESH:D008654,SOD2,Mesothelioma,1,4,marker/mechanism,0
+6648,MESH:D009062,SOD2,Mouth Neoplasms,1,2,marker/mechanism|therapeutic,0
+6648,MESH:D009336,SOD2,Necrosis,1,2,marker/mechanism|therapeutic,0
+6648,MESH:D009361,SOD2,Neoplasm Invasiveness,1,6,marker/mechanism,0
+6648,MESH:D009362,SOD2,Neoplasm Metastasis,1,4,marker/mechanism,0
+6648,MESH:D009369,SOD2,Neoplasms,1,6,marker/mechanism|therapeutic,0
+6648,MESH:D019636,SOD2,Neurodegenerative Diseases,1,3,marker/mechanism,0
+6648,MESH:D009765,SOD2,Obesity,1,3,marker/mechanism,0
+6648,MESH:D010003,SOD2,Osteoarthritis,1,3,marker/mechanism,0
+6648,MESH:D010051,SOD2,Ovarian Neoplasms,1,2,marker/mechanism,0
+6648,MESH:D010190,SOD2,Pancreatic Neoplasms,1,2,marker/mechanism,0
+6648,MESH:D010300,SOD2,Parkinson Disease,1,3,marker/mechanism,0
+6648,MESH:D011230,SOD2,Precancerous Conditions,1,2,marker/mechanism,0
+6648,MESH:D011471,SOD2,Prostatic Neoplasms,1,8,marker/mechanism|therapeutic,0
+6648,MESH:D011833,SOD2,"Radiation Injuries, Experimental",1,2,therapeutic,0
+6648,MESH:D015427,SOD2,Reperfusion Injury,1,6,marker/mechanism|therapeutic,0
+6648,MESH:D012878,SOD2,Skin Neoplasms,1,4,marker/mechanism|therapeutic,0
+6648,MESH:D013274,SOD2,Stomach Neoplasms,1,4,marker/mechanism,0
+6648,MESH:D001749,SOD2,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+6648,MESH:D014605,SOD2,Uveitis,1,2,marker/mechanism,0
+6649,MESH:D006973,SOD3,Hypertension,1,2,marker/mechanism|therapeutic,0
+6649,MESH:D029424,SOD3,"Pulmonary Disease, Chronic Obstructive",1,2,marker/mechanism,0
+6667,MESH:D009361,SP1,Neoplasm Invasiveness,1,2,marker/mechanism,0
+6667,MESH:D009362,SP1,Neoplasm Metastasis,1,2,marker/mechanism,0
+26010,MESH:D001281,SPATS2L,Atrial Fibrillation,1,2,marker/mechanism,0
+6696,MESH:D058186,SPP1,Acute Kidney Injury,1,2,marker/mechanism,0
+6696,MESH:D000230,SPP1,Adenocarcinoma,1,2,marker/mechanism,0
+6696,MESH:D001195,SPP1,Asbestosis,1,2,marker/mechanism,0
+6696,MESH:D001943,SPP1,Breast Neoplasms,1,2,marker/mechanism,0
+6696,MESH:D007669,SPP1,Kidney Calculi,1,2,marker/mechanism,0
+6696,MESH:D008175,SPP1,Lung Neoplasms,1,2,marker/mechanism,0
+6696,MESH:D008654,SPP1,Mesothelioma,1,2,marker/mechanism,0
+6714,MESH:D009361,SRC,Neoplasm Invasiveness,1,2,marker/mechanism,0
+6714,MESH:D001749,SRC,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+6715,MESH:D004715,SRD5A1,Endometriosis,1,2,marker/mechanism,0
+6715,MESH:D011085,SRD5A1,Polycystic Ovary Syndrome,1,2,marker/mechanism,0
+6715,MESH:D011471,SRD5A1,Prostatic Neoplasms,1,2,marker/mechanism,0
+6716,MESH:D011471,SRD5A2,Prostatic Neoplasms,1,5,marker/mechanism,0
+6720,MESH:D006528,SREBF1,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+6720,MESH:D003921,SREBF1,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+6720,MESH:D065626,SREBF1,Non-alcoholic Fatty Liver Disease,1,2,marker/mechanism,0
+10735,MESH:D001749,STAG2,Urinary Bladder Neoplasms,1,3,marker/mechanism,0
+6774,MESH:D000230,STAT3,Adenocarcinoma,1,2,marker/mechanism,0
+6774,MESH:D001169,STAT3,"Arthritis, Experimental",1,2,marker/mechanism,0
+6774,MESH:D002294,STAT3,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+6774,MESH:D006332,STAT3,Cardiomegaly,1,3,marker/mechanism,0
+6774,MESH:D009202,STAT3,Cardiomyopathies,1,2,marker/mechanism|therapeutic,0
+6774,MESH:D002471,STAT3,"Cell Transformation, Neoplastic",1,3,marker/mechanism,0
+6774,MESH:D003093,STAT3,"Colitis, Ulcerative",1,2,marker/mechanism,0
+6774,MESH:D007249,STAT3,Inflammation,1,3,marker/mechanism|therapeutic,0
+6774,MESH:D008114,STAT3,"Liver Neoplasms, Experimental",1,2,marker/mechanism,0
+6774,MESH:D009362,STAT3,Neoplasm Metastasis,1,3,marker/mechanism,0
+6774,MESH:D010190,STAT3,Pancreatic Neoplasms,1,2,marker/mechanism,0
+6774,MESH:D011471,STAT3,Prostatic Neoplasms,1,3,marker/mechanism,0
+6776,MESH:D000230,STAT5A,Adenocarcinoma,1,2,marker/mechanism,0
+6776,MESH:D002277,STAT5A,Carcinoma,1,3,marker/mechanism,0
+6776,MESH:D015674,STAT5A,"Mammary Neoplasms, Animal",1,5,marker/mechanism,0
+6776,MESH:D008325,STAT5A,"Mammary Neoplasms, Experimental",1,3,marker/mechanism,0
+23224,MESH:D001281,SYNE2,Atrial Fibrillation,1,2,marker/mechanism,0
+6863,MESH:D001919,TAC1,Bradycardia,1,2,marker/mechanism,0
+6863,MESH:D006930,TAC1,Hyperalgesia,1,9,marker/mechanism,0
+6863,MESH:D006940,TAC1,Hyperemia,1,2,therapeutic,0
+6863,MESH:D007022,TAC1,Hypotension,1,2,marker/mechanism,0
+6863,MESH:D007249,TAC1,Inflammation,1,4,marker/mechanism,0
+6863,MESH:D020078,TAC1,Neurogenic Inflammation,1,5,marker/mechanism,0
+6863,MESH:D010146,TAC1,Pain,1,2,marker/mechanism,0
+23216,MESH:D009765,TBC1D1,Obesity,1,3,marker/mechanism,0
+6915,MESH:D055963,TBXA2R,"Asthma, Aspirin-Induced",1,2,marker/mechanism,0
+6915,MESH:D001791,TBXA2R,Blood Platelet Disorders,1,2,marker/mechanism,0
+7015,MESH:D006528,TERT,"Carcinoma, Hepatocellular",1,4,marker/mechanism,0
+7015,MESH:D005910,TERT,Glioma,1,2,marker/mechanism,0
+7015,MESH:D008175,TERT,Lung Neoplasms,1,3,marker/mechanism,0
+7015,MESH:D010190,TERT,Pancreatic Neoplasms,1,2,marker/mechanism,0
+7015,MESH:D011471,TERT,Prostatic Neoplasms,1,2,marker/mechanism,0
+7018,MESH:D000437,TF,Alcoholism,1,2,marker/mechanism,0
+7018,MESH:D000544,TF,Alzheimer Disease,1,2,marker/mechanism,0
+7018,MESH:D002277,TF,Carcinoma,1,2,marker/mechanism,0
+7018,MESH:D005234,TF,Fatty Liver,1,2,marker/mechanism,0
+7018,MESH:D015674,TF,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+7018,MESH:D008325,TF,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+7020,MESH:D019465,TFAP2A,Craniofacial Abnormalities,1,2,marker/mechanism,0
+7980,MESH:D001172,TFPI2,"Arthritis, Rheumatoid",1,2,marker/mechanism,0
+7980,MESH:D006528,TFPI2,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+7037,MESH:D018798,TFRC,"Anemia, Iron-Deficiency",1,3,marker/mechanism,0
+7037,MESH:D001943,TFRC,Breast Neoplasms,1,2,marker/mechanism,0
+7037,MESH:D009765,TFRC,Obesity,1,2,marker/mechanism,0
+7039,MESH:D006528,TGFA,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+7040,MESH:D001249,TGFB1,Asthma,1,2,marker/mechanism,0
+7040,MESH:D001607,TGFB1,Berylliosis,1,2,marker/mechanism,0
+7040,MESH:D003921,TGFB1,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+7040,MESH:D003928,TGFB1,Diabetic Nephropathies,1,2,marker/mechanism,0
+7040,MESH:D005355,TGFB1,Fibrosis,1,9,marker/mechanism,0
+7040,MESH:D005923,TGFB1,"Glomerulosclerosis, Focal Segmental",1,3,marker/mechanism,0
+7040,MESH:D006967,TGFB1,Hypersensitivity,1,2,marker/mechanism,0
+7040,MESH:D006973,TGFB1,Hypertension,1,2,marker/mechanism,0
+7040,MESH:D007249,TGFB1,Inflammation,1,2,marker/mechanism|therapeutic,0
+7040,MESH:D007674,TGFB1,Kidney Diseases,1,3,marker/mechanism|therapeutic,0
+7040,MESH:D008103,TGFB1,Liver Cirrhosis,1,5,marker/mechanism,0
+7040,MESH:D008106,TGFB1,"Liver Cirrhosis, Experimental",1,5,marker/mechanism|therapeutic,0
+7040,MESH:D008175,TGFB1,Lung Neoplasms,1,3,marker/mechanism|therapeutic,0
+7040,MESH:D009361,TGFB1,Neoplasm Invasiveness,1,6,marker/mechanism,0
+7040,MESH:D009362,TGFB1,Neoplasm Metastasis,1,4,marker/mechanism,0
+7040,MESH:D009404,TGFB1,Nephrotic Syndrome,1,3,marker/mechanism,0
+7040,MESH:D065626,TGFB1,Non-alcoholic Fatty Liver Disease,1,2,marker/mechanism,0
+7040,MESH:D011471,TGFB1,Prostatic Neoplasms,1,2,marker/mechanism,0
+7040,MESH:D029424,TGFB1,"Pulmonary Disease, Chronic Obstructive",1,2,marker/mechanism,0
+7040,MESH:D011658,TGFB1,Pulmonary Fibrosis,1,8,marker/mechanism,0
+7052,MESH:D005909,TGM2,Glioblastoma,1,2,marker/mechanism|therapeutic,0
+7054,MESH:D002375,TH,Catalepsy,1,2,marker/mechanism,0
+7054,MESH:D006973,TH,Hypertension,1,3,marker/mechanism,0
+7054,MESH:D007859,TH,Learning Disabilities,1,2,marker/mechanism,0
+7054,MESH:D020734,TH,Parkinsonian Disorders,1,2,marker/mechanism,0
+7056,MESH:D009203,THBD,Myocardial Infarction,1,2,marker/mechanism,0
+7056,MESH:D013927,THBD,Thrombosis,1,2,marker/mechanism,0
+7068,MESH:D001281,THRB,Atrial Fibrillation,1,2,marker/mechanism,0
+7076,MESH:D008106,TIMP1,"Liver Cirrhosis, Experimental",1,5,marker/mechanism,0
+7097,MESH:D015179,TLR2,Colorectal Neoplasms,1,2,marker/mechanism,0
+7097,MESH:D064420,TLR2,Drug-Related Side Effects and Adverse Reactions,1,2,marker/mechanism,0
+7099,MESH:D015179,TLR4,Colorectal Neoplasms,1,2,marker/mechanism,0
+7099,MESH:D005234,TLR4,Fatty Liver,1,2,marker/mechanism,0
+7099,MESH:D006973,TLR4,Hypertension,1,2,marker/mechanism,0
+7099,MESH:D007249,TLR4,Inflammation,1,4,marker/mechanism,0
+7099,MESH:D015427,TLR4,Reperfusion Injury,1,2,marker/mechanism,0
+7113,MESH:D000086382,TMPRSS2,COVID-19,1,3,marker/mechanism,0
+7113,MESH:D011471,TMPRSS2,Prostatic Neoplasms,1,4,marker/mechanism,0
+7124,MESH:D058186,TNF,Acute Kidney Injury,1,3,marker/mechanism,0
+7124,MESH:D000230,TNF,Adenocarcinoma,1,2,marker/mechanism|therapeutic,0
+7124,MESH:D001169,TNF,"Arthritis, Experimental",1,9,marker/mechanism,0
+7124,MESH:D015535,TNF,"Arthritis, Psoriatic",1,2,marker/mechanism,0
+7124,MESH:D001172,TNF,"Arthritis, Rheumatoid",1,5,marker/mechanism|therapeutic,0
+7124,MESH:D001195,TNF,Asbestosis,1,2,marker/mechanism,0
+7124,MESH:D001249,TNF,Asthma,1,5,marker/mechanism,0
+7124,MESH:D001607,TNF,Berylliosis,1,4,marker/mechanism,0
+7124,MESH:D001930,TNF,Brain Injuries,1,2,marker/mechanism,0
+7124,MESH:D001943,TNF,Breast Neoplasms,1,3,marker/mechanism,0
+7124,MESH:D006332,TNF,Cardiomegaly,1,3,marker/mechanism,0
+7124,MESH:D066126,TNF,Cardiotoxicity,1,2,marker/mechanism,0
+7124,MESH:D056486,TNF,Chemical and Drug Induced Liver Injury,1,7,marker/mechanism|therapeutic,0
+7124,MESH:D003092,TNF,Colitis,1,2,marker/mechanism,0
+7124,MESH:D003093,TNF,"Colitis, Ulcerative",1,3,marker/mechanism,0
+7124,MESH:D003110,TNF,Colonic Neoplasms,1,2,marker/mechanism|therapeutic,0
+7124,MESH:D003424,TNF,Crohn Disease,1,2,marker/mechanism,0
+7124,MESH:D003921,TNF,"Diabetes Mellitus, Experimental",1,6,marker/mechanism,0
+7124,MESH:D004342,TNF,Drug Hypersensitivity,1,2,marker/mechanism,0
+7124,MESH:D005334,TNF,Fever,1,3,marker/mechanism,0
+7124,MESH:D005921,TNF,Glomerulonephritis,1,2,marker/mechanism,0
+7124,MESH:D006333,TNF,Heart Failure,1,5,marker/mechanism,0
+7124,MESH:D006501,TNF,Hepatic Encephalopathy,1,2,marker/mechanism,0
+7124,MESH:D006930,TNF,Hyperalgesia,1,11,marker/mechanism,0
+7124,MESH:D006967,TNF,Hypersensitivity,1,2,marker/mechanism,0
+7124,MESH:D006973,TNF,Hypertension,1,5,marker/mechanism,0
+7124,MESH:D007022,TNF,Hypotension,1,2,marker/mechanism,0
+7124,MESH:D007035,TNF,Hypothermia,1,2,marker/mechanism,0
+7124,MESH:D007249,TNF,Inflammation,1,16,marker/mechanism,0
+7124,MESH:D015212,TNF,Inflammatory Bowel Diseases,1,2,marker/mechanism,0
+7124,MESH:D007333,TNF,Insulin Resistance,1,2,marker/mechanism,0
+7124,MESH:D007898,TNF,"Leishmaniasis, Visceral",1,2,marker/mechanism,0
+7124,MESH:D055370,TNF,Lung Injury,1,3,marker/mechanism|therapeutic,0
+7124,MESH:D008175,TNF,Lung Neoplasms,1,2,marker/mechanism,0
+7124,MESH:D008545,TNF,Melanoma,1,4,therapeutic,0
+7124,MESH:D009102,TNF,Multiple Organ Failure,1,2,marker/mechanism,0
+7124,MESH:D009203,TNF,Myocardial Infarction,1,2,marker/mechanism,0
+7124,MESH:D017202,TNF,Myocardial Ischemia,1,2,marker/mechanism,0
+7124,MESH:D009205,TNF,Myocarditis,1,2,marker/mechanism,0
+7124,MESH:D009336,TNF,Necrosis,1,4,marker/mechanism,0
+7124,MESH:D009361,TNF,Neoplasm Invasiveness,1,4,marker/mechanism,0
+7124,MESH:D009362,TNF,Neoplasm Metastasis,1,2,marker/mechanism,0
+7124,MESH:D009374,TNF,"Neoplasms, Experimental",1,3,therapeutic,0
+7124,MESH:D009410,TNF,Nerve Degeneration,1,3,marker/mechanism|therapeutic,0
+7124,MESH:D009765,TNF,Obesity,1,4,marker/mechanism,0
+7124,MESH:D010146,TNF,Pain,1,2,marker/mechanism,0
+7124,MESH:D011014,TNF,Pneumonia,1,3,marker/mechanism|therapeutic,0
+7124,MESH:D011565,TNF,Psoriasis,1,2,marker/mechanism,0
+7124,MESH:D029424,TNF,"Pulmonary Disease, Chronic Obstructive",1,2,marker/mechanism,0
+7124,MESH:D011654,TNF,Pulmonary Edema,1,2,marker/mechanism|therapeutic,0
+7124,MESH:D011658,TNF,Pulmonary Fibrosis,1,5,marker/mechanism,0
+7124,MESH:D015427,TNF,Reperfusion Injury,1,10,marker/mechanism,0
+7124,MESH:D012509,TNF,Sarcoma,1,4,therapeutic,0
+7124,MESH:D012559,TNF,Schizophrenia,1,2,marker/mechanism,0
+7124,MESH:D018805,TNF,Sepsis,1,3,marker/mechanism,0
+7124,MESH:D012983,TNF,Soft Tissue Neoplasms,1,2,therapeutic,0
+7124,MESH:D013274,TNF,Stomach Neoplasms,1,2,marker/mechanism|therapeutic,0
+7124,MESH:D014581,TNF,Urticaria,1,3,marker/mechanism,0
+7128,MESH:D001172,TNFAIP3,"Arthritis, Rheumatoid",1,5,marker/mechanism,0
+7128,MESH:D011565,TNFAIP3,Psoriasis,1,2,marker/mechanism,0
+4982,MESH:D001862,TNFRSF11B,Bone Resorption,1,3,marker/mechanism|therapeutic,0
+7132,MESH:D009103,TNFRSF1A,Multiple Sclerosis,1,2,marker/mechanism,0
+8743,MESH:D005910,TNFSF10,Glioma,1,2,therapeutic,0
+8743,MESH:D009374,TNFSF10,"Neoplasms, Experimental",1,3,therapeutic,0
+8743,MESH:D009389,TNFSF10,"Neovascularization, Pathologic",1,2,therapeutic,0
+8743,MESH:D011471,TNFSF10,Prostatic Neoplasms,1,4,therapeutic,0
+8744,MESH:D009205,TNFSF9,Myocarditis,1,2,marker/mechanism,0
+7153,MESH:D001943,TOP2A,Breast Neoplasms,1,4,marker/mechanism,0
+7153,MESH:D018450,TOP2A,Disease Progression,1,2,marker/mechanism,0
+7157,MESH:D000230,TP53,Adenocarcinoma,1,3,marker/mechanism|therapeutic,0
+7157,MESH:D018268,TP53,Adrenocortical Carcinoma,1,3,marker/mechanism,0
+7157,MESH:D020261,TP53,Arsenic Poisoning,1,2,marker/mechanism,0
+7157,MESH:D002280,TP53,Basal Cell Carcinoma,1,3,marker/mechanism,0
+7157,MESH:D001943,TP53,Breast Neoplasms,1,7,marker/mechanism,0
+7157,MESH:D002277,TP53,Carcinoma,1,2,marker/mechanism,0
+7157,MESH:D006528,TP53,"Carcinoma, Hepatocellular",1,6,marker/mechanism|therapeutic,0
+7157,MESH:D002289,TP53,"Carcinoma, Non-Small-Cell Lung",1,4,marker/mechanism,0
+7157,MESH:D002292,TP53,"Carcinoma, Renal Cell",1,4,marker/mechanism,0
+7157,MESH:D002294,TP53,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+7157,MESH:D066126,TP53,Cardiotoxicity,1,2,marker/mechanism,0
+7157,MESH:D003110,TP53,Colonic Neoplasms,1,3,marker/mechanism,0
+7157,MESH:D015179,TP53,Colorectal Neoplasms,1,8,marker/mechanism,0
+7157,MESH:D004938,TP53,Esophageal Neoplasms,1,2,marker/mechanism,0
+7157,MESH:D005706,TP53,Gallbladder Neoplasms,1,2,marker/mechanism,0
+7157,MESH:D005910,TP53,Glioma,1,3,marker/mechanism,0
+7157,MESH:D007642,TP53,Keratosis,1,2,marker/mechanism,0
+7157,MESH:D008113,TP53,Liver Neoplasms,1,2,marker/mechanism,0
+7157,MESH:D008175,TP53,Lung Neoplasms,1,6,marker/mechanism|therapeutic,0
+7157,MESH:D008545,TP53,Melanoma,1,4,marker/mechanism,0
+7157,MESH:D011471,TP53,Prostatic Neoplasms,1,8,marker/mechanism,0
+7157,MESH:D012559,TP53,Schizophrenia,1,2,marker/mechanism,0
+7157,MESH:D055752,TP53,Small Cell Lung Carcinoma,1,2,marker/mechanism,0
+7157,MESH:D000077195,TP53,Squamous Cell Carcinoma of Head and Neck,1,2,marker/mechanism,0
+7157,MESH:D013274,TP53,Stomach Neoplasms,1,2,marker/mechanism,0
+7157,MESH:D001749,TP53,Urinary Bladder Neoplasms,1,5,marker/mechanism,0
+8626,MESH:D008175,TP63,Lung Neoplasms,1,2,marker/mechanism,0
+7167,MESH:D000077192,TPI1,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+7170,MESH:D002277,TPM3,Carcinoma,1,2,marker/mechanism,0
+7170,MESH:D015674,TPM3,"Mammary Neoplasms, Animal",1,2,marker/mechanism,0
+7170,MESH:D008325,TPM3,"Mammary Neoplasms, Experimental",1,2,marker/mechanism,0
+7172,MESH:D007970,TPMT,Leukopenia,1,3,marker/mechanism,0
+7173,MESH:D003409,TPO,Congenital Hypothyroidism,1,4,marker/mechanism,0
+7173,MESH:D006042,TPO,Goiter,1,3,marker/mechanism,0
+8989,MESH:D006930,TRPA1,Hyperalgesia,1,3,marker/mechanism,0
+8989,MESH:D053201,TRPA1,"Urinary Bladder, Overactive",1,2,marker/mechanism|therapeutic,0
+7227,MESH:D019465,TRPS1,Craniofacial Abnormalities,1,2,marker/mechanism,0
+7442,MESH:D006930,TRPV1,Hyperalgesia,1,4,marker/mechanism,0
+7442,MESH:D007249,TRPV1,Inflammation,1,2,marker/mechanism,0
+7442,MESH:D010146,TRPV1,Pain,1,4,marker/mechanism|therapeutic,0
+85480,MESH:D003876,TSLP,"Dermatitis, Atopic",1,4,marker/mechanism,0
+706,MESH:D006501,TSPO,Hepatic Encephalopathy,1,2,marker/mechanism,0
+7274,MESH:C535393,TTPA,Ataxia with vitamin E deficiency,1,6,marker/mechanism,0
+7274,MESH:D004195,TTPA,"Disease Models, Animal",1,2,marker/mechanism,0
+7276,MESH:D008175,TTR,Lung Neoplasms,1,2,marker/mechanism,0
+1890,MESH:D002277,TYMP,Carcinoma,1,2,marker/mechanism,0
+1890,MESH:D015179,TYMP,Colorectal Neoplasms,1,2,marker/mechanism,0
+1890,MESH:D001749,TYMP,Urinary Bladder Neoplasms,1,2,marker/mechanism,0
+7298,MESH:D001943,TYMS,Breast Neoplasms,1,3,marker/mechanism,0
+7298,MESH:D006528,TYMS,"Carcinoma, Hepatocellular",1,2,marker/mechanism,0
+7298,MESH:D003110,TYMS,Colonic Neoplasms,1,6,marker/mechanism,0
+7298,MESH:D015179,TYMS,Colorectal Neoplasms,1,11,marker/mechanism,0
+7298,MESH:D064420,TYMS,Drug-Related Side Effects and Adverse Reactions,1,4,marker/mechanism,0
+7298,MESH:D008175,TYMS,Lung Neoplasms,1,2,marker/mechanism,0
+7298,MESH:D013274,TYMS,Stomach Neoplasms,1,4,marker/mechanism,0
+7351,MESH:D003921,UCP2,"Diabetes Mellitus, Experimental",1,2,marker/mechanism,0
+7351,MESH:D003924,UCP2,"Diabetes Mellitus, Type 2",1,2,marker/mechanism,0
+7372,MESH:D001943,UMPS,Breast Neoplasms,1,2,marker/mechanism,0
+7372,MESH:D015179,UMPS,Colorectal Neoplasms,1,2,marker/mechanism,0
+7372,MESH:D011471,UMPS,Prostatic Neoplasms,1,2,marker/mechanism,0
+7372,MESH:D013274,UMPS,Stomach Neoplasms,1,3,marker/mechanism,0
+81839,MESH:D009436,VANGL1,Neural Tube Defects,1,2,marker/mechanism,0
+7412,MESH:D002318,VCAM1,Cardiovascular Diseases,1,2,marker/mechanism,0
+7412,MESH:D006973,VCAM1,Hypertension,1,2,marker/mechanism,0
+7421,MESH:D000505,VDR,Alopecia,1,2,marker/mechanism,0
+7421,MESH:D001943,VDR,Breast Neoplasms,1,2,marker/mechanism,0
+7421,MESH:D007855,VDR,Lead Poisoning,1,2,marker/mechanism,0
+7421,MESH:D012279,VDR,Rickets,1,3,marker/mechanism,0
+7422,MESH:D058186,VEGFA,Acute Kidney Injury,1,2,marker/mechanism|therapeutic,0
+7422,MESH:D001169,VEGFA,"Arthritis, Experimental",1,2,marker/mechanism,0
+7422,MESH:D001249,VEGFA,Asthma,1,3,marker/mechanism,0
+7422,MESH:D002294,VEGFA,"Carcinoma, Squamous Cell",1,2,marker/mechanism,0
+7422,MESH:D003324,VEGFA,Coronary Artery Disease,1,2,marker/mechanism|therapeutic,0
+7422,MESH:D003930,VEGFA,Diabetic Retinopathy,1,3,marker/mechanism,0
+7422,MESH:D006333,VEGFA,Heart Failure,1,2,marker/mechanism,0
+7422,MESH:D008106,VEGFA,"Liver Cirrhosis, Experimental",1,2,marker/mechanism|therapeutic,0
+7422,MESH:D017202,VEGFA,Myocardial Ischemia,1,6,marker/mechanism|therapeutic,0
+7422,MESH:D009362,VEGFA,Neoplasm Metastasis,1,3,marker/mechanism,0
+7422,MESH:D009374,VEGFA,"Neoplasms, Experimental",1,3,marker/mechanism|therapeutic,0
+7422,MESH:D009389,VEGFA,"Neovascularization, Pathologic",1,2,marker/mechanism,0
+7422,MESH:D011471,VEGFA,Prostatic Neoplasms,1,4,marker/mechanism,0
+7424,MESH:D001943,VEGFC,Breast Neoplasms,1,2,marker/mechanism,0
+7431,MESH:D001943,VIM,Breast Neoplasms,1,4,marker/mechanism,0
+7431,MESH:D005355,VIM,Fibrosis,1,2,marker/mechanism,0
+7431,MESH:D008103,VIM,Liver Cirrhosis,1,3,marker/mechanism,0
+7431,MESH:D010003,VIM,Osteoarthritis,1,2,marker/mechanism,0
+7431,MESH:D011471,VIM,Prostatic Neoplasms,1,2,marker/mechanism,0
+79001,MESH:C563039,VKORC1,Coumarin Resistance,1,5,marker/mechanism,0
+79001,MESH:D006470,VKORC1,Hemorrhage,1,2,marker/mechanism,0
+7450,MESH:D006973,VWF,Hypertension,1,3,marker/mechanism,0
+7450,MESH:D013927,VWF,Thrombosis,1,2,marker/mechanism,0
+7472,MESH:D001321,WNT2,Autistic Disorder,1,2,marker/mechanism,0
+7490,MESH:D015470,WT1,"Leukemia, Myeloid, Acute",1,2,marker/mechanism,0
+7490,MESH:D009396,WT1,Wilms Tumor,1,2,marker/mechanism,0
+54739,MESH:D003110,XAF1,Colonic Neoplasms,1,2,marker/mechanism,0
+7507,MESH:D048629,XPA,"Micronuclei, Chromosome-Defective",1,2,marker/mechanism,0
+7507,MESH:D012878,XPA,Skin Neoplasms,1,2,marker/mechanism,0
+7508,MESH:D000077192,XPC,Adenocarcinoma of Lung,1,2,marker/mechanism,0
+7508,MESH:D008175,XPC,Lung Neoplasms,1,2,marker/mechanism,0
+7515,MESH:D008654,XRCC1,Mesothelioma,1,2,marker/mechanism,0
+7515,MESH:D048629,XRCC1,"Micronuclei, Chromosome-Defective",1,2,marker/mechanism,0
+7515,MESH:D011471,XRCC1,Prostatic Neoplasms,1,3,marker/mechanism,0
+7517,MESH:D012878,XRCC3,Skin Neoplasms,1,2,marker/mechanism,0
+10413,MESH:D001943,YAP1,Breast Neoplasms,1,2,marker/mechanism,0
+10413,MESH:D015179,YAP1,Colorectal Neoplasms,1,2,marker/mechanism,0
+6935,MESH:D001943,ZEB1,Breast Neoplasms,1,3,marker/mechanism,0
+9203,MESH:D011471,ZMYM3,Prostatic Neoplasms,1,3,marker/mechanism,0
