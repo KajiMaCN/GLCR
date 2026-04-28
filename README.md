@@ -145,10 +145,6 @@ If `--result_dir` is specified, the script writes:
 
 During training, logs are written to `logs/`, and cached split/context payloads are written to `cache/subgraph_features/`.
 
-## Configuration
-
-The release defaults are defined in [paper_configs.py](paper_configs.py). The released implementation uses a unified configuration for the four included benchmarks and applies the same optimization, sampling, and threshold-selection protocol across datasets. This release tracks the streamlined paper version with a **two-token micro-subgraph summary** and a **single adaptive utility gate**.
-
 ## Notes
 
 - This repository corresponds to the GLCR model described in the paper.
