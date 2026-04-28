@@ -46,7 +46,7 @@ GLCR 的核心思想是：三部图关联预测不能只依赖全局拓扑，也
 ## 仓库结构
 
 ```text
-GLCR_open_source/
+GLCR/
 ├── train_glcr.py
 ├── paper_configs.py
 ├── requirements.txt

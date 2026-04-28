@@ -46,7 +46,7 @@ GLCR is built around the idea that tripartite prediction should not rely on glob
 ## Repository Structure
 
 ```text
-GLCR_open_source/
+GLCR/
 ├── train_glcr.py
 ├── paper_configs.py
 ├── requirements.txt
